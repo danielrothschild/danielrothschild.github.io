@@ -71,14 +71,21 @@ pre {
   overflow-x: scroll;
 }
 
+
+
+
 a,
 a:visited {
-  color: #752FFF;
+  color: #444;
 }
 
 a:hover,
 a:focus,
 a:active {
+  color: #444;
+}
+
+a.paper{
   color: #752FFF;
 }
 
@@ -108,7 +115,8 @@ body {
 
 p,
 .modest-p {
-  font-size: 1rem;
+  /*font-size: 1rem;*/
+  font-size: .9rem;
   margin-bottom: 1.3rem;
 }
 
@@ -173,6 +181,8 @@ textarea {
   max-width: 100%;
 }
 
+
+
 /*@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
 
 @import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);*/
@@ -192,33 +202,56 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   margin: 0 auto;
-  /*max-width: 48rem;*/
+  max-width: 48rem;
   line-height: 1.45;
- /* padding: .25rem;*/
+ padding: 30px;
 }
 
 .section {
-  font-size: 80%;
+  font-size: 65%;
   letter-spacing: 2px;
 }
 
+.title {
+  font-size: 80%;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+   padding-bottom: 25px;
+}
+
+.title2 {
+  font-size: 80%;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+   padding-bottom: 10px;
+}
+
+.papers {
+  font-size: 100%;
+}
+
+
 #main {
-  max-width: 48rem;
-  margin: auto;
+  margin-left: 250px;
+}
+
+.blurb_text{
+  font-size: 70%;
+  padding-bottom: 20px;
 }
 
 #blurb {
-  margin-right: 20rem;
+  float: left;
+  max-width: 184px;
+
 }
+
 
 #nav {
     background-color: #333;
 }
 
-#pic {
-  float: right;
-  margin-right : 12rem;
-}
+
 
 
 .active {
