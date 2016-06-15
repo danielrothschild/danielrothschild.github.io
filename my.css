@@ -1,3 +1,5 @@
+
+
 @media print {
   *,
   *:before,
@@ -60,7 +62,7 @@
 
 pre,
 code {
-  font-family: Menlo, Monaco, "Courier New", monospace;
+  font-family:  Menlo, Monaco, "Courier New", monospace;
 }
 
 pre {
@@ -71,13 +73,13 @@ pre {
 
 a,
 a:visited {
-  color: #3498db;
+  color: #752FFF;
 }
 
 a:hover,
 a:focus,
 a:active {
-  color: #2980b9;
+  color: #752FFF;
 }
 
 .modest-no-decoration {
@@ -171,24 +173,117 @@ textarea {
   max-width: 100%;
 }
 
-@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
+/*@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700);
 
-@import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Arimo:700,700italic);*/
+
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 html {
   font-size: 18px;
   max-width: 100%;
 }
 
+
+
 body {
   color: #444;
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-weight: 300;
+  /*font-family: 'Open Sans Condensed', sans-serif;*/
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
   margin: 0 auto;
-  max-width: 48rem;
+  /*max-width: 48rem;*/
   line-height: 1.45;
-  padding: .25rem;
+ /* padding: .25rem;*/
 }
+
+.section {
+  font-size: 80%;
+  letter-spacing: 2px;
+}
+
+#main {
+  max-width: 48rem;
+  margin: auto;
+}
+
+#blurb {
+  margin-right: 20rem;
+}
+
+#nav {
+    background-color: #333;
+}
+
+#pic {
+  float: right;
+  margin-right : 12rem;
+}
+
+
+.active {
+    background-color: #6E6E6E;
+    color: black;
+}
+
+
+
+ul.navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /*background-color: #333;*/
+    max-width: 49.7rem;
+    margin: auto;
+}
+
+li.navigation {
+    float: left;
+}
+
+li a.navigation, .dropbtn {
+    font-size: 0.85rem;
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a.navigation:hover, .dropdown:hover .dropbtn {
+    background-color: #3498db;
+}
+
+li.dropdown {
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    font-size: 0.85rem;
+    padding: 8px 12px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+</style>
+
+
 
 h1,
 h2,
@@ -198,6 +293,8 @@ h5,
 h6 {
   font-family: Arimo, Helvetica, sans-serif;
 }
+
+
 
 h1,
 h2,
@@ -216,4 +313,13 @@ blockquote {
 pre,
 code {
   background-color: #fafafa;
+}
+
+footer {
+  bottom: 0;
+  left: 0;
+  position: fixed;
+  text-align: center;
+  width: 100%;
+  z-index: -1;
 }
