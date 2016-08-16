@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h2 id="a-puzzle-about-knowing-conditionals">A Puzzle about Knowing Conditionals</h2>
+<p>Daniel Rothschild and Levi Spectre</p>
+<p>This is a short explicit version of the argument in “A Puzzle about Knowing Odds” in <em>Noûs</em>. This is intended as a supplement to the paper, not a self-standing note.</p>
+<p>Notation:</p>
+<p><span class="math inline"><em>H</em><sub><em>n</em></sub></span>/<span class="math inline"><em>T</em><sub><em>n</em></sub></span> = <span class="math inline"><em>n</em></span>th coin land heads/tails.</p>
+<p><span class="math inline"><em>H</em><sub>1…<em>n</em></sub></span> = the coins from <span class="math inline">1</span> to <span class="math inline"><em>n</em></span> all land heads.</p>
+<p>Starting assumptions: (where <span class="math inline"><em>n</em></span> is used these are schematic for all <span class="math inline"><em>n</em></span> between 1 (or 2) and 1000)</p>
+<ol class="example" type="1">
+<li><span class="math inline"><em>K</em>(¬<em>H</em><sub>1…1000</sub>)</span> (<strong>Anti-skepticism</strong>)</li>
+<li>the probability of <span class="math inline"><em>H</em><sub><em>n</em></sub></span> = .5 (setup)</li>
+<li>the probability of <span class="math inline"><em>H</em><sub>1…<em>n</em> − 1</sub> → <em>T</em><sub><em>n</em></sub> = .5</span> (from <strong>Independence</strong> and <strong>Adam’s thesis</strong> and (2), this is only schematic for <span class="math inline"><em>n</em> &gt; 1</span> for obvious reasons)<br />
+</li>
+<li><span class="math inline">[<em>K</em>(<em>ϕ</em> ∨ <em>θ</em>)∧¬<em>K</em><em>ϕ</em> ∧ ¬<em>K</em><em>θ</em>]→<em>K</em>(¬<em>ϕ</em> → <em>θ</em>)</span> (<strong>Restricted or-to-if</strong>)</li>
+<li><span class="math inline"><em>K</em><em>ϕ</em>→</span> the probability of <span class="math inline"><em>ϕ</em></span> is greater than .5 (<strong>Knowledge and probability</strong>)</li>
+</ol>
+<p>Argument: (where <span class="math inline"><em>n</em></span> is used these are schematic for all <span class="math inline"><em>n</em></span> between 1 (or 2) and 1000)</p>
+<ol start="6" class="example" type="1">
+<li><span class="math inline">¬<em>K</em><em>H</em><sub><em>n</em></sub></span> (from (2) and (5) by <em>modus tollens</em>)</li>
+<li><span class="math inline">[<em>K</em>(¬<em>H</em><sub>1…<em>n</em> − 1</sub> ∨ <em>T</em><sub><em>n</em></sub>)∧¬<em>K</em><em>H</em><sub>1…<em>n</em> − 1</sub> ∧ ¬<em>K</em><em>T</em><sub><em>n</em></sub>]→<em>K</em>(<em>H</em><sub>1…<em>n</em> − 1</sub> → <em>T</em><sub><em>n</em></sub></span>) (from (4) with <em>double negation elimination</em>)</li>
+<li><span class="math inline">¬<em>K</em>(¬<em>H</em><sub>1…<em>n</em> − 1</sub> → <em>T</em><sub><em>n</em></sub>)</span> (from (3) and (5) by <em>modus tollens</em>)</li>
+<li><span class="math inline">¬[<em>K</em>(¬<em>H</em><sub>1…<em>n</em> − 1</sub> ∨ <em>T</em><sub><em>n</em></sub>)∧¬<em>K</em><em>H</em><sub>1…<em>n</em> − 1</sub> ∧ ¬<em>K</em><em>T</em><sub><em>n</em></sub>]</span> (from (7) and (8) by <em>modus tollens</em>)</li>
+<li><span class="math inline">¬[<em>K</em>(¬<em>H</em><sub>1…999</sub> ∨ <em>T</em><sub><em>n</em></sub>)∧¬<em>K</em><em>H</em><sub>1…999</sub> ∧ ¬<em>K</em><em>T</em><sub>1000</sub>]</span> (instance of (9))</li>
+<li><span class="math inline"><em>K</em>(¬<em>H</em><sub>1…999</sub> ∨ <em>T</em><sub><em>n</em></sub>)</span> (by (1) and closure of knowledge under logical equivalence)</li>
+<li><span class="math inline">¬(¬<em>K</em><em>H</em><sub>1…999</sub> ∧ ¬<em>K</em><em>T</em><sub>1000</sub>)</span> (from (10) by inference rule <span class="math inline">¬(<em>ϕ</em> ∧ <em>ψ</em>),<em>ϕ</em> ⊨ ¬<em>ψ</em></span>)</li>
+<li><span class="math inline"><em>K</em><em>H</em><sub>1…999</sub></span> (by (12) and (6) using <span class="math inline">¬(<em>ϕ</em> ∧ <em>ψ</em>),<em>ϕ</em> ⊨ ¬<em>ψ</em></span> and <em>double negation elimination</em>)</li>
+<li><span class="math inline"><em>K</em><em>H</em><sub>1</sub></span> (by repeating above reasoning 998 times)</li>
+</ol>
+<p>The only inference rules we used here are <em>double negation elimination</em>, <em>modus tollens</em>, <span class="math inline">¬(<em>ϕ</em> ∧ <em>ψ</em>),<em>ϕ</em> ⊨ ¬<em>ψ</em></span>. These are all valid in many non-classical logics where the <strong>LEM</strong> fails such as Strong Kleene and Łukasiewicz Logics.</p>
+<p>Thanks to Harvey Lederman for discussion of this argument.</p>
+</body>
+</html>
