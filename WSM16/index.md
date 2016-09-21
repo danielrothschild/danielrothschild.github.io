@@ -1,7 +1,7 @@
 Worlds, Sentences and Measures
 ============================
 
-a.k.a. Formal Methods in Philosophy (PHILG031)
+a.k.a. Formal Methods in Philosophy (PHIL3085/PHILGA84/PHILG085)
 
 [Daniel Rothschild](http://danielrothschild.com/)
 
@@ -34,6 +34,7 @@ Readings will be provided on moodle with the exception of the one textbook, [Sid
 
 [Lecture notes](https://www.dropbox.com/s/nkr0ukf2h8hhk8g/WSM%20Set%20Theory.pdf?dl=0)
 
+For readings see [Moodle](https://moodle.ucl.ac.uk/).
 
 ##### Propositional logic (and meta theory)
 
