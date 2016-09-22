@@ -14,13 +14,15 @@ The module will follow the standard UCL academic calendar for term 1: the first 
 
 #### Description
 
-A survey of some mathematics and logic common across contemporary philosophy.  Very basic knowledge of propositional and predicate logic will be helpful. 
+This course is a survey of some mathematics and logic commonly used across contemporary philosophy.  This will include some metatheory, modal logic, probability theory, and other topics of interest.  The aim is to equip you to be able to read and understand contemporary articles, while this class is sometimes at a high level it is specifically geared, as well, for students without a strong technical background. 
+
+Very basic knowledge of propositional and predicate logic will be helpful. 
 
 ####  Practical information:
 
 *All our welcome as auditors* and should feel free to come to any sessions (and may pick and choose according to interest). 
 
-There will be weekly problem sets  (9 in total), on which collaboration is encouraged.  For undergraduates there is a final exam (Problem sets are worth 60% and exam is worth 40%)
+There will be weekly problem sets  (9 in total), on which collaboration is encouraged.  For undergraduates there is a final exam (Problem sets are worth 60% and exam is worth 40%.)  Graduate students are not graded by exam but are required to answer more and more difficult problems.
 
 #### Readings
 
