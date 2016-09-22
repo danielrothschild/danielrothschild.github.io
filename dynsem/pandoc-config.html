@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <link rel="stylesheet" href="/css/retro.css">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<p>{ “pandoc<em>arguments“: { ////////////////////////////////////////////////////////////////////// // Arguments are explained in Pandoc’s documentation: // // http://johnmacfarlane.net/pandoc/README.html . // // The contents of this file will be merged with the package’s // // Pandown.sublime-settings file, the user’s Pandown.sublime-settings/ // file, and local project settings, with what’s specified here // // taking precedence. For more information about how to use this // // file, please see the Pandown README. // //////////////////////////////////////////////////////////////////////”markdown</em>extensions”: { ///////////////////////// // MARKDOWN EXTENSIONS // ///////////////////////// // A backslash followed by a newline is also a line break. “escaped<em>line</em>breaks”: true,</p>
+<pre><code>        // Require a blank line before a header.
+        &quot;blank_before_header&quot;: true,
+
+        // Headers can be assigned attributes using this syntax at the end of
+        // the line containing the header text:
+        // {#identifier .class .class key=value key=value}
+        &quot;header_attributes&quot;: true,
+
+        // A header without specified attributes will automatically be assigned
+        // a unique identifier based on the header text.
+        &quot;auto_identifiers&quot;: true,
+
+        // Pandoc assumes header references have been defined for each header.
+        &quot;implicit_header_references&quot;: true,
+
+        // Require a blank line before block quotes. In nested blockquotes,
+        // require:
+        // &gt; Quotation
+        // &gt;
+        // &gt; &gt; Quotation within quotation.
+        &quot;blank_before_blockquote&quot;: true,
+
+        // Fence code blocks off with tildes or backticks.
+        &quot;fenced_code_blocks&quot;: true,
+
+        // Start lines with pipe characters to and the division into lines and
+        // leading whitespace will be preserved. Useful for setting verse and
+        // addresses.
+        &quot;line_blocks&quot;: true,
+
+        // Pandoc allows fancier numbering using uppercase letters, lowercase
+        // letters and Roman numerals. List markers may be enclosed in parentheses
+        // or followed by a single right-parenthesis or period, then two spaces.
+        &quot;fancy_lists&quot;: true,
+
+        // Pandoc will pay attention to the starting number for each list.
+        &quot;startnum&quot;: true,
+
+        // Pandoc supports definition lists; see documentation here for the
+        // correct syntax: http://johnmacfarlane.net/pandoc/README.html#definition-lists
+        &quot;definition_lists&quot;: true,
+
+        // The list marker (@) can be used to sequentially number examples in
+        // a way that persists throughout the document.
+        &quot;example_lists&quot;: true,
+
+        // Pandoc supports four kinds of tables, the syntax for which is given at:
+        // http://johnmacfarlane.net/pandoc/README.html#tables.
+        &quot;simple_tables&quot;: true,
+        &quot;multiline_tables&quot;: true,
+        &quot;grid_tables&quot;: true,
+        &quot;pipe_tables&quot;: true,
+
+        // A table caption is a paragraph beginning with the string &quot;Table:&quot; or a
+        // colon alone. It may be placed at the beginning or end of a table.
+        &quot;table_captions&quot;: true,
+
+        // Pandoc allows the inclusion of a title block that will not appear in
+        // the body of the document:
+        // % Title
+        // % Author(s) (separated by semicolons)
+        // % Date
+        &quot;pandoc_title_block&quot;: true,
+
+        // A backslash may be used to escape any Markdown symbol.
+        &quot;all_symbols_escapable&quot;: true,
+
+        // Using underscores within a word for emphasis is disabled by
+        // default. Use * instead.
+        &quot;intraword_underscores&quot;: false,
+
+        // To strike letters in your text, surround them with ~~two tildes~~.
+        &quot;strikeout&quot;: true,
+
+        // Superscripts may be written by surrounding text with ^ characters,
+        // subscripts by surrounding text with ~ characters. Escape spaces within
+        // scripts using \ .
+        &quot;superscript&quot;: true,
+        &quot;subscript&quot;: true,
+
+        // Add attribtues, including syntax highlighting, to inline code.
+        &quot;inline_code_attributes&quot;: true,
+
+        // Text between two $ characters will be rendered as LaTeX math.
+        &quot;tex_math_dollars&quot;: true,
+
+        // The default behavior in Markdown allows you to insert raw HTML
+        // anywhere in a document.
+        &quot;raw_html&quot;: true,
+
+        // By default, Pandoc interprets Markdown in blocks of HTML as Markdown.
+        // This deviates from Markdown.pl&#39;s default behavior.
+        &quot;markdown_in_html_blocks&quot;: true,
+
+        // Pandoc allows raw TeX to be passed in addition to raw HTML.
+        &quot;raw_tex&quot;: true,
+
+        // If set to `true`, Pandoc will use \newcommand and \renewcommand
+        // definitions in all LaTeX math blocks.
+        &quot;latex_macros&quot;: true,
+
+        // An image occurring by itself in a paragraph will be rendered as a
+        // figure with a caption: ![This is the caption](path/to/image.jpg)
+        &quot;implicit_figures&quot;: true,
+
+        // Pandoc will parse footnotes in the syntax listed here:
+        // http://johnmacfarlane.net/pandoc/README.html#footnotes
+        &quot;footnotes&quot;: true,
+        &quot;inline_notes&quot;: true,
+
+        // Use the syntax given here for citations:
+        // http://johnmacfarlane.net/pandoc/README.html#citations
+        &quot;citations&quot;: true,
+
+        // All newlines within a paragraph will be interpreted as linebreaks
+        // rather than spaces.
+        &quot;hard_line_breaks&quot;: false,
+
+        // Anything between \( and \) will be interpreted as TeX inline math,
+        // and anything between \[ and \] as TeX display math.
+        &quot;tex_math_single_backslash&quot;: false,
+
+        // Same as above, but escaped with two backslashes.
+        &quot;tex_math_double_backslash&quot;: false,
+
+        // Markdown is only parsed within block-level tags if `markdown=1` is
+        // set in their attributes.
+        &quot;markdown_attribute&quot;: false,
+
+        // Enables a MultiMarkdown-style title block:
+        // Title:    My Title
+        // Author:   Arthur Author
+        // Date:     January 1, 2013
+        // Comment:  This is a mmd title block, and it even includes
+        //           a field spanning multiple lines.
+        &quot;mmd_title_block&quot;: false,
+
+        // Skip PHP Markdown Extra abbreviation keys instead of parsing them
+        // as paragraphs if set to `true`.
+        &quot;abbreviations&quot;: false,
+
+        // Makes all absolute URLs into links, even when not enclosed in &lt;...&gt;.
+        &quot;autolink_bare_uris&quot;: false,
+
+        // Parse (but ignore, at the moment) MMD-style key--value attribtues
+        // in image and link references.
+        &quot;link_attributes&quot;: false,
+
+        // Parses MMD-style header identifiers (in square brackets between header
+        // text and closing ATX #s.
+        &quot;mmd_header_identifiers&quot;: false
+    },
+
+
+
+
+    &quot;command_arguments&quot;:
+    {
+        ////////////////////////////
+        // COMMAND-LINE ARGUMENTS //
+        ////////////////////////////
+        // Modify this setting to tell Pandoc to look for any of the following
+        // in the specified directory rather than ~/.pandoc or Pandoc&#39;s default
+        // directory tree. Note that this is not an all-purpose includes
+        // directory---Pandoc will only look for these files and folders.
+        //      data_dir/
+        //          reference.odt
+        //          reference.docx
+        //          default.csl
+        //          epub.css
+        //          slidy/
+        //          slideous/
+        //          s5/
+        //          templates/
+        // Anything placed under templates and will be found by the &quot;template&quot;
+        // setting; otherwise, to set an include directory, use the &quot;includes_paths&quot;
+        // option above.
+        &quot;data-dir&quot;: &quot;&quot;,
+
+        // &quot;Parse untranslatable HTML codes and LaTeX environments as
+        // raw HTML or LaTeX, instead of ignoring them.&quot;
+        &quot;parse-raw&quot;: true,
+
+        // Straight quotes into curly quotes, --- to em-dash, -- to en-dash,
+        // ... to ellipsis, nonbreaking spaces after certain abbreviations.
+        &quot;smart&quot;: true,
+
+        // - before a numeral to en-dash, -- to em-dash
+        &quot;old-dashes&quot;: false,
+
+        // &quot;Speficy the base level for headers&quot;
+        // Specify a number or &quot;false&quot; to disable.
+        &quot;base-header-level&quot;: false,
+
+        // Apply code classes to all indented code blocks. N.B.:
+        // does not apply to fenced code, which must still be
+        // configured inline.
+        // MUST BE DEFINED AS A LIST, EVEN IF EMPTY. This is correct:
+        //      &quot;indented-code-classes&quot;: [],
+        // and so is this:
+        //      &quot;indented-code-classes&quot;: [ &quot;numberLines&quot; ],
+        // but this is not:
+        //      &quot;indented-code-classes&quot;: &quot;numberLines&quot;
+        &quot;indented-code-classes&quot;:
+        [
+        ],
+
+        // When image paths or URLs have no extension, this one
+        // will be used.
+        &quot;default-image-extension&quot;: &quot;&quot;,
+        
+        // Merge adjacent elements, remove repeated spaces, etc.
+        &quot;normalize&quot;: true,
+
+        // Set the number of spaces per tab. Should be set to
+        // &quot;false&quot; (for default behavior) or a number.
+        &quot;tab-stop&quot;: false,
+
+        // Generate &quot;an appropriate header and footer&quot;
+        &quot;standalone&quot;: true,
+
+        // Use a template file other than the default to
+        // generate output. Pandoc will look for a template in the
+        // working directory, then data_dir/templates/, then its
+        // built-in directory tree.
+        // See Pandoc&#39;s README for information about templates:
+        // http://johnmacfarlane.net/pandoc/README.html#templates
+        &quot;template&quot;: &quot;&quot;,
+
+        // Supply a dict of keys and values to be passed to
+        // the template file. Values may be lists
+        // if your template includes loops; see this plugin&#39;s README.
+        &quot;variables&quot;:
+        {
+        },
+
+        // By default, text is wrapped for the output format.
+        &quot;no-wrap&quot;: false,
+
+        // If wrapping text, wrap to &quot;columns&quot; columns.
+        // Specify a number or &quot;false&quot; to disable.
+        &quot;columns&quot;: false,
+
+        // Generate and include a table of contents.
+        &quot;table-of-contents&quot;: false,
+
+        // The number of section levels to include in the table of contents.
+        // Specify a number or &quot;false&quot; for default (3).
+        &quot;toc-depth&quot;: false,
+
+        // Disable syntax highlighting globally.
+        &quot;no-highlight&quot;: false,
+
+        // Style to use for syntax highlighting.
+        // Valid highlight_style values:
+        // &quot;pygments&quot; (default), &quot;kate&quot;, &quot;monochrome&quot;,
+        // &quot;espresso&quot;, &quot;zenburn&quot;, &quot;haddock&quot;, &quot;tango&quot;
+        &quot;highlight-style&quot;: &quot;pygments&quot;,
+
+
+        // Supply lists of files---NOT single file names---to include verbatim in the output.
+        // This is correct:
+        //          &quot;include_in_header&quot;: [ &quot;myfile&quot; ]
+        // and this is not:
+        //          &quot;include_in_header&quot;: &quot;myfile&quot;
+        // Default templates support multiple includes.
+        // Insert just before &lt;/head&gt;
+        &quot;include-in-header&quot;: [],
+        // Insert just after &lt;body&gt;
+        &quot;include-before-body&quot;: [],
+        // Insert includes just before &lt;/body&gt;
+        &quot;include-after-body&quot;: [],
+
+        // Convert includes to &#39;data:&#39; URIs so that the
+        // output can be viewed offline.
+        &quot;self-contained&quot;: false,
+
+        // Use &lt;q&gt; tags for quotes in HTML5 output
+        &quot;html-q-tags&quot;: false,
+
+        // In HTML output ONLY, restrict to ASCII characters
+        // with numerical HTML entities.
+        &quot;ascii&quot;: false,
+
+        // When outputting Markdown, use reference-style links (e.g. [go here!][1])
+        // rather than inline (e.g. [go here!](http://place.the) ).
+        &quot;reference-links&quot;: false,
+
+        // Force use of ATX-style headers (&quot;# H1&quot;, &quot;## H2&quot;, etc.) in output.
+        // The default is to use a combination, with setext-style headers:
+        // H1
+        // ===
+        //
+        // for H1 and H2, then ATX.
+        &quot;atx-headers&quot;: false,
+
+        // Top-level headers become TeX/Docbook chapters.
+        &quot;chapters&quot;: false,
+
+        // Generate section numbers.
+        &quot;number-sections&quot;: false,
+
+        // Sections in HTML output can be offset by a fixed number.
+        // The first number is added to the output for top-level
+        // headings, the second number to second-level headings,
+        // etc. Must be specified as a list.
+        &quot;number-offset&quot;:
+        [
+        ],
+
+        // &quot;Do not convert quotation marks, apostrophes, and dashes to the TeX ligatures&quot;
+        &quot;no-tex-ligatures&quot;: false,
+
+        // Use listings package for TeX code
+        &quot;listings&quot;: false,
+
+        // In slideshow output, display list items one slide at a time.
+        &quot;incremental&quot;: false,
+
+        // Header level at which to break slides. Above breaks sections, below
+        // creates subheads. Normally set based on context of document.
+        // See: http://johnmacfarlane.net/pandoc/README.html#structuring-the-slide-show
+        // Set to a number or &quot;false&quot; to disable.
+        &quot;slide-level&quot;: false,
+
+        // Enclose sections in &lt;div&gt; or &lt;section&gt; tags, attach &quot;id&quot; attributes based on
+        // the section name.
+        &quot;section-divs&quot;: false,
+
+        // Conceal mailto: links from robots.
+        // Acceptable values: &quot;none&quot;, &quot;javascript&quot;, &quot;references&quot;
+        &quot;email-obfuscation&quot;: &quot;references&quot;,
+
+        // &quot;Specify a prefix to be added to all automatically generated identifiers
+        // in HTML output. This is useful for preventing duplicate identifiers when
+        // generating fragments to be included in other pages.&quot;
+        &quot;id-prefix&quot;: &quot;&quot;,
+
+        // Insert a string before the header title tag but not the body title
+        &quot;title-prefix&quot;: &quot;&quot;,
+
+        // Link to any number of CSS stylesheets
+
+        &quot;css&quot;:
+        [
+            &quot;/css/retro.css&quot;
+        ],
+
+        // &quot;Use the specified file as a style reference in producing a [desired] file.
+        // For best results, the reference [file] should be a modified version of
+        // a [desired] file produced using pandoc.&quot;
+        &quot;reference-odt&quot;: &quot;&quot;,
+        &quot;reference-docx&quot;: &quot;&quot;,
+
+        // &quot;Use the specified CSS file to style the EPUB. If no stylesheet is specified,
+        // pandoc will look for a file epub.css in the user data directory (see --data-dir).
+        // If it is not found there, sensible defaults will be used.&quot;
+        &quot;epub-stylesheet&quot;: &quot;&quot;,
+        
+        // Set cover to a specified image.
+        &quot;epub-coverimage&quot;: &quot;&quot;,
+
+        // Link to an XML file containing EPUB metadata in Dublin Core Elements format.
+        // See http://dublincore.org/documents/dces/
+        &quot;epub-metadata&quot;: &quot;&quot;,
+
+        // Use the stylesheet specified to embed fonts. Should contain a series of
+        // @font-face elements and CSS describing where they&#39;re to be used.
+        &quot;epub-embed-font&quot;: &quot;&quot;,
+
+        // Appropriate values: &quot;pdflatex&quot; (default), &quot;xelatex&quot;, &quot;lulalatex&quot;
+        &quot;latex-engine&quot;: &quot;&quot;,
+
+        // Specify bibliography database to be used in resolving citations. The database
+        // type will be determined from the extension of FILE, which may be .mods (MODS format),
+        // .bib (BibTeX/BibLaTeX format), .ris (RIS format), .enl (EndNote format), .xml (EndNote XML format),
+        // .wos (ISI format), .medline (MEDLINE format), .copac (Copac format), or .json (citeproc JSON).
+        // If you want to use multiple bibliographies, just use this option repeatedly.
+        &quot;bibliography&quot;: &quot;&quot;,
+
+        // Link to a CSL (http://citationstyles.org) file for formatting citations.
+        &quot;csl&quot;: &quot;&quot;,
+
+        // &quot;Specify a file containing abbreviations for journal titles and other
+        // bibliographic fields (indicated by setting form=&quot;short&quot; in the CSL node
+        // for the field). The format is described at
+        // http://citationstylist.org/2011/10/19/abbreviations-for-zotero-test-release/&quot;
+        &quot;citation-abbreviations&quot;: &quot;&quot;,
+
+        // Use natbib for LaTeX citations.
+        &quot;natbib&quot;: false,
+
+        // Use BibLaTeX for LaTeX citations.
+        &quot;biblatex&quot;: false,
+
+
+        // Place TeX math between &lt;eq&gt; tags in HTML output.
+        &quot;gladtex&quot;: false,
+        
+        // Each of the following can be false, true, or a URL string.
+        // Setting to a URL string implies true.
+        // Use http://math.etsu.edu/LaTeXMathML/ to format TeX math. If no URL
+        // is specified, Pandoc will insert the code for you.
+        &quot;latexmathml&quot;: false,
+        // Convert TeX math to MathML and include a JavaScript to display.
+        &quot;mathml&quot;: false,
+        // Use http://www.math.union.edu/~dpvc/jsmath/ for TeX math. URL must point
+        // to its load script, which will not be automatically added by Pandoc.
+        &quot;jsmath&quot;: false,
+        // Use http://www.mathjax.org/ for TeX math. URL must point to MathJax.jds
+        // load script. If no URL is provided, Pandoc script will add one.
+        &quot;mathjax&quot;: false,
+        // Render TeX math with mimetex (http://www.forkosh.com/mimetex.html). If no
+        // URL is supplied, /cgi-bin/mimetex.cgi is assumed.
+        &quot;mimetex&quot;: false,
+        // Render TeX formulas using an external script that converts TeX formulas
+        // to images. The formula will be concatenated with the URL provided.
+        // If URL is not specified, the Google Chart API will be used.
+        &quot;webtex&quot;: false
+    }
+}</code></pre>
+<p>}</p>
+</body>
+</html>
