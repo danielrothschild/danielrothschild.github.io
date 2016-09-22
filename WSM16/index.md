@@ -16,7 +16,9 @@ The module will follow the standard UCL academic calendar for term 1: the first 
 
 This course is a survey of some mathematics and logic commonly used across contemporary philosophy.  This will include some metatheory, modal logic, probability theory, and other topics of interest.  The aim is to equip you to be able to read and understand contemporary articles, while this class is sometimes at a high level it is specifically geared, as well, for students without a strong technical background. 
 
-Very basic knowledge of propositional and predicate logic will be helpful. 
+#### Prerequisites
+
+Basic knowledge of propositional and predicate logic will be assumed, though we will not rely explicitly on any previous content.  For those wishing to do some background reading they may find David Papineau's [Philosophical Devices](https://www.amazon.co.uk/Philosophical-Devices-Proofs-Probabilities-Possibilities/dp/0199651736) helpful. 
 
 ####  Practical information:
 
@@ -27,6 +29,8 @@ There will be weekly problem sets  (9 in total), on which collaboration is encou
 #### Readings
 
 Readings will be provided on moodle with the exception of the one textbook, [Sider, Logic for Philosophy](https://www.amazon.co.uk/Logic-Philosophy-Theodore-Sider/dp/0199575584)
+
+John Burgess's book [Philosophical Logic](https://www.amazon.co.uk/Philosophical-Princeton-Foundations-Contemporary-Philosophy/dp/0691156336), covers some of the topics covered in the course.
 
 #### Schedule:
 
