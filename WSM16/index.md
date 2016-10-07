@@ -40,7 +40,9 @@ John Burgess's book [Philosophical Logic](https://www.amazon.co.uk/Philosophical
 
 [Lecture notes](https://www.dropbox.com/s/nkr0ukf2h8hhk8g/WSM%20Set%20Theory.pdf?dl=0)
 
-For readings see [Moodle](https://moodle.ucl.ac.uk/).
+For readings see [Moodle](https://moodle.ucl.ac.uk/), or email me for dropbox link.
+
+[Problem set 1](https://www.dropbox.com/s/y1jqr2qp3xajsww/WSMPS1.pdf?dl=0) (please submit by email to <tom.e.williams@ucl.ac.uk> before 10pm on the day before the next lecture, use 'WSM PS1' in subject)
 
 ##### Propositional logic (and meta theory)
 
