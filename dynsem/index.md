@@ -36,13 +36,16 @@ Enrolled students will be required to submit a short paper (what linguists call 
 
 ##### Introduction
 
-__Week 1__ (October 7) Semantics and pragmatics
+__Week 1__ (October 7) Semantics and pragmatics ([Handout](https://www.dropbox.com/s/kbhq2s0air660va/DYNSEM%20-%20week%201.pdf?dl=0))
 
 
+##### Dynamic accounts 
 
-##### Dynamic accounts
+__Week 2__ (October 14) Anaphora ([Handout](https://www.dropbox.com/s/6a35d40q0e3jxqg/DYNSEM%20-%20week%202.pdf?dl=0))
 
-__Week 2__ (October 14) Anaphora 
+See my webpage on dynamic contexts [here](http://dynsem.github.io/dc.html).
+
+
 
 __Week 3__ (October 21) Presupposition
 
