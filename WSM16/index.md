@@ -42,16 +42,17 @@ John Burgess's book [Philosophical Logic](https://www.amazon.co.uk/Philosophical
 
 For readings see [Moodle](https://moodle.ucl.ac.uk/), or email me for dropbox link.
 
-[Problem set 1](https://www.dropbox.com/s/y1jqr2qp3xajsww/WSMPS1.pdf?dl=0) (please submit by email to <tom.e.williams@ucl.ac.uk> before 10pm on the day before the next lecture, use 'WSM PS1' in subject)
+[Problem set 1](https://www.dropbox.com/s/y1jqr2qp3xajsww/WSMPS1.pdf?dl=0)
 
 [Week 2 - Lecture notes](https://www.dropbox.com/s/507ij7z1axzhxac/WSM16%20%2B%20ST%20%2BPL.pdf?dl=0)
 
-[Problem set 2](https://www.dropbox.com/s/hezilxszexj4d7f/PS2.pdf?dl=0) (please submit by email to <tom.e.williams@ucl.ac.uk> before 10pm on the day before the next lecture, use 'WSM PS2' in subject)
+[Problem set 2](https://www.dropbox.com/s/hezilxszexj4d7f/PS2.pdf?dl=0)
 
 ##### Propositional logic (and meta theory)
 
 [Week 3 - Lecture notes](https://www.dropbox.com/s/i6jut1z8pvbtmm4/WSM16%20PL2.pdf?dl=0)
 
+[Problem set 3](https://www.dropbox.com/s/cko85ql54c5djvu/WSM16%20PS3.pdf?dl=0)
 
 
 ##### Non-classical logic
