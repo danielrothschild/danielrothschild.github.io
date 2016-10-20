@@ -43,11 +43,11 @@ __Week 1__ (October 7) Semantics and pragmatics ([Handout](https://www.dropbox.c
 
 __Week 2__ (October 14) Anaphora ([Handout](https://www.dropbox.com/s/6a35d40q0e3jxqg/DYNSEM%20-%20week%202.pdf?dl=0))
 
-See my webpage on dynamic contexts [here](http://dynsem.github.io/dc.html).
+See my webpage on dynamic contexts [here](http://dynsem.github.io/dc.html).  [Yalcin's article](https://dl.dropboxusercontent.com/u/14251569/Published/yalcin-2013-dynamic-notes%20%281%29.pdf) provides a good comparison point.
 
 
 
-__Week 3__ (October 21) Presupposition
+__Week 3__ (October 21) Presupposition ([Handout](https://www.dropbox.com/s/9vpcs258cykaybx/DYNSEM%20-%20week%203.pdf?dl=0))
 
 __Week 4__ (October 28) Epistemic modals
 
