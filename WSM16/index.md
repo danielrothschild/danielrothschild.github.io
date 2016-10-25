@@ -57,7 +57,7 @@ For readings see [Moodle](https://moodle.ucl.ac.uk/), or email me for dropbox li
 
 ##### Non-classical logic
 
-[Week 4 - Lecture notes](https://www.dropbox.com/s/tl1234gyeiamitl/WSM16%20PL3.tex?dl=0)
+[Week 4 - Lecture notes](https://www.dropbox.com/s/bzas3egi6tunz7q/WSM16%20PL3.pdf?dl=0)
 
 [Problem set 4](https://www.dropbox.com/s/k25ulf5ma6qejhg/WSM16%20-%20PS4.pdf?dl=0)
 
