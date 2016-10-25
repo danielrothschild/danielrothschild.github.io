@@ -38,7 +38,7 @@ John Burgess's book [Philosophical Logic](https://www.amazon.co.uk/Philosophical
 
 ##### Set Theory
 
-[Lecture notes](https://www.dropbox.com/s/nkr0ukf2h8hhk8g/WSM%20Set%20Theory.pdf?dl=0)
+[Week 1 - Lecture notes](https://www.dropbox.com/s/nkr0ukf2h8hhk8g/WSM%20Set%20Theory.pdf?dl=0)
 
 For readings see [Moodle](https://moodle.ucl.ac.uk/), or email me for dropbox link.
 
@@ -56,6 +56,10 @@ For readings see [Moodle](https://moodle.ucl.ac.uk/), or email me for dropbox li
 
 
 ##### Non-classical logic
+
+[Week 4 - Lecture notes](https://www.dropbox.com/s/tl1234gyeiamitl/WSM16%20PL3.tex?dl=0)
+
+[Problem set 4](https://www.dropbox.com/s/k25ulf5ma6qejhg/WSM16%20-%20PS4.pdf?dl=0)
 
 ##### Modal Logic
 
