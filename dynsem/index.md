@@ -47,11 +47,13 @@ See my webpage on dynamic contexts [here](http://dynsem.github.io/dc.html).  [Ya
 
 
 
-__Week 3__ (October 21) Presupposition ([Handout](https://www.dropbox.com/s/9vpcs258cykaybx/DYNSEM%20-%20week%203.pdf?dl=0))
+__Week 3-4__ (October 21/28) More Anaphora/Presupposition ([Handout](https://www.dropbox.com/s/9vpcs258cykaybx/DYNSEM%20-%20week%203.pdf?dl=0))
 
-__Week 4__ (October 28) Epistemic modals
+[Second handout- Week 4](https://www.dropbox.com/s/p7h8ugqgkfwkesq/DYNSEM%20-%20week%204.pdf?dl=0)
 
-__Week 5__ (November 4) Interactions/further applications
+
+__Week 5__ (November 4) Epistemic modals
+
 
 ##### Critiques and alternatives
 
