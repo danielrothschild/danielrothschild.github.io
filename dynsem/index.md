@@ -57,7 +57,7 @@ __Week 5__ (November 4) Epistemic modals
 
 [Technical summary](https://www.dropbox.com/s/xlw2mokp6xydo86/DYNSEM%20-%20summary.pdf?dl=0), please email me with any questions/ to note typos etc.
 
-Problem set (coming soon!)
+[Problem set](https://www.dropbox.com/s/mp2ixh2svq3bgfl/DYNSEM%20-%20problem%20set.pdf?dl=0)
 
 
 ##### Critiques and alternatives
