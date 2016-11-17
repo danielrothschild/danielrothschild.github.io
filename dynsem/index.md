@@ -50,7 +50,7 @@ __Week 3-4__ (October 21/28) More Anaphora/Presupposition ([Handout](https://www
 [Second handout- Week 4](https://www.dropbox.com/s/p7h8ugqgkfwkesq/DYNSEM%20-%20week%204.pdf?dl=0)
 
 
-__Week 5__ (November 4) Epistemic modals
+__Week 5__ (November 4) Epistemic modals ([Handout](https://www.dropbox.com/s/22s50i565ymtdmg/DYNSEM%20-%20week%205.pdf?dl=0))
 
 
 ##### Break!
@@ -62,11 +62,11 @@ __Week 5__ (November 4) Epistemic modals
 
 ##### Critiques and alternatives
 
-__Week 6__ (November 18) Gricean inspired accounts of presupposition (including Schlenker's local contexts)
-
-__Week 7__ (November 25) E-type theories of anaphora
+__Week 6__ (November 25) E-type theories of anaphora
 
 __Week 8__ (December 2) Other 'static' accounts of anaphora
+
+__Week 7__ (November 18) Gricean inspired accounts of presupposition (including Schlenker's local contexts)
 
 __Week 9__ (December 9) Modality without dynamics
 
@@ -152,6 +152,8 @@ Philippe Schlenker, [Local Contexts](semprag.org/article/viewFile/sp.2.3/71)
 ##### E-type approaches
 
 Irene Heim, [E-type pronouns and donkey anaphora](http://www.sfs.uni-tuebingen.de/~astechow/Lehre/WS06_7/SemantikII/Literatur/HeimEtype.pdf)
+
+Paul Elbourne, [Situations and Individuals](http://semantics.uchicago.edu/kennedy/classes/s08/semantics2/elbourne05.pdf)
 
 Karen Lewis and Jeff King, [Anaphora](http://plato.stanford.edu/entries/anaphora/)
 
