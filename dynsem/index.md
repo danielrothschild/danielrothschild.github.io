@@ -64,9 +64,9 @@ __Week 5__ (November 4) Epistemic modals ([Handout](https://www.dropbox.com/s/22
 
 __Week 6__ (November 25) E-type theories of anaphora
 
-__Week 8__ (December 2) Other 'static' accounts of anaphora
+__Week 7__ (December 2) Other 'static' accounts of anaphora
 
-__Week 7__ (November 18) Gricean inspired accounts of presupposition (including Schlenker's local contexts)
+__Week 8__ (November 18) Gricean inspired accounts of presupposition (including Schlenker's local contexts)
 
 __Week 9__ (December 9) Modality without dynamics
 
