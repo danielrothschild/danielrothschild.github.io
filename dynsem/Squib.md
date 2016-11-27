@@ -41,7 +41,16 @@ More semantic:
 
 - Issue coming from problem set: is there a good reason to have *partial* assignment functions in our representation of content, or can we just use sets of world-assignment function pairs.
 
-- Is Coopers e-type theory (as discussed by Heim) really doomed?  Are her arguments against it convincing? (See her discussion of the *formal link* in the e-type paper).
+- Is Cooper's e-type theory (as discussed by Heim) really doomed?  Are her arguments against it convincing? (See her discussion of the *formal link* in the e-type paper).
+
+- What is there to say about Partee's sentence:
+
+(@) Either there is no bathroom or it is very well-hidden.
+
+
+
+
+
    
 More philosophical:
 ----
@@ -57,4 +66,6 @@ More philosophical:
 - Does [Lewis](https://www.dropbox.com/s/51jo3llkze2vtw6/Indefinites_revised.pdf) give an effective critique of dynamic semantics?
 
 - Evaluate an argument in [Stalnaker's](https://www.jstor.org/stable/40180108) paper on context. 
+
+- Do pronouns require referential intentions? (You might look at Karen Lewis's paper on speaker reference.)
 
