@@ -64,11 +64,11 @@ __Week 5__ (November 4) Epistemic modals ([Handout](https://www.dropbox.com/s/22
 
 __Week 6__ (November 25) E-type theories of anaphora
 
-[Handout]{https://www.dropbox.com/s/qbnymwax0kgzwgq/DYNSEM%20-%20week%206.pdf?dl=0}
+[Handout](https://www.dropbox.com/s/qbnymwax0kgzwgq/DYNSEM%20-%20week%206.pdf?dl=0)
 
 __Week 7__ (December 2) Other 'static' accounts of anaphora
 
-[Handout]{https://www.dropbox.com/s/5dk2bcf4m8xt3on/DYNSEM%20-%20week%207.pdf?dl=0}
+[Handout](https://www.dropbox.com/s/5dk2bcf4m8xt3on/DYNSEM%20-%20week%207.pdf?dl=0)
 
 __Week 8__ (November 18) Gricean inspired accounts of presupposition (including Schlenker's local contexts)
 
