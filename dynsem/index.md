@@ -27,7 +27,7 @@ This course relates to an AHRC funded research project which includes an [evolvi
 
 *All our welcome as auditors* and should feel free to come to any sessions (and may pick and choose according to interest). 
 
-Enrolled students will be required to submit a short paper (what linguists call a squib), on some topic related to the course.  
+Enrolled students will be required to submit a short paper (what linguists call a squib), on some topic related to the course.  [Advice and potential topics here](squib.html)
 
 
 #### Schedule:
