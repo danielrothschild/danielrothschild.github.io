@@ -61,14 +61,38 @@ For readings see [Moodle](https://moodle.ucl.ac.uk/), or email me for dropbox li
 
 [Problem set 4](https://www.dropbox.com/s/k25ulf5ma6qejhg/WSM16%20-%20PS4.pdf?dl=0)
 
+[Axiomatic proof notes](https://www.dropbox.com/s/yg045568k508fme/axiomatic%20proof.pdf?dl=0)
+
 ##### Modal Logic
+
+[Week 5 - Lecture notes](https://www.dropbox.com/s/wnc00gtf2jb0hst/WSM16%20-%20Modal%20Logic.pdf?dl=0)
+
+No problem set! (please look over Sider)
+
+
+[Week 6 - Lecture notes](https://www.dropbox.com/s/i8rwsriz1ecc9uy/WSM16%20-%20Modal%20Logic%20and%20Counterfactuals.pdf?dl=0)
+
+[Problem set 5](https://www.dropbox.com/s/f4s28xh6b3lghvm/WSM16%20PS%205.pdf?dl=0)
 
 ##### Counterfactuals
 
+[Week 7 - Lecture notes](https://www.dropbox.com/s/sm0pmss2lja586d/WSM16%20-%20Counterfactuals%20and%20Probability.pdf?dl=0)
+
+[Problem set 6](https://www.dropbox.com/s/h11ygis6eegvg5u/WSM16%20PS6.pdf?dl=0)
+
 ##### Probabilities
 
-##### Epistemic Logic 
+[Week 8 - Lecture notes](https://www.dropbox.com/s/uigax35w4gesbyq/WSM16%20-%20Probability%20continued.pdf?dl=0)
 
+[Problem set 7](https://www.dropbox.com/s/scspc94pjr1q6kj/WSM16%20PS7.pdf?dl=0)
+
+[Week 9 - Lecture notes](https://www.dropbox.com/s/2sdp91ilxnouh9s/WSM16%20-%20Probability%203.pdf?dl=0)
+
+[Problem set 8](https://www.dropbox.com/s/kfg80uvscx4whc1/WSM16%20PS8.pdf?dl=0)
+
+##### Two-dimensionalism
+
+[Sider chapter](https://www.dropbox.com/s/lcu1laivducc4qb/2%20D%20Logic%20Sider.pdf?dl=0)
 
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
