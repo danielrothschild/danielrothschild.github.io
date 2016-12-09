@@ -40,8 +40,10 @@ More semantic:
 (@) Everyone inside might be outside. (See [Yalcin](https://dl.dropboxusercontent.com/u/14251569/Published/Yalcin%202015%20epistemic-modality-de-re.pdf))
 
 - Issue coming from problem set: is there a good reason to have *partial* assignment functions in our representation of content, or can we just use sets of world-assignment function pairs.
-
+ 
 - Is Coopers e-type theory (as discussed by Heim) really doomed?  Are her arguments against it convincing? (See her discussion of the *formal link* in the e-type paper).
+
+- Evaluate some of the arguments about presupposition in Stalnaker's book [*Context*](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199645169.001.0001/acprof-9780199645169) (2014).
    
 More philosophical:
 ----
