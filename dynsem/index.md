@@ -70,7 +70,7 @@ __Week 7__ (December 2) Other 'static' accounts of anaphora
 
 [Handout](https://www.dropbox.com/s/5dk2bcf4m8xt3on/DYNSEM%20-%20week%207.pdf?dl=0)
 
-__Week 8__ (November 18, Dec 9) Gricean inspired accounts of presupposition (including Schlenker's local contexts) and extension to presupposition.
+__Week 8 & 9__ (November 18, Dec 9) Gricean inspired accounts of presupposition (including Schlenker's local contexts) and extension to presupposition.
 
 [Handout](https://www.dropbox.com/s/oy0ocnfc0iy9xuc/DYNSEM%20-%20week%208.pdf?dl=0)
 
