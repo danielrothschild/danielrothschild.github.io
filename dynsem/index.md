@@ -70,13 +70,16 @@ __Week 7__ (December 2) Other 'static' accounts of anaphora
 
 [Handout](https://www.dropbox.com/s/5dk2bcf4m8xt3on/DYNSEM%20-%20week%207.pdf?dl=0)
 
-__Week 8__ (November 18) Gricean inspired accounts of presupposition (including Schlenker's local contexts)
+__Week 8__ (November 18, Dec 9) Gricean inspired accounts of presupposition (including Schlenker's local contexts) and extension to presupposition.
 
-__Week 9__ (December 9) Modality without dynamics
+[Handout](https://www.dropbox.com/s/oy0ocnfc0iy9xuc/DYNSEM%20-%20week%208.pdf?dl=0)
 
-##### Conclusion
+[Handout2](https://www.dropbox.com/s/u5frs41b6yn9su1/DYNSEM%20-%20week%209.pdf?dl=0)
 
-__Week 10__ (December 9) Stepping back: theory choice in semantics
+##### Permission
+
+__Week 10__ (December 16)
+
 
 
 
@@ -153,6 +156,10 @@ Seth Yalcin, [Epistemic Modality De Re](http://quod.lib.umich.edu/e/ergo/1240531
 
 Philippe Schlenker, [Local Contexts](semprag.org/article/viewFile/sp.2.3/71)
 
+---, [Local Contexts and Local Meaning](http://link.springer.com/article/10.1007/s11098-010-9586-0)
+
+---, [Presuppositions and Local Contexts](https://www.jstor.org/stable/40865283)
+
 ##### E-type approaches
 
 Irene Heim, [E-type pronouns and donkey anaphora](http://www.sfs.uni-tuebingen.de/~astechow/Lehre/WS06_7/SemantikII/Literatur/HeimEtype.pdf)
@@ -166,6 +173,18 @@ Karen Lewis and Jeff King, [Anaphora](http://plato.stanford.edu/entries/anaphora
 Robert Stalnaker, [On the representation of context](https://www.jstor.org/stable/40180108)
 
 Karen Lewis, [Speaker's Reference and Anaphoric Pronouns](https://www.dropbox.com/s/defwh2hgno4qox3/SRaAPfinal.pdf)
+
+---, [Discourse dynamics, pragmatics, and indefinites](http://link.springer.com/article/10.1007%2Fs11098-012-9882-y?LI=true)
+
+##### Permission
+
+Lewis, [A problem about permission](http://link.springer.com/chapter/10.1007%2F978-94-009-9860-5_11)
+
+Yablo [A problem about permission and possiblity](http://www.mit.edu/~yablo/home/Papers_files/permposs.eganvolume.pdf)
+
+Rothschild and Yablo, [Handout](https://www.dropbox.com/s/3ei6waev7808t0j/permission-paris.pdf?dl=0)
+
+
 
 
 <!-- Start of StatCounter Code for Default Guide -->
