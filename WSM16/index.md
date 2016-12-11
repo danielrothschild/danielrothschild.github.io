@@ -92,7 +92,7 @@ No problem set! (please look over Sider)
 
 ##### Two-dimensionalism
 
-[Sider 2-Dimensional](https://www.dropbox.com/s/lcu1laivducc4qb/2%20D%20Logic%20Sider.pdf?dl=0) is the main reading,  for background you will also need to read up to [Sider 2-Quantified modal logic](https://www.dropbox.com/s/4ucxj5i2c1013gz/Sider%20-%20Quantified%20Modal%20Logic.pdf?dl=0)
+[This chapter](https://www.dropbox.com/s/lcu1laivducc4qb/2%20D%20Logic%20Sider.pdf?dl=0) is the main reading,  for background you will also need to read up to the bit about SQML (up to page 292) in [the previous chapter](https://www.dropbox.com/s/4ucxj5i2c1013gz/Sider%20-%20Quantified%20Modal%20Logic.pdf?dl=0)
 
 
 <!-- Start of StatCounter Code for Default Guide -->
