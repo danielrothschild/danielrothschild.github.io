@@ -27,10 +27,14 @@ EVENTS<br />
 
 
 <div class ="blurb_text">
-
-<a href="http://www.zas.gwz-berlin.de/workshop_dynsem.html">Workshop on Dynamic Semantics </a>
+<a href="https://www.irit.fr/esslli2017/courses/2">  One-week course on dynamics semantics and pragmatics </a>, ESSLLI, Toulouse, July 2017
 <br/>
-<a href="https://www.irit.fr/esslli2017/courses/2">  ESSLLI Summer School </a>
+<a href="http://danielrothschild.com/context-variables/">Context and Variables Workshop </a>
+<br/>, All Souls College, Oxford, May 2017
+<a href="http://www.zas.gwz-berlin.de/workshop_dynsem.html">Workshop on Dynamic Semantics </a>
+<br/>, Berlin, May 2016
+
+
 
 </div>
 
@@ -95,7 +99,7 @@ BELIEF<br />
 
 </div>
 <p><a  class="paper" href="http://dx.doi.org/10.1007/s11098-015-0553-7">Belief is Weak</a> (<a href="belief.pdf">penultimate draft</a>) <br />
-(in <em>Philosophical Studies</em>, with <a href="http://www.philosophy.ox.ac.uk/members/philosophy_panel/john_hawthorne">John Hawthorne</a> and <a href="http://www.openu.ac.il/Personal_sites/levi-spectre/">Levi Spectre</a>)</p>
+(in <em>Philosophical Studies</em>, with <a href="https://dornsife.usc.edu/cf/phil/faculty_display.cfm?Person_ID=1047479">John Hawthorne</a> and <a href="http://www.openu.ac.il/Personal_sites/levi-spectre/">Levi Spectre</a>)</p>
 <div class="section">
 QUESTIONS<br />
 
