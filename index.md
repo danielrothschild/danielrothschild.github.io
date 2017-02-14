@@ -2,7 +2,6 @@
 layout : default
 ---
 
-{::options parse_block_html="true" /}
 
 <div id="blurb">
 <div class="title">
@@ -26,6 +25,7 @@ This site contains my papers and drafts and information on conferences, workshop
 EVENTS <br>
 </div>
 
+{::options parse_block_html="true" /}
 
 <div class ="blurb_text">
 
@@ -48,6 +48,7 @@ EVENTS <br>
 </div>
 </div>
 
+{::options parse_block_html="false" /}
 
 <div id="main">
 <div class="title">
