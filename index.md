@@ -29,7 +29,7 @@ EVENTS<br />
 <div class ="blurb_text">
 
 <a href="http://www.zas.gwz-berlin.de/workshop_dynsem.html">Workshop on Dynamic Semantics </a>
-
+<br/>
 <a href="https://www.irit.fr/esslli2017/courses/2">  ESSLLI Summer School </a>
 
 </div>
