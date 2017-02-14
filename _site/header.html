@@ -1,0 +1,17 @@
+
+<div id="nav">
+<ul class = "navigation">
+<li class = "navigation"><a class = "active navigation"  href= "{{ "/index.html" | prepend: site.baseurl}}">Dynamics of Conversation</a></li>
+<li class="navigation dropdown">
+<a href="#" class="navigation dropbtn">Notes</a>
+<div class="dropdown-content">
+
+{% for page in site.pages %} {% if page.title %}
+<a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+{% endif %} {% endfor %}
+
+
+</div>
+<li class = "navigation" style="float:right"><a  class = "navigation" href="http://danielrothschild.com/">Daniel Rothschild</a></li>
+</ul>
+</div>
