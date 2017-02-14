@@ -5,13 +5,9 @@ layout : default
 {::options parse_block_html="true" /}
 
 <div id="blurb">
-<div class="title">
-DANIEL ROTHSCHILD
-<br /></div>
+<div class="title">DANIEL ROTHSCHILD<br /></div>
 
-<div class ="blurb_text">
-I teach <a href="https://www.ucl.ac.uk/philosophy">philosophy</a> at <a href="https://www.ucl.ac.uk/">University College London</a>. Most of my work is about language and meaning. You can also find links to a <a href="http://dynsem.github.io/">website (in progress) on dynamic semantics</a> and my <a href="rothschildcv.pdf">cv</a>.<br /> 
-</div>
+<div class ="blurb_text">I teach <a href="https://www.ucl.ac.uk/philosophy">philosophy</a> at <a href="https://www.ucl.ac.uk/">University College London</a>. Most of my work is about language and meaning. You can also find links to a <a href="http://dynsem.github.io/">website (in progress) on dynamic semantics</a> and my <a href="rothschildcv.pdf">cv</a>.<br /> </div>
 
 <div class ="blurb_text">
 This site contains my papers and drafts and information on conferences, workshops and such.
