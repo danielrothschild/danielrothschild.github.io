@@ -13,7 +13,7 @@ I teach <a href="https://www.ucl.ac.uk/philosophy">philosophy</a> at <a href="ht
 </div>
 
 <div class ="blurb_text">
-This site contains my papers and drafts and information on conferences, workshops and such.</a>.
+This site contains my papers and drafts and information on conferences, workshops and such.
 </div>
 <div id="pic">
 <img src="me.jpg" width="153" height="211.5" style="horizontal-align:left"/>
