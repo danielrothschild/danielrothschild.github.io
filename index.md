@@ -27,13 +27,15 @@ EVENTS<br />
 
 
 <div class ="blurb_text">
-<a href="https://www.irit.fr/esslli2017/courses/2">  One-week course on dynamics semantics and pragmatics </a>, ESSLLI, Toulouse, July 2017
-<br/>
-<a href="http://danielrothschild.com/context-variables/">Context and Variables Workshop </a>
-<br/>, All Souls College, Oxford, May 2017
-<a href="http://www.zas.gwz-berlin.de/workshop_dynsem.html">Workshop on Dynamic Semantics </a>
-<br/>, Berlin, May 2016
-
+<p>
+<a href="https://www.irit.fr/esslli2017/courses/2">  One-week course on dynamics semantics and pragmatics</a>, ESSLLI, Toulouse, July 2017
+</p>
+<p>
+<a href="http://danielrothschild.com/context-variables/">Context and Variables Workshop</a>, All Souls College, Oxford, May 2017
+</p>
+<p>
+<a href="http://www.zas.gwz-berlin.de/workshop_dynsem.html">Workshop on Dynamic Semantics</a>, Berlin, May 2016
+</p>
 
 
 </div>
