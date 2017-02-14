@@ -2,7 +2,7 @@
 layout : default
 ---
 
-{::options parse_block_html="true" /}
+
 
 <div id="blurb">
 <div class="title">
@@ -26,7 +26,7 @@ This site contains my papers and drafts and information on conferences, workshop
 EVENTS <!-- <br> -->
 </div>
 
-
+{::options parse_block_html="true" /}
 <div class ="blurb_text">
 
 [One-week course on dynamics semantics and pragmatics](https://www.irit.fr/esslli2017/courses/2), ESSLLI, Toulouse, July 2017
@@ -46,9 +46,10 @@ EVENTS <!-- <br> -->
 
 
 </div>
+{::options parse_block_html="false" /}
 </div>
 
-{::options parse_block_html="false" /}
+
 
 <div id="main">
 <div class="title">
