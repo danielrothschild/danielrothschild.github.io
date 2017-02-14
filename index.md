@@ -2,12 +2,16 @@
 layout : default
 ---
 
-{::options parse_block_html="true" /}
+
 
 <div id="blurb">
-<div class="title">DANIEL ROTHSCHILD<br /></div>
+<div class="title">
+DANIEL ROTHSCHILD<br />
+</div>
 
-<div class ="blurb_text">I teach <a href="https://www.ucl.ac.uk/philosophy">philosophy</a> at <a href="https://www.ucl.ac.uk/">University College London</a>. Most of my work is about language and meaning. You can also find links to a <a href="http://dynsem.github.io/">website (in progress) on dynamic semantics</a> and my <a href="rothschildcv.pdf">cv</a>.<br /> </div>
+<div class ="blurb_text">
+I teach <a href="https://www.ucl.ac.uk/philosophy">philosophy</a> at <a href="https://www.ucl.ac.uk/">University College London</a>. Most of my work is about language and meaning. You can also find links to a <a href="http://dynsem.github.io/">website (in progress) on dynamic semantics</a> and my <a href="rothschildcv.pdf">cv</a>.<br />
+</div>
 
 <div class ="blurb_text">
 This site contains my papers and drafts and information on conferences, workshops and such.
@@ -22,7 +26,7 @@ This site contains my papers and drafts and information on conferences, workshop
 EVENTS <br>
 </div>
 
-
+{::options parse_block_html="true" /}
 <div class ="blurb_text">
 
 [One-week course on dynamics semantics and pragmatics](https://www.irit.fr/esslli2017/courses/2), ESSLLI, Toulouse, July 2017
@@ -42,10 +46,10 @@ EVENTS <br>
 
 
 </div>
-
+{::options parse_block_html="false" /}
 </div>
 
-{::options parse_block_html="false" /}
+
 
 <div id="main">
 <div class="title">
