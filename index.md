@@ -13,11 +13,26 @@ I teach <a href="https://www.ucl.ac.uk/philosophy">philosophy</a> at <a href="ht
 </div>
 
 <div class ="blurb_text">
-This site contains my papers and drafts and <a href="page1/page1.html">a link to some teaching materials</a>.
+This site contains my papers and drafts and information on conferences, workshops and such.</a>.
 </div>
 <div id="pic">
 <img src="me.jpg" width="153" height="211.5" style="horizontal-align:left"/>
 </div>
+
+<div class="title">
+Events<br />
+</div>
+
+<div class ="blurb_text">
+
+One 
+
+Two
+
+Three
+
+</div>
+
 </div>
 <div id="main">
 <div class="title">
