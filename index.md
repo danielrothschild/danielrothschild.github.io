@@ -29,8 +29,8 @@ PAPERS BY SUBJECT<br />
 DYNAMIC SEMANTICS<br />
 
 </div>
-<p><a class="paper" href="discourse-submitted.pdf">Three Notions of Dynamicness in Language</a><br />
-(forthcoming in <em>Linguistics and Philosophy</em>, with <a href="http://yalcin.cc/">Seth Yalcin</a>)<br />
+<p><a class="paper" href="http://dx.doi.org/10.1007/s10988-016-9188-1">Three Notions of Dynamicness in Language</a><br />
+(in <em>Linguistics and Philosophy</em>, 2016, with <a href="http://yalcin.cc/">Seth Yalcin</a>)<br />
 <br />
 <a  class="paper" href="http://dx.doi.org/10.1111/nous.12121">On the Dynamics of Conversation</a> (<a href="dynamics.pdf">penultimate draft</a>)<br />
 (in <em>Noûs</em>, 2015 with <a href="http://yalcin.cc/">Seth Yalcin</a>)</p>
