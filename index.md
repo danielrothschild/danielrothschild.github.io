@@ -26,7 +26,7 @@ EVENTS
 </div>
 
 
-
+<div class ="blurb_text">
 <br>
 <a href="https://www.irit.fr/esslli2017/courses/2">  One-week course on dynamics semantics and pragmatics</a>, ESSLLI, Toulouse, July 2017
 <br><br>
@@ -39,8 +39,9 @@ EVENTS
 
 
 
-
 </div>
+</div>
+
 <div id="main">
 <div class="title">
 PAPERS BY SUBJECT<br />
