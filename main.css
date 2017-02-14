@@ -131,6 +131,7 @@ h4,
   margin: 1.414rem 0 .5rem;
   font-weight: inherit;
   line-height: 1.42;
+  letter-spacing: 1.5px;
 }
 
 h1,
@@ -152,16 +153,20 @@ h3,
 h4,
 .modest-h4 {
   font-size: 1.414rem;
+  letter-spacing: 1.5px;
+  letter-spacing: 1.5px;
 }
 
 h5,
 .modest-h5 {
   font-size: 1.121rem;
+  letter-spacing: 1.5px;
 }
 
 h6,
 .modest-h6 {
   font-size: .88rem;
+  letter-spacing: 1.5px;
 }
 
 small,
@@ -325,6 +330,7 @@ h4,
 h5,
 h6 {
   font-family: Arimo, Helvetica, sans-serif;
+
 }
 
 
