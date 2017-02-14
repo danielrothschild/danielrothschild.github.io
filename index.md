@@ -20,6 +20,10 @@ This site contains my papers and drafts and information on conferences, workshop
 </div>
 
 <br/>
+</div>
+
+
+<div id = "events">
 
 <div class="title2">
 EVENTS <br>

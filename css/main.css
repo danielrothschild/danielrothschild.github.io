@@ -237,7 +237,8 @@ body {
 
 
 #main {
-  margin-left: 250px;
+  margin-left: 230px;
+  margin-right: 180px;
 }
 
 .blurb_text{
@@ -247,6 +248,12 @@ body {
 
 #blurb {
   float: left;
+  max-width: 184px;
+
+}
+
+#events {
+  float: right;
   max-width: 184px;
 
 }
