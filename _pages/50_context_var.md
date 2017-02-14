@@ -16,7 +16,7 @@ date: 13 May 2017
 ![ASC](/asc.jpeg)
 
 Location: All Souls College, Oxford <br>
-Date: 13 May 2017 (11 - 5)
+Date: 13 May 2017 (11 - 5:30pm)
 
 
 <div class="title"> SPEAKERS </div>
