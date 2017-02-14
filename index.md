@@ -23,7 +23,7 @@ This site contains my papers and drafts and information on conferences, workshop
 <br/>
 
 <div class="title">
-EVENTS <!-- <br> -->
+EVENTS <br>
 </div>
 
 
