@@ -6,7 +6,7 @@ layout : default
 
 <div id="blurb">
 <div class="title">
-DANIEL ROTHSCHILD<!-- <br /> -->
+DANIEL ROTHSCHILD<br />
 </div>
 
 <div class ="blurb_text">
@@ -48,7 +48,6 @@ EVENTS <br>
 </div>
 </div>
 
-{::options parse_block_html="false" /}
 
 <div id="main">
 <div class="title">
