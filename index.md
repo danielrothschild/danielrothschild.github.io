@@ -19,16 +19,18 @@ This site contains my papers and drafts and information on conferences, workshop
 <img src="me.jpg" width="153" height="211.5" style="horizontal-align:left"/>
 </div>
 
+<br/>
+
 <div class="title">
 EVENTS<br />
 </div>
 
+
 <div class ="blurb_text">
 
-[Workshop on Dynamic Semantics](http://www.zas.gwz-berlin.de/workshop_dynsem.html)
+<a href="http://www.zas.gwz-berlin.de/workshop_dynsem.html">Workshop on Dynamic Semantics </a>
 
-[ESSLLI Summer School](https://www.irit.fr/esslli2017/courses/2)
-
+<a href="https://www.irit.fr/esslli2017/courses/2">  ESSLLI Summer School </a>
 
 </div>
 
