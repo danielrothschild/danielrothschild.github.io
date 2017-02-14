@@ -6,7 +6,7 @@ layout : default
 
 <div id="blurb">
 <div class="title">
-DANIEL ROTHSCHILD<br />
+DANIEL ROTHSCHILD<!-- <br /> -->
 </div>
 
 <div class ="blurb_text">
@@ -23,7 +23,7 @@ This site contains my papers and drafts and information on conferences, workshop
 <br/>
 
 <div class="title">
-EVENTS <br>
+EVENTS <!-- <br> -->
 </div>
 
 {::options parse_block_html="true" /}
