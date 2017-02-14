@@ -20,16 +20,15 @@ This site contains my papers and drafts and information on conferences, workshop
 </div>
 
 <div class="title">
-Events<br />
+EVENTS<br />
 </div>
 
 <div class ="blurb_text">
 
-One 
+[Workshop on Dynamic Semantics](http://www.zas.gwz-berlin.de/workshop_dynsem.html)
 
-Two
+[ESSLLI Summer School](https://www.irit.fr/esslli2017/courses/2)
 
-Three
 
 </div>
 
