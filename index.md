@@ -21,21 +21,17 @@ This site contains my papers and drafts and information on conferences, workshop
 
 <br/>
 
-<div class="title">
+<div class="title2">
 EVENTS <br>
 </div>
 
 
-<div class ="blurb_text">
-<a href="https://www.irit.fr/esslli2017/courses/2">  One-week course on dynamics semantics and pragmatics</a>, ESSLLI, Toulouse, July 2017
-<br><br>
-
-<a href="http://danielrothschild.com/context-variables/">Context and Variables Workshop</a>, All Souls College, Oxford, May 2017
-<br><br>
-
-<a href="http://www.zas.gwz-berlin.de/workshop_dynsem.html">Workshop on Dynamic Semantics</a>, Berlin, May 2016
+<div class ="blurb_text" markdown ="block">
 
 
+{% for page in site.pages %} {% if page.title %}
+[{{page.title}}]( {{ page.url | prepend: site.baseurl }}), {{page.location}}, {{page.date}}
+{% endif %} {% endfor %}
 
 
 </div>

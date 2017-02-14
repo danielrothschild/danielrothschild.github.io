@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Personal Homepage
+title: Daniel Rothschild
 email: d.rothschild@ucl.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
  Academic website with work in dynamic semantics, presuppositions projection, game theory, and other topics in philosophy of language and linguistic semantics.
@@ -23,5 +23,7 @@ url: "http://danielrothschild.com" # the base hostname & protocol for your site
 github_username:  danielrothschild
 
 # Build settings
+include: ['_pages']
+
 markdown: kramdown
 theme: minima
