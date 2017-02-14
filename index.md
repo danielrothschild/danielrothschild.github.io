@@ -57,7 +57,7 @@ CONNECTIVES/CONDITIONALS<br />
 
 </div>
 <p>
-<a class="paper"  href="knowingodds.pdf">A Puzzle about Knowing Conditionals</a> (<a href="supplement.html">supplementary note</a>) <br />
+<a class="paper"  href="http://dx.doi.org/10.1007/s11098-015-0553-7">A Puzzle about Knowing Conditionals</a> (<a href="knowingodds.pdf">penultimate draft</a>, <a href="supplement.html">supplementary note</a>) <br />
 (forthcoming in <em>Noûs,</em> with <a href="http://www.openu.ac.il/Personal_sites/levi-spectre/">Levi Spectre</a>) <br />
 <br />
 <a class="paper"  href="http://dx.doi.org/10.1007/s10992-015-9359-5">Conditionals and Propositions in Semantics</a> (<a href="conditionals.pdf">penultimate draft</a>)<br />
@@ -78,8 +78,8 @@ CONNECTIVES/CONDITIONALS<br />
 BELIEF<br />
 
 </div>
-<p><a  class="paper" href="belief.pdf">Belief is Weak</a><br />
-(forthcoming in <em>Philosophical Studies</em>, with <a href="http://www.philosophy.ox.ac.uk/members/philosophy_panel/john_hawthorne">John Hawthorne</a> and <a href="http://www.openu.ac.il/Personal_sites/levi-spectre/">Levi Spectre</a>)</p>
+<p><a  class="paper" href="http://dx.doi.org/10.1007/s11098-015-0553-7">Belief is Weak</a> (<a href="belief.pdf">penultimate draft</a>) <br />
+(in <em>Philosophical Studies</em>, with <a href="http://www.philosophy.ox.ac.uk/members/philosophy_panel/john_hawthorne">John Hawthorne</a> and <a href="http://www.openu.ac.il/Personal_sites/levi-spectre/">Levi Spectre</a>)</p>
 <div class="section">
 QUESTIONS<br />
 
@@ -96,7 +96,7 @@ POLARITY ITEMS<br />
 <p><a class="paper"  href="http://www.springerlink.com/content/4871042m16634812/">Modularity and Intuitions in Formal Semantics: The Case of Polarity Items</a> (<a href="NPISI.pdf">penultimate draft</a>)<br />
 (with <a href="http://www.emmanuel.chemla.free.fr/">Emmanuel Chemla</a> and <a href="https://sites.google.com/site/vincenthomer/">Vincent Homer</a>, in <em>Linguistics and Philosophy,</em> 2012)<br />
 <br />
-<a  class="paper" href="http://ecommons.library.cornell.edu/handle/1813/7590">Non-Monotonic NPI-Licensing, Definite Descriptions, andGrammaticalized Implicatures</a><br />
+<a  class="paper" href="http://ecommons.library.cornell.edu/handle/1813/7590">Non-Monotonic NPI-Licensing, Definite Descriptions, and Grammaticalized Implicatures</a><br />
 (in <em>Proceedings of SALT</em>, 2006)</p>
 <div class="section">
 DESCRIPTIONS<br />
