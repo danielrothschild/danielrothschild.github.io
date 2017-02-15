@@ -33,7 +33,7 @@ EVENTS <br>
 <div class ="blurb_text" markdown ="block">
 
 
-{% for page in site.pages %} {% if page.title %}
+{% for page in site.pages %} {% if page.location %}
 [{{page.title}}]( {{ page.url | prepend: site.baseurl }}), {{page.location}}, {{page.date}}
 {% endif %} {% endfor %}
 
