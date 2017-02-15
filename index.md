@@ -37,7 +37,6 @@ EVENTS <br>
 [{{page.title}}]( {{ page.url | prepend: site.baseurl }}), {{page.location}}, {{page.date}}
 {% endif %} {% endfor %}
 
-
 </div>
 </div>
 
