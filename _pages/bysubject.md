@@ -33,7 +33,7 @@ workshops and such.
 <div id = "events">
 
 
-<div class="title2" markdown="0">
+<div class="title3" markdown="0">
 
 EVENTS
 
@@ -86,6 +86,52 @@ PAPERS BY SUBJECT
 
 {% endfor %}
 
+
+<div class="title2" markdown="0">
+
+DRAFTS AND HANDOUTS
+
+</div>
+
+<div class="papers">
+
+[Dynamic Conditionals](DynamicConditionals.pdf){:.paper} (2015, handout
+on the dynamic test semantics for conditionals for a workshop on
+conditionals in Osnabrük)
+
+[Weak Belief and Pragmatics](wbp.pdf){:.paper} (2015, handout for a talk
+at the UCL Pragmatics Reading Group)
+
+[Fabian Truthmaking](FabianTruthmaking.pdf){:.paper} (2015, paper for
+circulation at a symposium on themes from Yablo’s *Aboutness*)
+
+[Quantified Epistemic Modality](birmingham.pdf){:.paper} (2015, handout
+for Birmingham talk, joint work with Nathan Klinedinst)
+
+[Epistemic Contradictions](epistemiccontradictions.pdf){:.paper} (2014,
+handout)
+
+[Two views of the de re](leeds.pdf){:.paper} (2014, handout for Leeds
+talk)
+
+Old draft of [Dynamics of Conversation](olddynamics.pdf){:.paper} (c.
+2012, with Seth Yalcin)
+
+[Making Dynamic Semantics Explanatory: Presupposition
+Projection](dynamicexplanatory.pdf){:.paper} (2009, old draft, mostly
+superseded by “Explaining Presupposition with Dynamic Semantics”)
+
+[Grice, Utterance Choice, and Rationality](gricechoice5.pdf){:.paper}
+(2008, parts superseded by “Game Theory and Scalar Implicatures”)
+
+[Negative Polarity and Definite Descriptions](npidd.pdf){:.paper} (2006,
+old manuscript)
+
+</div>
+
+<div id="refs" class="references">
+
+</div>
 
 
 </div>

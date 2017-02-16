@@ -32,7 +32,7 @@ workshops and such.
 <div id = "events">
 
 
-<div class="title2" markdown="0">
+<div class="title" markdown="0">
 
 EVENTS
 

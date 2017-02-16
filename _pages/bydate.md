@@ -33,7 +33,7 @@ workshops and such.
 <div id = "events">
 
 
-<div class="title" markdown="0">
+<div class="title3" markdown="0">
 EVENTS
 </div>
 
@@ -62,7 +62,7 @@ PAPERS BY DATE
 
 {% endfor %}
 
-<div class="section" markdown="0">
+<div class="title2" markdown="0">
 
 DRAFTS AND HANDOUTS
 
