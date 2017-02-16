@@ -22,7 +22,7 @@ workshops and such.
 </div>
 
 <div id="pic">
-<img src="me.jpg" width="153" height="211.5" style="horizontal-align:left"/>
+<img src="http://danielrothschild.com/me.jpg" width="153" height="211.5" style="horizontal-align:left"/>
 </div>
 
 <br/>
@@ -33,13 +33,10 @@ workshops and such.
 
 
 <div class="title" markdown="0">
-
 EVENTS
-
 </div>
 
-<div class ="blurb_text" markdown ="block">
-
+<div class ="blurb_text">
 
 {% for page in site.pages %} {% if page.location %}
 [{{page.title}}]( {{ page.url | prepend: site.baseurl }}), {{page.location}}, {{page.date}}
@@ -49,193 +46,42 @@ EVENTS
 </div>
 <div id="main">
 
-<div class="title" >
+<div class="title">
 
-PAPERS BY SUBJECT  
+PAPERS BY <span class="underline">DATE</span> / [SUBJET]({{ site.baseurl }}/subject/){:.nounder}
 
 </div>
+
 
 <div class="papers">
 
-<div class="section" markdown="0">
+{% assign dates = site.data.papers | map: "year" | uniq %}
 
-DYNAMIC SEMANTICS
-
-</div>
-
-[Three Notions of Dynamicness in
-Language](http://dx.doi.org/10.1007/s10988-016-9188-1){:.paper}
-([penultimate draft](discourse-submitted.pdf))\\
-(in *Linguistics and Philosophy*, 2016, with [Seth
-Yalcin](http://yalcin.cc/))
-
-[On the Dynamics of
-Conversation](http://dx.doi.org/10.1111/nous.12121){:.paper}
-([penultimate draft](dynamics.pdf))\\
-(in *Noûs*, 2015 with [Seth Yalcin](http://yalcin.cc/))
+{% for d in dates %}
 
 <div class="section" markdown="0">
 
-PRESUPPOSITION
+{{ d | upcase }}
 
 </div>
 
-[Explaining Presupposition Projection with Dynamic
-Semantics](rothschild-explaining.pdf){:.paper} (with some corrections,
-2015)\\
-(in [*Semantics and Pragmatics*](http://semprag.org/), 2011)
 
-[Transparency Theory and its Dynamic Alternatives: Commentary on “Be
-Articulate”](http://dx.doi.org/10.1515/THLI.2008.018){:.paper}
-([penultimate draft](commentaryschlenker2.pdf))\\
-(in *Theoretical Linguistics*, 2008)
 
-[Presupposition Projection and Logical
-Equivalence](http://dx.doi.org/10.1111%2fj.1520-8583.2008.00154.x){:.paper}
-([penultimate draft](presuppositionequivalence.pdf))\\
-(in *Philosophical Perspectives*, 2008)
+{% for paper in site.data.papers %}
+{% if paper.year == d %}
 
-<div class="section" markdown="0">
+[{{ paper.title }}]({{ paper.url }}){:.paper} {% if paper.local %} ([penultimate draft]({{ paper.local }})) {% endif %}  
+({% if paper.coauthor %}with {{ paper.coauthor }}, {% endif %}*{{ paper.journal }}*{% if paper.note %}, {{paper.note}}{% endif %})
 
-TRUTHMAKERS
 
-</div>
 
-[Yablo's Semantic Machinery](yablo.pdf){:.paper}\\
-(forthcoming in symposium on [Stephen
-Yablo's](http://www.mit.edu/~yablo/home/Hello.html) *Aboutness* in
-*Philosophical Studies*)
+{% endif %}
 
-<div class="section" markdown="0">
+{% endfor %}
 
-CONNECTIVES/CONDITIONALS
 
-</div>
 
-[A Puzzle about Knowing
-Conditionals](http://dx.doi.org/10.1007/s11098-015-0553-7){:.paper}
-([penultimate draft](knowingodds.pdf), [supplementary
-note](supplement.html))\\
-(forthcoming in *Noûs,* with [Levi
-Spectre](http://www.openu.ac.il/Personal_sites/levi-spectre/))
-
-[Conditionals and Propositions in
-Semantics](http://dx.doi.org/10.1007/s10992-015-9359-5){:.paper}
-([penultimate draft](conditionals.pdf))\\
-(in *Journal of Philosophical Logic,* 2015)
-
-[A Note on Conditionals and Restrictors](semconditionals.pdf){:.paper}
-(2012)\\
-(forthcoming in *Conditionals, Probability, and Paradox: Themes from the
-Philosophy of Dorothy Edgington*, John Hawthorne and Lee Walters (eds.),
-OUP)\\
-
-[Capturing the Relationship Between Conditionals and Conditional
-Probability with a Trivalent
-Semantics](conditionalstrivalence2.pdf){:.paper} \\
-(in *Journal of Applied Non-Classical Logics,* 2014)
-
-[Connectives without Truth
-Tables](http://dx.doi.org/10.1007/s11050-011-9079-5){:.paper}
-([penultimate draft](connectives.pdf))\\
-(with [Nathan
-Klinedinst](http://www.ucl.ac.uk/psychlangsci/research/linguistics/People/linguistics-staff/n_klinedinst),
-in *Natural Language Semantics*, 2012)
-
-[Do Indicative Conditionals Express
-Propositions?](http://dx.doi.org/10.1111/j.1468-0068.2010.00825.x){:.paper}
-([penultimate draft](condprop2.pdf))\\
-(in *Noûs*, 2011)
-
-<div class="section" markdown="0">
-
-BELIEF
-
-</div>
-
-[Belief is Weak](http://dx.doi.org/10.1007/s11098-015-0553-7){:.paper}
-([penultimate draft](belief.pdf))\\
-(in *Philosophical Studies*, with [John
-Hawthorne](https://dornsife.usc.edu/cf/phil/faculty_display.cfm?Person_ID=1047479)
-and [Levi Spectre](http://www.openu.ac.il/Personal_sites/levi-spectre/))
-
-<div class="section" markdown="0">
-
-QUESTIONS
-
-</div>
-
-[Worrying about Trivial
-Questions](https://www.ucl.ac.uk/psychlangsci/research/linguistics/publications/wpl/12papers/rothschildUCLWPL){:.paper}\\
-(in *UCL Working Papers in Linguistics,* 2013)
-
-[Exhaustivity in Questions with
-Non-Factives](http://dx.doi.org/10.3765/sp.4.2){:.paper}\\
-(with [Nathan
-Klinedinst](http://www.ucl.ac.uk/psychlangsci/research/linguistics/People/linguistics-staff/n_klinedinst),
-in [*Semantics and Pragmatics*](http://semprag.org/), 2011)
-
-<div class="section" markdown="0">
-
-POLARITY ITEMS
-
-</div>
-
-[Modularity and Intuitions in Formal Semantics: The Case of Polarity
-Items](http://www.springerlink.com/content/4871042m16634812/){:.paper}
-([penultimate draft](NPISI.pdf))\\
-(with [Emmanuel Chemla](http://www.emmanuel.chemla.free.fr/) and
-[Vincent Homer](https://sites.google.com/site/vincenthomer/), in
-*Linguistics and Philosophy,* 2012)
-
-[Non-Monotonic NPI-Licensing, Definite Descriptions, and Grammaticalized
-Implicatures](http://ecommons.library.cornell.edu/handle/1813/7590){:.paper}\\
-(in *Proceedings of SALT*, 2006)
-
-<div class="section" markdown="0">
-
-DESCRIPTIONS
-
-</div>
-
-[The Elusive Scope of
-Descriptions](http://dx.doi.org/10.1111/j.1747-9991.2007.00111.x){:.paper}
-([penultimate draft](descriptions9-20.pdf))\\
-(in *Philosophy Compass*, 2007)
-
-[Presuppositions and
-Scope](http://www.journalofphilosophy.org/articles/104/104-2.htm){:.paper}
-([penultimate draft](p+s.pdf))\\
-(in *The Journal of Philosophy*, 2007)
-
-<div class="section" markdown="0">
-
-EXPRESSIVISM/SEMANTICS-PRAGMATICS\
-
-</div>
-
-[Expressing
-Credences](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9264.2012.00327.x/abstract){:.paper}
-([penultimate draft](expressingcredences.pdf))\\
-(in *Proceedings of the Aristotelian Society*, 2012)
-
-[Indexical
-Predicates](http://dx.doi.org/10.1111/j.1468-0017.2009.01371.x){:.paper}
-([penultimate draft](predind.pdf))\\
-(with [Gabriel
-Segal](http://www.kcl.ac.uk/artshums/depts/philosophy/people/staff/academic/segal/index.aspx),
-in *Mind & Language*, 2009)
-
-<div class="section" markdown="0">
-
-GAME THEORY AND PRAGMATICS
-
-</div>
-
-[Game Theory and Scalar
-Implicatures](http://onlinelibrary.wiley.com/doi/10.1111/phpe.12024/abstract){:.paper}
-([penultimate draft](GT+SI.pdf))\\
-(in *Philosophical Perspectives*, 2013)
+{% endfor %}
 
 </div>
 

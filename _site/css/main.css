@@ -86,31 +86,15 @@ a.nounder:hover{
 
 a,
 a:visited {
-  text-decoration: none;
-  border-bottom: 1px solid #444;
-  padding-bottom: 0px;
   color: #444;
 }
 
 
 a.paper, a.paper:visited{
   color: #752FFF;
-  border-bottom: none;
+  text-decoration: none;
 }
 
-a.paper.after, a.paper.after:visited{
-  content: '';
-
-    width: 100%;
-    position: absolute;
-    left: 0;
-    bottom: 1px;
-
-    border-width: 0 0 1px;
-    border-style: solid;
-    border-color: #752FFF;
-
-}
 
 .modest-no-decoration {
   text-decoration: none;
@@ -284,7 +268,7 @@ body {
 
 #main {
   margin-left: 230px;
-  margin-right: 210px;
+  margin-right: 190px;
 }
 
 .blurb_text{
