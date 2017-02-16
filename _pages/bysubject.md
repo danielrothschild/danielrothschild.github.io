@@ -16,14 +16,14 @@ I teach [philosophy](https://www.ucl.ac.uk/philosophy) at [University
 College London](https://www.ucl.ac.uk/). Most of my work is about
 language and meaning. You can also find links to a [website (in
 progress) on dynamic semantics](http://dynsem.github.io/) and my
-[cv](rothschildcv.pdf).
+[cv]({{ site.url }}/rothschildcv.pdf).
 
 This site contains my papers and drafts and information on conferences,
 workshops and such.
 </div>
 
 <div id="pic">
-<img src="http://danielrothschild.com/me.jpg" width="153" height="211.5" style="horizontal-align:left"/>
+<img src="{{ site.url }}/me.jpg" width="153" height="211.5" style="horizontal-align:left"/>
 </div>
 
 <br/>
@@ -74,7 +74,7 @@ PAPERS BY [DATE]({{ site.baseurl }}/){:.nounder} / <span class="underline"> SUBJ
 {% for paper in site.data.papers %}
 {% if paper.subject == subject %}
 
-[{{ paper.title }}]({{ paper.url }}){:.paper} {% if paper.local %} ([penultimate draft]({{ paper.local }})) {% endif %}  
+[{{ paper.title }}]({{ paper.url }}){:.paper} {% if paper.local %} ([penultimate draft]({{ site.url }}/{{ paper.local }})) {% endif %}  
 ({% if paper.coauthor %}with {{ paper.coauthor }}, {% endif %}*{{ paper.journal }}*,  {% if paper.year %} {{paper.year}}{% else %} forthcoming{% endif %})
 
 
