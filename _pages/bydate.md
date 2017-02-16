@@ -47,17 +47,39 @@ EVENTS
 </div>
 <div id="main">
 
-<div class="titlepapers" markdown="0">
+<div class="title">
 
 PAPERS BY DATE  
 
 </div>
 
+
 <div class="papers">
 
+{% assign dates = site.data.papers | map: "year" | uniq %}
+
+{% for d in dates %}
+
+<div class="section" markdown="0">
+
+{{ d | upcase }}
+
+</div>
+
+
+
 {% for paper in site.data.papers %}
+{% if paper.year == d %}
+
 [{{ paper.title }}]({{ paper.url }}){:.paper} {% if paper.local %} ([penultimate draft]({{ paper.local }})) {% endif %}  
-({% if paper.coauthor %}with {{ paper.coauthor }}, {% endif %}*{{ paper.journal }}*,  {% if paper.year %} {{paper.year}}{% else %} forthcoming{% endif %}{% if paper.note %}, {{ paper.note }}{% endif %})
+({% if paper.coauthor %}with {{ paper.coauthor }}, {% endif %}*{{ paper.journal }}*{% if paper.note %}, {{paper.note}}{% endif %})
+
+
+
+{% endif %}
+
+{% endfor %}
+
 
 
 {% endfor %}

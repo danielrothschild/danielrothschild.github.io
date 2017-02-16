@@ -216,6 +216,7 @@ body {
 
 .section {
   font-size: 65%;
+  font-weight: 700;
   letter-spacing: 2px;
 }
 
@@ -255,7 +256,7 @@ body {
 
 #main {
   margin-left: 230px;
-  margin-right: 230px;
+  margin-right: 210px;
 }
 
 .blurb_text{

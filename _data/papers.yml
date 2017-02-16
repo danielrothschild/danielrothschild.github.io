@@ -9,7 +9,7 @@
 
 - title: Belief is Weak
   url: http://dx.doi.org/10.1007/s11098-015-0553-7
-  local: belief.pdf)
+  local: belief.pdf
   year: "2016"
   journal: Philosophical Studies
   coauthor: "[John Hawthorne](https://dornsife.usc.edu/cf/phil/faculty_display.cfm?Person_ID=1047479) and [Levi Spectre](http://www.openu.ac.il/Personal_sites/levi-spectre/)"
@@ -119,9 +119,10 @@
 
 - title: Explaining Presupposition Projection with Dynamic Semantics
   url: rothschild-explaining.pdf
-  year: "2011/2015"
+  year: "2011"
   journal: "[Semantics and Pragmatics](http://semprag.org/)"
   subject: Presupposition
+  note: with corrections of 2015
 
 
 
