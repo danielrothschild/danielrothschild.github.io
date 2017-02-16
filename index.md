@@ -5,7 +5,7 @@ layout : default
 {::options parse_block_html="true" /}
 
 <div id="blurb">
-<div class="title2" markdown="0">
+<div class="title" markdown="0">
 DANIEL ROTHSCHILD  
 </div>
 
@@ -239,7 +239,7 @@ Implicatures](http://onlinelibrary.wiley.com/doi/10.1111/phpe.12024/abstract){:.
 
 </div>
 
-<div class="title2">
+<div class="title2" markdown="0">
 
 DRAFTS AND HANDOUTS
 
