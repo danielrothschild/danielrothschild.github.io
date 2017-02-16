@@ -33,7 +33,7 @@ workshops and such.
 <div id = "events">
 
 
-<div class="title3" markdown="0">
+<div class="title" markdown="0">
 
 EVENTS
 
@@ -52,7 +52,8 @@ EVENTS
 
 <div class="title" >
 
-PAPERS BY SUBJECT  
+PAPERS BY [DATE]({{ site.baseurl }}/date/){:.nounder} / <span class="underline"> SUBJET</span>
+
 
 </div>
 
@@ -86,7 +87,7 @@ PAPERS BY SUBJECT
 
 {% endfor %}
 
-
+</div>
 <div class="title2" markdown="0">
 
 DRAFTS AND HANDOUTS

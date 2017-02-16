@@ -1,6 +1,6 @@
 ---
 layout : default
-permalink: /papers-by-date/
+permalink: /date/
 ---
 
 {::options parse_block_html="true" /}
@@ -33,7 +33,7 @@ workshops and such.
 <div id = "events">
 
 
-<div class="title3" markdown="0">
+<div class="title" markdown="0">
 EVENTS
 </div>
 
@@ -49,7 +49,7 @@ EVENTS
 
 <div class="title">
 
-PAPERS BY DATE  
+PAPERS BY <span class="underline">DATE</span> / [SUBJET]({{ site.baseurl }}/subject/){:.nounder}
 
 </div>
 
@@ -83,6 +83,8 @@ PAPERS BY DATE
 
 
 {% endfor %}
+
+</div>
 
 <div class="title2" markdown="0">
 
