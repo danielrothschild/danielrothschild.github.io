@@ -32,4 +32,4 @@ Date: 13 May 2017 (11 - 5:30pm)
 
 Sponsored by the UK Arts and Humanities Research Council Grant AH/N001877/1
 
-![AHRC](/ahrcmustard.jpg)
+![AHRC](/AHRCmustard.jpg)
