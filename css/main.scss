@@ -250,8 +250,10 @@ body {
 @media only screen
   and (max-device-width: 568px)
   {
+    .html{
+      font-size: 16px;
+    }
     #main{
-      font-size: 150%;
       margin-left: 0px;
       margin-right: 0px;
     }
