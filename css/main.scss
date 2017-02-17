@@ -247,7 +247,7 @@ body {
     }
 }
 
-@media max-width-device:568px{
+@media only screen and (max-width-device:568px){
     #main{
       margin-left: 0px;
       margin-right: 0px;
