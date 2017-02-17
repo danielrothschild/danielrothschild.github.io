@@ -3,7 +3,7 @@ layout : default
 ---
 
 {::options parse_block_html="true" /}
-
+<div id="parent">
 <div id="blurb">
 <div class="title" markdown="0">
 DANIEL ROTHSCHILD  
@@ -31,7 +31,6 @@ workshops and such.
 
 <div id = "events">
 
-
 <div class="title" markdown="0">
 EVENTS
 </div>
@@ -44,6 +43,7 @@ EVENTS
 
 </div>
 </div>
+
 <div id="main">
 
 <div class="title">
@@ -131,4 +131,5 @@ old manuscript)
 
 </div>
 
+</div>
 </div>
