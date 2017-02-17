@@ -62,21 +62,20 @@ body { color: #444; font-family: 'Open Sans Condensed', sans-serif; font-weight:
 .papers { font-size: 90%; font-weight: 400; }
 
 #main { margin-left: 230px; margin-right: 190px; }
-@media (max-width: 600px) { #main { margin-left: 0px; margin-right: 0px; } }
 
 .blurb_text { font-size: 70%; padding-bottom: 0.05px; }
-@media (max-width: 600px) { .blurb_text { font-size: 100%; margin-right: 0px; } }
 
 #blurb { float: left; max-width: 184px; }
-@media (max-width: 600px) { #blurb { float: none; max-width: none; } }
 
 #events { float: right; max-width: 184px; }
-@media (max-width: 600px) { #events { float: none; max-width: none; } }
 
-@media screen and (max-width: 600px) { #parent { display: flex; flex-flow: column; }
+@media screen and (max-width: 600px) { #main { margin-left: 0px; margin-right: 0px; }
+  #parent { display: flex; flex-flow: column; }
   #main { order: 2; }
   #blurb { order: 1; }
-  #events { order: 3; } }
+  #events { order: 3; }
+  #events, #blurb { float: none; max-width: none; }
+  #blurb_text { font-size: 100%; margin-right: 0px; } }
 #nav { background-color: #333; }
 
 .active { background-color: #6E6E6E; color: black; }
