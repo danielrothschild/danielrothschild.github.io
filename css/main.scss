@@ -268,13 +268,16 @@ body {
     #events{order:3;}
 
 
-    #events, #blurb {
+    #events, #blurb, .papers {
+      font-size: 24px;
+      font-weight: 400%;
       float: none;
       max-width: none;
     }
 
+
     #blurb_text{
-      font-size: 150%;
+      font-size: 16px;
       margin-right: 0px;
     }
     .title, title2, title3, titlepapers{

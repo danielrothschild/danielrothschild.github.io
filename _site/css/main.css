@@ -82,8 +82,8 @@ body { color: #444; font-family: 'Open Sans Condensed', sans-serif; font-weight:
   #main { order: 2; }
   #blurb { order: 1; }
   #events { order: 3; }
-  #events, #blurb { float: none; max-width: none; }
-  #blurb_text { font-size: 150%; margin-right: 0px; }
+  #events, #blurb, .papers { font-size: 24px; font-weight: 400%; float: none; max-width: none; }
+  #blurb_text { font-size: 16px; margin-right: 0px; }
   .title, title2, title3, titlepapers { font-size: 140%; } }
 #nav { background-color: #333; }
 
