@@ -201,7 +201,7 @@ body {
 #main {
     margin-left: 230px;
     margin-right: 190px;
-    @media (max-width: 600px){
+    @media (max-width: 600px) or (max-device-width: 600px){
       margin-left: 0px;
       margin-right: 0px;
     }
@@ -210,7 +210,7 @@ body {
 .blurb_text {
     font-size: 70%;
     padding-bottom: 0.05px;
-    @media (max-width: 600px){
+    @media (max-width: 600px) or (max-device-width: 600px){
       font-size: 100%;
       margin-right: 0px;
     }
@@ -219,7 +219,7 @@ body {
 #blurb {
     float: left;
     max-width: 184px;
-    @media (max-width: 600px){
+    @media (max-width: 600px) or (max-device-width: 600px){
       float: none;
       max-width: none;
     }
@@ -228,13 +228,13 @@ body {
 #events {
     float: right;
     max-width: 184px;
-    @media (max-width: 600px){
+    @media (max-width: 600px) or (max-device-width: 600px){
       float: none;
       max-width: none;
     }
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width:600px) or (max-device-width: 600px){
         #parent{
           display:flex;
           flex-flow: column;
