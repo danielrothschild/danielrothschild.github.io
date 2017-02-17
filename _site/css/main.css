@@ -76,7 +76,7 @@ body { color: #444; font-family: 'Open Sans Condensed', sans-serif; font-weight:
   #events { order: 3; }
   #events, #blurb { float: none; max-width: none; }
   #blurb_text { font-size: 100%; margin-right: 0px; } }
-@media only screen and (max-width-device: 568px) { #main { margin-left: 0px; margin-right: 0px; }
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px) and (-webkit-min-device-pixel-ratio: 2) { #main { margin-left: 0px; margin-right: 0px; }
   #parent { display: flex; flex-flow: column; }
   #main { order: 2; }
   #blurb { order: 1; }
