@@ -251,6 +251,7 @@ body {
   and (max-device-width: 568px)
   {
     #main{
+      font-size: 150%
       margin-left: 0px;
       margin-right: 0px;
     }
@@ -271,8 +272,11 @@ body {
     }
 
     #blurb_text{
-      font-size: 100%;
+      font-size: 150%;
       margin-right: 0px;
+    }
+    .title, title2, title3, titlepapers{
+      font-size: 140%
     }
 }
 
