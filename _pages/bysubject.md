@@ -5,6 +5,7 @@ permalink: /subject/
 
 {::options parse_block_html="true" /}
 
+<div id="parent">
 <div id="blurb">
 <div class="title" markdown="0">
 DANIEL ROTHSCHILD  
@@ -135,4 +136,5 @@ old manuscript)
 </div>
 
 
+</div>
 </div>
