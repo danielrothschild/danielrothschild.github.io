@@ -19,7 +19,7 @@ html { font-size: 12px; }
 @media screen and (min-width: 48rem) { html { font-size: 16px; } }
 body { line-height: 1.85; }
 
-.modest-p, p { /*font-size: 1rem;*/ font-size: 100%; margin-bottom: 1.3 rem; }
+.modest-p, p { font-size: 100%; margin-bottom: 1.3 rem; }
 
 .modest-h1, .modest-h2, .modest-h3, .modest-h4, h1, h2, h3, h4 { margin: 1.414rem 0 0.5rem; font-weight: inherit; line-height: 1.42; letter-spacing: 1.5px; }
 
@@ -82,9 +82,10 @@ body { color: #444; font-family: 'Open Sans Condensed', sans-serif; font-weight:
   #main { order: 2; }
   #blurb { order: 1; }
   #events { order: 3; }
-  #events, #blurb, .papers { font-size: 24px; font-weight: 400%; float: none; max-width: none; }
-  #blurb_text { font-size: 16px; margin-right: 0px; }
-  .title, title2, title3, titlepapers { font-size: 140%; } }
+  #events, #blurb { float: none; max-width: none; }
+  #blurb_text { padding-bottom: none; font-size: 140%; margin-right: none; }
+  .title, title2, title3, titlepapers { font-size: 140%; }
+  #papers { font-size: 120%; } }
 #nav { background-color: #333; }
 
 .active { background-color: #6E6E6E; color: black; }
