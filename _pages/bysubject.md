@@ -75,7 +75,7 @@ PAPERS BY [DATE]({{ site.baseurl }}/){:.nounder} / <span class="underline"> SUBJ
 {% if paper.subject == subject %}
 
 [{{ paper.title }}]({{ paper.url }}){:.paper} {% if paper.local %} ([penultimate draft]({{ site.url }}/{{ paper.local }})) {% endif %}  
-({% if paper.coauthor %}with {{ paper.coauthor }}, {% endif %}*{{ paper.journal }}*,  {% if paper.year %} {{paper.year}}{% else %} forthcoming{% endif %})
+({% if paper.coauthor %}with {{ paper.coauthor }}, {% endif %}*{{ paper.journal }}*,  {% if paper.year %} {{paper.year}}{% else %} forthcoming{% endif %}{% if paper.note %}, {{paper.note}}{% endif %})
 
 
 
