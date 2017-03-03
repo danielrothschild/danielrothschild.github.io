@@ -153,15 +153,33 @@ body {
     font-size: 65%;
     font-weight: 700;
     letter-spacing: 2px;
+    padding-top: 10px;
 }
 
 .title {
     font-size: 80%;
     font-weight: 700;
     letter-spacing: 1.5px;
+    padding-bottom: 17px;
+    padding-top: 0;
+}
+
+.title-middle {
+    font-size: 80%;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    padding-bottom: 6px;
+    padding-top: 0;
+}
+
+.title-right {
+    font-size: 80%;
+    font-weight: 700;
+    letter-spacing: 1.5px;
     padding-bottom: 15px;
     padding-top: 0;
 }
+
 
 .title2 {
     font-size: 80%;
@@ -204,6 +222,11 @@ body {
 }
 
 .blurb_text {
+    font-size: 70%;
+    padding-bottom: 0.05px;
+}
+
+.blurb_text_events {
     font-size: 70%;
     padding-bottom: 0.05px;
 }

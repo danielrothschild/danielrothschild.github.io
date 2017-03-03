@@ -47,9 +47,13 @@ html { font-size: 18px; max-width: 100%; }
 
 body { color: #444; font-family: 'Open Sans Condensed', sans-serif; font-weight: 400; margin: 0 auto; max-width: 48rem; line-height: 1.45; padding: 30px; }
 
-.section { font-size: 65%; font-weight: 700; letter-spacing: 2px; }
+.section { font-size: 65%; font-weight: 700; letter-spacing: 2px; padding-top: 10px; }
 
-.title { font-size: 80%; font-weight: 700; letter-spacing: 1.5px; padding-bottom: 15px; padding-top: 0; }
+.title { font-size: 80%; font-weight: 700; letter-spacing: 1.5px; padding-bottom: 17px; padding-top: 0; }
+
+.title-middle { font-size: 80%; font-weight: 700; letter-spacing: 1.5px; padding-bottom: 6px; padding-top: 0; }
+
+.title-right { font-size: 80%; font-weight: 700; letter-spacing: 1.5px; padding-bottom: 15px; padding-top: 0; }
 
 .title2 { font-size: 80%; font-weight: 700; letter-spacing: 1.5px; padding-bottom: 2px; padding-top: 6px; }
 
@@ -64,6 +68,8 @@ body { color: #444; font-family: 'Open Sans Condensed', sans-serif; font-weight:
 #main { margin-left: 230px; margin-right: 190px; }
 
 .blurb_text { font-size: 70%; padding-bottom: 0.05px; }
+
+.blurb_text_events { font-size: 70%; padding-bottom: 0.05px; }
 
 #blurb { float: left; max-width: 184px; }
 

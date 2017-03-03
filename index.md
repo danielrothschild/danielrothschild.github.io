@@ -31,11 +31,11 @@ workshops and such.
 
 <div id = "events">
 
-<div class="title" markdown="0">
-EVENTS
+<div class="title-right" markdown="0">
+EVENTS ETC.
 </div>
 
-<div class ="blurb_text">
+<div class ="blurb_text_events">
 
 {% for page in site.pages %} {% if page.location %}
 [{{page.title}}]( {{ page.url | prepend: site.baseurl }}), {{page.location}}, {{page.date}}
@@ -46,7 +46,7 @@ EVENTS
 
 <div id="main">
 
-<div class="title">
+<div class="title-middle">
 
 PAPERS BY <span class="underline">DATE</span> / [SUBJET]({{ site.baseurl }}/subject/){:.nounder}
 
