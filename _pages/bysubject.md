@@ -53,7 +53,7 @@ EVENTS
 
 <div class="title" >
 
-PAPERS BY [DATE]({{ site.baseurl }}/){:.nounder} / <span class="underline"> SUBJET</span>
+PAPERS BY [DATE]({{ site.baseurl }}/){:.nounder} / <span class="underline"> SUBJECT</span>
 
 
 </div>

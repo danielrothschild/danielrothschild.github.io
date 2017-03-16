@@ -48,7 +48,7 @@ EVENTS ETC.
 
 <div class="title-middle">
 
-PAPERS BY <span class="underline">DATE</span> / [SUBJET]({{ site.baseurl }}/subject/){:.nounder}
+PAPERS BY <span class="underline">DATE</span> / [SUBJECT]({{ site.baseurl }}/subject/){:.nounder}
 
 </div>
 
