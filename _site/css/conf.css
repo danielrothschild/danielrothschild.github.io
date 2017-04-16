@@ -377,6 +377,17 @@ code {
   background-color: #fafafa;
 }
 
+hr {
+    display: block;
+    color: white;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 0em;
+    margin-right: 0em;
+    border-style: dashed;
+    border-width: 1px;
+}
+
 footer {
   bottom: 0;
   left: 0;
