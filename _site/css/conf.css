@@ -230,6 +230,16 @@ body {
    padding-bottom: 0px;
 }
 
+.titleblack {
+  color: black;
+  text-transform: uppercase;
+  font-size: 80%;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+   padding-bottom: 0px;
+}
+
+
 .title2 {
   font-size: 80%;
   font-weight: 700;
