@@ -48,7 +48,9 @@ Comments: [Ethan Nowak](http://www.ethannowak.net/)
 
 <span class ="titleblack"> 3:15-3:45 Tea </span>
 
-<span class ="titleblack"> 3:45-5:30 Brian Rabern, *TBA* </span>
+<span class ="titleblack"> 3:45-5:30 Brian Rabern, *The myth of occurrence-based semantics* </span>
+
+*Abstract*: The principle of compositionality requires that the meaning of a complex remains the same after substitution of synonymous expressions. Theorists have been largely successful in providing compositional treatments of various problematic constructions, but certain recalcitrant cases remain. The apparent counterexamples to compositionality seem to force a theoretical choice: either apparent synonyms are not synonyms or synonyms do not syntactically occur where they appear to occur. Some have seen in Frege a doctrine of occurrence-based semantics, which provides an attractive alternative. According to this Fregean doctrine, the Bedeutung of an expression is sensitive to the linguistic context it is embedded in. It is thought that this doctrine can retain the relevant claims about synonymy and substitution (but relativized to an occurrence), while respecting the compositionality principle. Proponents of occurrence-based semantics promise liberation from the constraints of standard semantics. Thus, Salmon (2006) and more recently Glanzberg and King (manuscript) offer an occurrence-based alternative for variable-binding, which promises to avoid the unpalatable consequences of the standard approaches. Similarly, Pagin and Westerståhl (2010) argue that an occurrence-based semantics delivers a compositional account of quotation. We argue that the idea that there is a Frege-inspired occurrence-based semantics which provides an alternative to the standard expression-based semantics is a myth.
 
 <span class ="titleblack"> 5:30-6:30 Drinks reception </span>
 
