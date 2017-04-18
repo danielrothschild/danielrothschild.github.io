@@ -38,6 +38,9 @@ Date: 13 May 2017 (11 - 5:30pm)
 
 *Abstract*: Kaplan famously asserted that natural language (or at least, English) contains no context-shifting operators—what he dubs "monsters". The claim has generated much controversy, partly because it's unclear what it amounts to. Interpretations of it vary widely, ranging from ones that make it into a conceptual truth (Stalnaker) to ones that make it patently false (Rabern and Ball). I suggest that the way to make the claim both theoretically interesting and empirically substantial is to shift attention to a different question. Rather than "Are there monsters in language L?", the question that carves conceptual space at the joints is "Is language L monstrous?"—where a language is monstrous iff all the contextual parameters it exploits are (in principle) shiftable. I argue that (i) this makes best sense both of Kaplan's claim about monsters and of his opposition to them, and (ii) that, in combination with recent empirical work, it shows that Kaplan-style semantic frameworks should be dropped, and we should revert to simple double-indexing frameworks.
 
+Comments: [Anders Schoubye](http://schoubye.org/)
+
+
 <span class ="titleblack">12:30-1:30 Lunch </span>
 
 <span class ="titleblack">1:30-3:15 Una Stojnic, *Context and The Grammar of Prominence* </span>
