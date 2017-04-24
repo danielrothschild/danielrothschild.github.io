@@ -6,7 +6,7 @@ a.k.a. Formal Methods in Philosophy (PHIL3085/PHILGA84/PHILG085)
 [Daniel Rothschild](http://danielrothschild.com/)
 
 
-#### Time and place: 
+#### Time and place:
 
 Autumn 2016, Tuesdays 2-4PM, 19 Gordon Square, UCL, seminar room, first floor.
 
@@ -14,17 +14,18 @@ The module will follow the standard UCL academic calendar for term 1: the first 
 
 #### Description
 
-This course is a survey of some mathematics and logic commonly used across contemporary philosophy.  This will include some metatheory, modal logic, probability theory, and other topics of interest.  The aim is to equip you to be able to read and understand contemporary articles, while this class is sometimes at a high level it is specifically geared, as well, for students without a strong technical background. 
+This course is a survey of some mathematics and logic commonly used across contemporary philosophy.  This will include some set theory, metatheory, modal logic, probability theory, and other topics of interest.  The aim is to equip you to be able to read and understand contemporary articles, while this class is sometimes at a high level it is specifically geared, as well, for students without a strong technical background.
 
 #### Prerequisites
 
-Basic knowledge of propositional and predicate logic will be assumed, though we will not rely explicitly on any previous content.  For those wishing to do some background reading they may find David Papineau's [Philosophical Devices](https://www.amazon.co.uk/Philosophical-Devices-Proofs-Probabilities-Possibilities/dp/0199651736) helpful. 
+Basic knowledge of propositional and predicate logic will be assumed, though we will not rely explicitly on any previous content.  For those wishing to do some background reading they may find David Papineau's [Philosophical Devices](https://www.amazon.co.uk/Philosophical-Devices-Proofs-Probabilities-Possibilities/dp/0199651736) helpful.
 
 ####  Practical information:
 
-*All our welcome as auditors* and should feel free to come to any sessions (and may pick and choose according to interest). 
+*All our welcome as auditors* and should feel free to come to any sessions (and may pick and choose according to interest).
 
 There will be weekly problem sets  (9 in total), on which collaboration is encouraged.  For undergraduates there is a final exam (Problem sets are worth 60% and exam is worth 40%.)  Graduate students are not graded by exam but are required to answer more and more difficult problems.
+
 
 #### Readings
 
@@ -33,8 +34,6 @@ Readings will be provided on moodle with the exception of the one textbook, [Sid
 John Burgess's book [Philosophical Logic](https://www.amazon.co.uk/Philosophical-Princeton-Foundations-Contemporary-Philosophy/dp/0691156336), covers some of the topics covered in the course.
 
 #### Schedule:
-
-*This is subject to change.  If there are topics you are particularly interested in please email me.*
 
 ##### Set Theory
 
@@ -98,11 +97,17 @@ No problem set! (please look over Sider)
 
 [Problem set 9](https://www.dropbox.com/s/azl4ynzornzqzf1/WSM16%20PS9.pdf?dl=0)
 
+
+##### Final exam
+
+[Previous year's exam](danielrothschild.com/wsmfinal1516.pdf)
+
+[Notes](https://www.dropbox.com/s/ytb1p3xtvi8qhmg/finalnotes.pdf?dl=0)
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
-var sc_project=11115844; 
-var sc_invisible=1; 
-var sc_security="241cefc5"; 
+var sc_project=11115844;
+var sc_invisible=1;
+var sc_security="241cefc5";
 var scJsHost = (("https:" == document.location.protocol) ?
 "https://secure." : "http://www.");
 document.write("<sc"+"ript type='text/javascript' src='" +
@@ -115,11 +120,3 @@ target="_blank"><img class="statcounter"
 src="//c.statcounter.com/11115844/0/241cefc5/1/"
 alt="shopify site analytics"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
-
-
-
-
-
-
-
-
