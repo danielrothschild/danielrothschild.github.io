@@ -100,7 +100,7 @@ No problem set! (please look over Sider)
 
 ##### Final exam
 
-[Previous year's exam](danielrothschild.com/wsmfinal1516.pdf)
+[Previous year's exam](https://danielrothschild.com/wsmfinal1516.pdf)
 
 [Notes](https://www.dropbox.com/s/ytb1p3xtvi8qhmg/finalnotes.pdf?dl=0)
 <!-- Start of StatCounter Code for Default Guide -->
