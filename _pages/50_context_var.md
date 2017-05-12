@@ -27,6 +27,7 @@ Date: 13 May 2017 (11 - 5:30pm)
 
 <div class="title"> ORGANIZERS </div>
 
+Nathan Klinedinst, UCL <br>
 [Daniel Rothschild](http://danielrothschild.com/), UCL <br>
 [Alex Silk](http://www-personal.umich.edu/~asilk/Alex_Silk/home.html), Birmingham
 
