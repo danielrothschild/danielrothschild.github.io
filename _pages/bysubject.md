@@ -13,7 +13,7 @@ DANIEL ROTHSCHILD
 
 <div class="blurb_text">
 
-I teach [philosophy](https://www.ucl.ac.uk/philosophy) at [University
+I am a Professor in the [philosophy department](https://www.ucl.ac.uk/philosophy) at [University
 College London](https://www.ucl.ac.uk/). Most of my work is about
 language and meaning. You can also find links to a [website (in
 progress) on dynamic semantics](http://dynsem.github.io/) and my
