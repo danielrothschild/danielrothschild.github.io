@@ -10,11 +10,8 @@
     text-shadow: none !important;
   }
 
-  a,
-  a:visited {
-    text-decoration: underline;
-  }
 
+/*
   a[href]:after {
     content: " (" attr(href) ")";
   }
@@ -26,7 +23,7 @@
   a[href^="#"]:after,
   a[href^="javascript:"]:after {
     content: "";
-  }
+  }*/
 
   pre,
   blockquote {
@@ -79,6 +76,9 @@ pre {
 a,
 a:visited {
   color:  #000000;
+  text-decoration: none;
+  border-bottom: 1.5px solid #000;
+  padding-bottom: 2px;
 }
 
 a:hover,

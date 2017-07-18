@@ -30,7 +30,7 @@ This is a critical introduction to dynamic semantics taught by [Daniel Rothschil
 
 <span class="underline">Day 5 </span> : TBD
 
-[Technical Summary](https://www.dropbox.com/s/y65q2qf0567vl9j/DYNSEM%20-%20summary.pdf?dl=0)
+[TECHNICAL SUMMARY](https://www.dropbox.com/s/y65q2qf0567vl9j/DYNSEM%20-%20summary.pdf?dl=0)
 
 <div class="title"> READINGS </div>
 
