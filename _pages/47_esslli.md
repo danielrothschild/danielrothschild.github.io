@@ -20,13 +20,13 @@ This is a critical introduction to dynamic semantics taught by [Daniel Rothschil
 
 <div class="title"> handouts </div>
 
-<span class="underline">Day 1 </span> : Pronouns and presuppositions
+[Day 1](https://www.dropbox.com/s/rn78cpn5rcpgatc/ESSLLI%20Day%201%20.pdf?dl=0): Pronouns and presuppositions
 
-<span class="underline">Day 2 </span> : Epistemic modals and generalized quantifiers
+[Day 2](https://www.dropbox.com/s/dg4wg3dzkxfpvvm/ESSLLI%20Day%202%20.pdf?dl=0): Epistemic modals and generalized quantifiers
 
-<span class="underline">Day 3 </span> : Situational alternatives for anaphora
+[Day 3](https://www.dropbox.com/s/ftw6dn4iu68m8rj/ESSLLI%20Day%203.pdf?dl=0) : Situational alternatives for anaphora
 
-<span class="underline">Day 4 </span> : Pragmatic alternatives for presuppositions
+[Day 4](https://www.dropbox.com/s/o4qlegscu7vqpdj/ESSLLI%20Day%204.pdf?dl=0) : Pragmatic alternatives for presuppositions
 
 <span class="underline">Day 5 </span> : TBD
 
