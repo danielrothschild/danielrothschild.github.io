@@ -27,10 +27,12 @@ This is a critical introduction to dynamic semantics taught by [Daniel Rothschil
 [Day 3](https://www.dropbox.com/s/ftw6dn4iu68m8rj/ESSLLI%20Day%203.pdf?dl=0) : Situational alternatives for anaphora
 
 [Day 4](https://www.dropbox.com/s/o4qlegscu7vqpdj/ESSLLI%20Day%204.pdf?dl=0) : Pragmatic alternatives for presuppositions
-
+n
 <span class="underline">Day 5 </span> : TBD
 
 [TECHNICAL SUMMARY](https://www.dropbox.com/s/y65q2qf0567vl9j/DYNSEM%20-%20summary.pdf?dl=0)
+
+[EXTENDED DRAFT DISCUSSION OF SITUATION SEMANTICS](https://www.dropbox.com/s/sdok27mr62857w5/etype.pdf?dl=0)
 
 <div class="title"> READINGS </div>
 
