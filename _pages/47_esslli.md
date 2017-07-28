@@ -28,7 +28,7 @@ This is a critical introduction to dynamic semantics taught by [Daniel Rothschil
 
 [Day 4](https://www.dropbox.com/s/o4qlegscu7vqpdj/ESSLLI%20Day%204.pdf?dl=0) : Pragmatic alternatives for presuppositions
 
-<span class="underline">Day 5 </span> : TBD
+[Day 5](https://www.dropbox.com/s/epsb9ongcgthqcw/ESSLLI%20Day%205.pdf?dl=0) : Plural anaphora and dynamic epistemic modals
 
 [TECHNICAL SUMMARY](https://www.dropbox.com/s/y65q2qf0567vl9j/DYNSEM%20-%20summary.pdf?dl=0)
 
