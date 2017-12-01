@@ -1,6 +1,6 @@
 ---
 layout: conf
-title: Dynamic Semantics
+title: Static vs Dynamic
 permalink: /dynamics/
 location: All Souls College, Oxford
 date: 19-20 March 2018
@@ -37,5 +37,3 @@ Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and
 </span>
 
 ![AHRC](/AHRClime.jpg)
-
-</div>
