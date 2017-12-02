@@ -1,5 +1,5 @@
 ---
-layout: conf
+layout: conf3
 title: Static vs Dynamic
 permalink: /dynamics/
 location: All Souls College, Oxford
@@ -7,11 +7,11 @@ date: 19-20 March 2018
 ---
 
 
-##### Dynamics over Wine and (vegan?) Cheese
+#####  Static or Dynamic? You choose!
 
 
 
-![ASC](/asc.jpeg)
+![PIG](/pig.jpg)
 
 Location: All Souls College, Oxford <br>
 Date: 19-20 March 2018
@@ -36,4 +36,4 @@ Date: 19-20 March 2018
 Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1.
 </span>
 
-![AHRC](/AHRCmustard.jpg)
+![AHRC](/ahrclavendar.jpg)
