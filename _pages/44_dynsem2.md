@@ -1,13 +1,13 @@
 ---
 layout: conf3
-title: Static vs Dynamic
+title: Meaning as Action
 permalink: /dynamics/
 location: All Souls College, Oxford
 date: 19-20 March 2018
 ---
 
 
-#####  Static or Dynamic? You choose!
+#####  Meaning as Action
 
 
 
