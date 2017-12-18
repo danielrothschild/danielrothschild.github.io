@@ -7,7 +7,7 @@ date: 19-20 March 2018
 ---
 
 
-#####  Meaning as Action
+#####  MEANING AS ACTION
 
 
 
@@ -32,6 +32,10 @@ Date: 19-20 March 2018
 [Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/), All Souls College, Oxford
 
 ---
+<span class ="smaller">
+Image © University of Edinburgh
+</span>
+
 <span class ="smaller">
 Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1.
 </span>
