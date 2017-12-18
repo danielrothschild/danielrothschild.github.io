@@ -35,7 +35,7 @@ Date: 19-20 March 2018
 
 
 <span class ="smaller">
-Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1. Image © University of Edinburgh
+Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1. Image © University of Edinburgh.
 </span>
 
 
