@@ -93,6 +93,8 @@ DRAFTS AND HANDOUTS
 
 <div class="papers">
 
+[Slides for Amsterdam Colloquium](ampartial.pdf) (2017, slides for Amsterdam Colloquium talk A Trivalent Approach to Anaphora and Presupposition)
+
 [Dynamic Conditionals](DynamicConditionals.pdf){:.paper} (2015, handout
 on the dynamic test semantics for conditionals for a workshop on
 conditionals in Osnabrük)
