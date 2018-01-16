@@ -26,6 +26,15 @@ Date: 19-20 March 2018
 [Rick Nouwen](http://ricknouwen.org/rwfn/), Utrecht    <br>
 [Zoltan Szabo](http://campuspress.yale.edu/zoltanszabo/), Yale
 
+<div class="title"> COMMENTATORS </div>
+
+[Amir Anvari](https://sites.google.com/site/amiraanvari/), Institut Jean-Nicod <br>
+[David Boylan](https://davidhboylan.weebly.com/), MIT <br>
+[Ofra Magidor](http://www.magidor.com/), Oxford <br>
+[Marie-Christine Meyer](http://www.zas.gwz-berlin.de/mitarbeiter_meyer.html), ZAS <br>
+[Jacopo Romoli](http://www.jacoporomoli.com/), Ulster <br>
+[Shane Steinert-Threlkeld](http://shane.st/), ILLC
+
 <div class="title"> ORGANIZERS </div>
 
 [Daniel Rothschild](http://danielrothschild.com/), University College London <br>
