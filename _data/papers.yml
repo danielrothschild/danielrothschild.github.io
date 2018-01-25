@@ -34,7 +34,7 @@
   journal: Linguistics and Philosophy
   coauthor: "[Seth Yalcin](http://yalcin.cc/)"
   local: discourse-submitted.pdf
-  subject: Dynamics Semantics
+  subject: Dynamic Semantics
 
 
 - title: Belief is Weak
@@ -61,7 +61,7 @@
   journal: Noûs
   coauthor: "[Seth Yalcin](http://yalcin.cc/)"
   local: dynamics.pdf
-  subject: Dynamics Semantics
+  subject: Dynamic Semantics
 
 - title: "Conditionals and Propositions in Semantics"
   url: http://dx.doi.org/10.1007/s10992-015-9359-5
@@ -101,7 +101,6 @@
   url: semconditionals.pdf
   year: "2012"
   journal: "Conditionals, Probability, and Paradox: Themes from the Philosophy of Dorothy Edgington"
-  local: conditionals.pdf
   subject: Connectives/Conditionals
   note: "John Hawthorne and Lee Walters (eds.), OUP, in press"
 
