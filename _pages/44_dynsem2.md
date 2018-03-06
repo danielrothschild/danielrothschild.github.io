@@ -39,6 +39,10 @@ Date: 19-20 March 2018
 [Daniel Rothschild](http://danielrothschild.com/), University College London <br>
 [Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/), All Souls College, Oxford
 
+<div class="title"> Registration </div>
+
+Open to all but registration is required [here](https://docs.google.com/forms/d/e/1FAIpQLSdMHLpawGFzlwa_IryMNWIciA_gtpGBZc2KlNuHh-NDOg0bjQ/viewform?usp=sf_link)
+
 <div class="title"> SCHEDULE </div>
 
 <span class ="titleblack"> Day 1: Monday, 19 March  </span>
@@ -68,7 +72,7 @@ Abstract: Static and dynamic theories of indefinites are motivated by the same k
 
 <span class ="titleblack"> 10:30 Coffee </span>
 
-<span class ="titleblack"> 11-1 Karen Lewis, *Context-Free Semantics* </span>
+<span class ="titleblack"> 11-1 Karen Lewis, *Descriptions, Pronouns, and Uniqueness* </span>
 
 Abstract: Both definite descriptions and pronouns are often anaphoric; that is, part of their interpretation in context depends on prior linguistic material in the discourse.  For example:
 
@@ -84,12 +88,12 @@ One popular view of anaphoric pronouns, the d-type view, is that pronouns like "
 
 <span class ="titleblack"> 4 Coffee </span>
 
-<span class ="titleblack"> 4:30-6:30 TBA, Irene Heim </span>
+<span class ="titleblack"> 4:30-6:30 Irene Heim </span>
 
-<span class ="titleblack"> Drinks receptions </span>
+<span class ="titleblack"> 6:30-7:30 Drinks receptions </span>
 
-
-
+<span class ="titleblack"> 7:30- Conference dinner </span>
+Please email one of the organizers if you wish to attend the dinner.
 
 ---
 
