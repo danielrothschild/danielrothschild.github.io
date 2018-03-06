@@ -40,8 +40,13 @@ Date: 19-20 March 2018
 [Daniel Rothschild](http://danielrothschild.com/), University College London <br>
 [Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/), All Souls College, Oxford
 
----
+<div class="title"> SCHEDULE </div>
 
+<span class ="titleblack"> 10:15-10:45 Coffee </span>
+
+<span class ="titleblack"> 10:45-12:30 Paolo Santorio, *Context-Free Semantics* </span>
+
+---
 
 <span class ="smaller">
 Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1. Image © University of Edinburgh.
