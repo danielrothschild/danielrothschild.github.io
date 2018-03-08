@@ -19,6 +19,7 @@ Date: 19-20 March 2018
 
 <div class="title"> SPEAKERS </div>
 
+[Amir Anvari](https://sites.google.com/site/amiraanvari/), Institut Jean-Nicod <br>
 [Simon Charlow](https://simoncharlow.com/), Rutgers <br>
 [Simon Goldstein](http://simondgoldstein.com/), Lingnan <br>
 [Irene Heim](http://linguistics.mit.edu/user/heim/), MIT <br>
@@ -27,7 +28,7 @@ Date: 19-20 March 2018
 
 <div class="title"> COMMENTATORS </div>
 
-[Amir Anvari](https://sites.google.com/site/amiraanvari/), Institut Jean-Nicod <br>
+
 [David Boylan](https://davidhboylan.weebly.com/), MIT <br>
 [Ofra Magidor](http://www.magidor.com/), Oxford <br>
 [Marie-Christine Meyer](http://www.zas.gwz-berlin.de/mitarbeiter_meyer.html), ZAS <br>
@@ -53,6 +54,7 @@ Open to all but registration is required [here](https://docs.google.com/forms/d/
 
 Abstract: There are two main views about presupposition. According to one, (originally hinted at by Peter Strawson and later developed by Robert Stalnaker) presuppositions are manifested prior assumptions. According to the other, (originally hinted at by Paul Grice and later developed by David Beaver, Craige Roberts, Mandy Simons and Judith Tonhauser) presuppositions are backgrounded current implications. To account for informative presuppositions, proponents of the first view introduce accommodation, which leads to empirical difficulties. The second view eschews accommodation of propositions but, I will argue, it leaves us with the need to make sense of accommodation of questions. This is easier done in the sort of framework proponents of the first view have developed. In the paper, I propose a simple model of conversation within which the two views can be synthesized. Within this model we can identify some of the basic norms of conversation guiding what can be asserted, asked, and presupposed.  
 
+
 <span class ="titleblack"> 1 Lunch </span>
 
 
@@ -64,7 +66,7 @@ Abstract: Static and dynamic theories of indefinites are motivated by the same k
 <span class ="titleblack"> 4 Coffee </span>
 
 
-<span class ="titleblack"> 4:30-6:30 TBA ,  </span>
+<span class ="titleblack"> 4:30-6:30 Amir Anvari  *Forks in the theory of local contexts*</span>
 
 <span class ="titleblack"> Drinks receptions </span>
 
@@ -88,7 +90,7 @@ One popular view of anaphoric pronouns, the d-type view, is that pronouns like "
 
 <span class ="titleblack"> 4 Coffee </span>
 
-<span class ="titleblack"> 4:30-6:30 Irene Heim </span>
+<span class ="titleblack"> 4:30-6:30 Irene Heim, *Do we need plural information states?* </span>
 
 <span class ="titleblack"> 6:30-7:30 Drinks receptions </span>
 
