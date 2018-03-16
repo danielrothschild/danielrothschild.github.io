@@ -46,6 +46,10 @@ Open to all but registration is required [here](https://docs.google.com/forms/d/
 
 <div class="title"> SCHEDULE </div>
 
+<span class ="titleblack"> Day 0: Sunday, 18 March  </span>
+
+Informal Drinks & Food: [Turf Tavern](https://goo.gl/maps/bPmPBaSBzq72), 7:30 PM
+
 <span class ="titleblack"> Day 1: Monday, 19 March  </span>
 
 <span class ="titleblack"> 10:30 Coffee </span>
@@ -86,7 +90,9 @@ One popular view of anaphoric pronouns, the d-type view, is that pronouns like "
 
 <span class ="titleblack"> 1 Lunch </span>
 
-<span class ="titleblack"> 2-4 Simon Goldstein </span>
+<span class ="titleblack"> 2-4 Simon Goldstein *Free Choice and Homogeneity* </span>
+
+Abstract: In this paper, I'll develop a dynamic semantics for disjunction to solve the puzzle of Free Choice permission. I'll begin by considering a battery of impossibility results showing that Free Choice is in tension with a variety of classical principles, including Disjunction Introduction and the Law of Excluded Middle. Most interestingly, Free Choice appears incompatible with a principle concerning the behavior of disjunctive possibility modals under negation, Dual Prohibition, which says that Mary can't have soup or salad implies Mary can't have soup and Mary can't have salad. Then I'll argue that all of these results can be avoided by giving up one assumption: the transitivity of entailment. To implement this solution, I'll propose that the bare disjunction A or B is defined only when A and B are homogenous with respect to their modal status, either both possible or both impossible. When we rely on a notion of entailment that is appropriately sensitive to definedness conditions, we can validate Free Choice while retaining a wide variety of classical principles except for the transitivity of entailment.
 
 <span class ="titleblack"> 4 Coffee </span>
 
