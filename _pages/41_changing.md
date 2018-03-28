@@ -30,10 +30,11 @@ Auditors and provocateurs welcome.
 <div class="title"> TENTATIVE SCHEDULE </div>
 
 <span class="titleblack"> 26 April (Thurs) </span>  <span class = "titlethin"> INTRODUCTION TO CHANGES IN BELIEF </span> <br>
-Harman's *Change in View* (pages 1-75).
+Harman's *Change in View* ([pages 1-75](https://www.dropbox.com/s/iynhp1s702m2g5z/Selections-%20Change%20in%20View.pdf?dl=0)).
 
 
 <span class="titleblack">3 May (Thurs)</span> <span class = "titlethin">  CREDENCE AND BELIEF </span><br>
+Christensen, [Two Models of Belief](http://fitelson.org/bayes/christensen_ch2.pdf) from *Putting Logic in its Place* <br>
 Sturgeon, [Reason and the Grain of Belief](http://www.jstor.org/stable/25177157)  <br>
 Buchak, [Belief, Credence, and Norms](http://www.larabuchak.net/s/A04-Belief-Credence-and-Norms.pdf)  <br>
 Hawthorne, Rothschild, Spectre, [Belief is weak](http://dx.doi.org/10.1007/s11098-015-0553-7)
@@ -42,22 +43,28 @@ Hawthorne, Rothschild, Spectre, [Belief is weak](http://dx.doi.org/10.1007/s1109
 <span class="titleblack"> 17 May (Thurs) </span> <span class = "titlethin"> REFLECTION </span><br>
 Fraassen, [Belief and the Problem of Ulysses and the Sirens](https://link.springer.com/content/pdf/10.1007/BF00996309.pdf) <br>
 Elga, [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167) <br>
+Artzenius [Some Problems for Conditionalization and Reflection](http://www.jstor.org/stable/3655783)<br>
 Briggs, [Distorted Reflection](https://www.jstor.org/stable/41441862)  
 
 <span class="titleblack">24 May (Thurs)</span> <span class = "titlethin"> DIACHRONIC RATIONALITY </span><br>
 Christensen, [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)  <br>
+Hedden, [Time-Slice Rationality](https://philpapers.org/go.pl?id=HEDTR&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FHEDTR.pdf)<br>
 Carr, [Don't stop believing](https://www.tandfonline.com/doi/abs/10.1080/00455091.2015.1123454)
 
 <span class="titleblack">31 May (Thurs)</span> <span class = "titlethin"> AGM </span><br>
 Gardenfors, [Belief Revision: an Introduction](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.6169&rep=rep1&type=pdf) <br>
-Hansson, [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
-
+Hansson, [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic-belief-revision/) <br>
+Shear and Fitelson, [Two Approaches to Belief Revision](https://link.springer.com/content/pdf/10.1007%2Fs10670-017-9968-1.pdf)
 
 
 <span class="titleblack">4 June (Mon)</span> <span class = "titlethin"> BELIEF CHANGE AND KNOWLEDGE </span><br>
 Kripke, [On Two Paradoxes of Knowledge](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199730155.001.0001/acprof-9780199730155-chapter-2)
 
 <span class="titleblack">7 June (Thurs)</span> <span class = "titlethin"> SCIENTIFIC CHANGE? </span>
+
+<div class="title"> Resources </div>
+
+This course syllabus from [Branden Fitelson](http://fitelson.org/) is particularly useful: [Fundamentals of Bayesian Epistemology](http://fitelson.org/bayes/syllabus.html)
 
 ---
 
