@@ -43,9 +43,9 @@ Hawthorne, Rothschild, Spectre, [Belief is weak](http://dx.doi.org/10.1007/s1109
 
 <span class="titleblack"> 17 May (Thurs) </span> Reflection
 
-Fraassen [Belief and the Problem of Ulysses and the Sirens](https://link.springer.com/content/pdf/10.1007/BF00996309.pdf) <br>
-Elga [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167) <br>
-Briggs [Distorted Reflection](https://www.jstor.org/stable/41441862)  
+Fraassen, [Belief and the Problem of Ulysses and the Sirens](https://link.springer.com/content/pdf/10.1007/BF00996309.pdf) <br>
+Elga, [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167) <br>
+Briggs, [Distorted Reflection](https://www.jstor.org/stable/41441862)  
 
 <span class="titleblack">24 May (Thurs)</span> Diachronic rationality
 
