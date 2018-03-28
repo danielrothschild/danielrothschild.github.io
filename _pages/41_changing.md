@@ -7,7 +7,11 @@ date:  Term 3, 2018
 ---
 
 
+<<<<<<< HEAD
 ##### CHANGING BELIEFS
+=======
+##### Changing Beliefs
+>>>>>>> 29c6f3564c5cbddb357f6eb2772d76214b5aa7fe
 
 
 <img src="/vinci.jpg" width="500">
@@ -36,13 +40,21 @@ Harman's *Change in View* (pages 1-75).
 
 <span class="titleblack">3 May (Thurs)</span>  Credence and belief
 
+<<<<<<< HEAD
 Sturgeon, [Reason and the Grain of Belief](http://www.jstor.org/stable/25177157)  <br>
 Buchak, [Belief, Credence, and Norms](http://www.larabuchak.net/s/A04-Belief-Credence-and-Norms.pdf)  <br>
+=======
+Sturgeon, [Reason and the Grain of Belief](http://www.jstor.org/stable/25177157)
+
+Buchak, [Belief, Credence, and Norms](http://www.larabuchak.net/s/A04-Belief-Credence-and-Norms.pdf)
+
+>>>>>>> 29c6f3564c5cbddb357f6eb2772d76214b5aa7fe
 Hawthorne, Rothschild, Spectre, [Belief is weak](http://dx.doi.org/10.1007/s11098-015-0553-7)
 
 
 <span class="titleblack"> 17 May (Thurs) </span> Reflection
 
+<<<<<<< HEAD
 Fraassen [Belief and the Problem of Ulysses and the Sirens](https://link.springer.com/content/pdf/10.1007/BF00996309.pdf) <br>
 Elga [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167) <br>
 Briggs [Distorted Reflection](https://www.jstor.org/stable/41441862)  
@@ -50,11 +62,28 @@ Briggs [Distorted Reflection](https://www.jstor.org/stable/41441862)
 <span class="titleblack">24 May (Thurs)</span> Diachronic rationality
 
 Christensen, [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)  <br>
+=======
+Fraassen [Belief and the Problem of Ulysses and the Sirens](https://link.springer.com/content/pdf/10.1007/BF00996309.pdf)
+
+Elga [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167)
+
+Briggs [Distorted Reflection](https://www.jstor.org/stable/41441862)
+
+<span class="titleblack">24 May (Thurs)</span> Diachronic rationality
+
+Christensen, [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)
+
+>>>>>>> 29c6f3564c5cbddb357f6eb2772d76214b5aa7fe
 Carr, [Don't stop believing](https://www.tandfonline.com/doi/abs/10.1080/00455091.2015.1123454)
 
 <span class="titleblack">31 May (Thurs)</span>  AGM
 
+<<<<<<< HEAD
 Gardenfors, [Belief Revision: an Introduction](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.6169&rep=rep1&type=pdf) <br>
+=======
+Gardenfors, [Belief Revision: an Introduction](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.6169&rep=rep1&type=pdf)
+
+>>>>>>> 29c6f3564c5cbddb357f6eb2772d76214b5aa7fe
 Hansson, [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
 
 
@@ -63,4 +92,8 @@ Hansson, [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic
 
 Kripke, [On Two Paradoxes of Knowledge](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199730155.001.0001/acprof-9780199730155-chapter-2)
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 29c6f3564c5cbddb357f6eb2772d76214b5aa7fe
 <span class="titleblack">7 June (Thurs)</span> Scientific Change?
