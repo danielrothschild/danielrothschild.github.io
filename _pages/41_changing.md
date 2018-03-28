@@ -58,3 +58,9 @@ Hansson, [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic
 Kripke, [On Two Paradoxes of Knowledge](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199730155.001.0001/acprof-9780199730155-chapter-2)
 
 <span class="titleblack">7 June (Thurs)</span> <span class = "titlethin"> SCIENTIFIC CHANGE? </span>
+
+---
+
+<span class ="smaller">
+Image © University of Edinburgh.
+</span>
