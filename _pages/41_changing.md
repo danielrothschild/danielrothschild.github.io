@@ -29,8 +29,7 @@ Auditors and provocateurs welcome.
 
 <div class="title"> SCHEDULE </div>
 
-<span class="titleblack"> 26 April (Thurs) </span> Introduction to changes in belief
-
+<span class="titleblack"> 26 April (Thurs) </span> Introduction to changes in belief <br>
 Harman's *Change in View* (pages 1-75).
 
 
