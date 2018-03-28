@@ -20,7 +20,7 @@ This is graduate seminar focuses on when and how one should change one's beliefs
 
 <div class="title"> MECHANICS </div>
 
-The seminar meets Thursdays from 1 to 3pm in the seminar room of the UCL Philosophy Department, 19 Gordon Square.  There is no meeting on 10 May and there is an extra session Monday 4, June from 2-4pm.  
+The seminar meets Thursdays from 1 to 4pm in the seminar room of the UCL Philosophy Department, 19 Gordon Square.  There is no meeting on 10 May and there is an extra session Monday 4, June from 2-4pm.  
 
 The module will be assessed on the basis of a short problem set--covering a bit of AGM as well as Bayesianism--which you are encouraged to collaborate on. Basic knowledge of logic and probability might come in handy for this (and for about 1/2 to 1/3 of the topics covered in the course). The rest of the assessment will be in the form of 3000 word essay. Enrolled graduate students will give short presentations throughout the term.
 
