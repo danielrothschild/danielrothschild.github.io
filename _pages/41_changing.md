@@ -34,33 +34,28 @@ Auditors and provocateurs welcome.
 Harman's *Change in View* (pages 1-75).
 
 
-<span class="titleblack">3 May (Thurs)</span>  Credence and belief
-
+<span class="titleblack">3 May (Thurs)</span>  Credence and belief <br>
 Sturgeon, [Reason and the Grain of Belief](http://www.jstor.org/stable/25177157)  <br>
 Buchak, [Belief, Credence, and Norms](http://www.larabuchak.net/s/A04-Belief-Credence-and-Norms.pdf)  <br>
 Hawthorne, Rothschild, Spectre, [Belief is weak](http://dx.doi.org/10.1007/s11098-015-0553-7)
 
 
-<span class="titleblack"> 17 May (Thurs) </span> Reflection
-
+<span class="titleblack"> 17 May (Thurs) </span> Reflection <br>
 Fraassen, [Belief and the Problem of Ulysses and the Sirens](https://link.springer.com/content/pdf/10.1007/BF00996309.pdf) <br>
 Elga, [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167) <br>
 Briggs, [Distorted Reflection](https://www.jstor.org/stable/41441862)  
 
-<span class="titleblack">24 May (Thurs)</span> Diachronic rationality
-
+<span class="titleblack">24 May (Thurs)</span> Diachronic rationality <br>
 Christensen, [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)  <br>
 Carr, [Don't stop believing](https://www.tandfonline.com/doi/abs/10.1080/00455091.2015.1123454)
 
-<span class="titleblack">31 May (Thurs)</span>  AGM
-
+<span class="titleblack">31 May (Thurs)</span>  AGM <br>
 Gardenfors, [Belief Revision: an Introduction](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.75.6169&rep=rep1&type=pdf) <br>
 Hansson, [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic-belief-revision/)
 
 
 
-<span class="titleblack">4 June (Mon)</span> Belief change and knowledge
-
+<span class="titleblack">4 June (Mon)</span> Belief change and knowledge <br>
 Kripke, [On Two Paradoxes of Knowledge](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199730155.001.0001/acprof-9780199730155-chapter-2)
 
 <span class="titleblack">7 June (Thurs)</span> Scientific Change?
