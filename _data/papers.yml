@@ -1,4 +1,10 @@
 
+- title: Projection from Situations
+  year: "2018"
+  journal: draft
+  subject: Anaphora
+  coauthor: "[Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)"
+  
 
 - title: Independence Day?
   year: "2018"
@@ -13,7 +19,7 @@
   year: "2017"
   url: partialanaphora.pdf
   journal: Proceedings of the Amsterdam Colloquium
-  subject: Dynamic Semantics
+  subject: Anaphora
   note: "[slides](https://goo.gl/wZbTqM)"
 
 
