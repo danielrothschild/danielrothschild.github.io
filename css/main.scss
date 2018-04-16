@@ -180,6 +180,14 @@ body {
     padding-top: 0;
 }
 
+.title-right2 {
+    font-size: 80%;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    padding-bottom: 15px;
+    padding-top: 0;
+}
+
 
 .title2 {
     font-size: 80%;
@@ -262,6 +270,9 @@ body {
       float: none;
       max-width: none;
     }
+    .title-right{
+      padding-top: 40pt
+    }
 
     #blurb_text{
       font-size: 100%;
@@ -303,6 +314,10 @@ body {
     }
     .title, title2, title3, titlepapers{
       font-size: 140%
+    }
+
+    .title-right{
+      padding-top: 20pt
     }
     #papers{
       font-size: 120%

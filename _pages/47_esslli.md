@@ -4,6 +4,7 @@ title: Dynamic semantics and pragmatic alternatives
 permalink: /esslli2017/
 location: ESSLLI, Toulouse
 date: 24-28 July 2017 (co-taught with Matt Mandelkern)
+class: a
 ---
 
 

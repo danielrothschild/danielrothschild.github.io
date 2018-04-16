@@ -4,6 +4,7 @@ title: Context and Variables
 permalink: /con-var/
 location: All Souls College, Oxford
 date: 13 May 2017
+event: a
 ---
 
 

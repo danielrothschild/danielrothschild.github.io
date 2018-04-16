@@ -37,9 +37,22 @@ EVENTS ETC.
 
 <div class ="blurb_text_events">
 
-{% for page in site.pages %} {% if page.location %}
+{% for page in site.pages %}{% if page.location %}{% if page.event %}
 [{{page.title}}]( {{ page.url | prepend: site.baseurl }}), {{page.location}}, {{page.date}}
-{% endif %} {% endfor %}
+{% endif %}{% endif %}{% endfor %}
+</div>
+
+<br>
+
+<div class="title-right2" markdown="0">
+CLASSES
+</div>
+
+<div class ="blurb_text_events">
+
+{% for page in site.pages %}{% if page.location %}{% if page.class %}
+[{{page.title}}]( {{ page.url | prepend: site.baseurl }}), {{page.location}}, {{page.date}}
+{% endif %}{% endif %}{% endfor %}
 
 </div>
 </div>
