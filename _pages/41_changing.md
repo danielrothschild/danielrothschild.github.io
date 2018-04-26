@@ -27,12 +27,7 @@ The module will be assessed on the basis of a short problem set--covering a bit 
 
 Auditors and provocateurs welcome.
 
-Sign up for announcements by entering your email here:
-
-<form action="https://formspree.io/drothsch@gmail.com" method="POST">
-    <input type="email" name="myemail">
-    <input type="submit" value="Sign up">
-</form>
+Sign up for announcements by entering your email [here](https://goo.gl/forms/CEEol9KiIAZWywnI2).
 
 <div class="title"> TENTATIVE SCHEDULE </div>
 
