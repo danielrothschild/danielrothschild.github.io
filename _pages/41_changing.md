@@ -27,6 +27,12 @@ The module will be assessed on the basis of a short problem set--covering a bit 
 
 Auditors and provocateurs welcome.
 
+Sign up for announcements by entering your email here:
+
+<form action="https://formspree.io/drothsch@gmail.com" method="POST">
+    <input type="email" name="myemail">
+    <input type="submit" value="Sign up">
+</form>
 
 <div class="title"> TENTATIVE SCHEDULE </div>
 
@@ -35,10 +41,12 @@ Harman's *Change in View* ([pages 1-75](https://www.dropbox.com/s/iynhp1s702m2g5
 
 
 <span class="titleblack">3 May (Thurs)</span> <span class = "titlethin">  CREDENCE AND BELIEF </span><br>
+Foley, [Beliefs, Degrees of Belief, and the Lockean Thesis](http://fitelson.org/bayes/foley.pdf)<br>
 Christensen, [Two Models of Belief](http://fitelson.org/bayes/christensen_ch2.pdf) from *Putting Logic in its Place* <br>
 Sturgeon, [Reason and the Grain of Belief](http://www.jstor.org/stable/25177157)  <br>
 Buchak, [Belief, Credence, and Norms](http://www.larabuchak.net/s/A04-Belief-Credence-and-Norms.pdf)  <br>
 Hawthorne, Rothschild, Spectre, [Belief is weak](http://dx.doi.org/10.1007/s11098-015-0553-7)
+
 
 
 <span class="titleblack"> 17 May (Thurs) </span> <span class = "titlethin"> REFLECTION </span><br>
