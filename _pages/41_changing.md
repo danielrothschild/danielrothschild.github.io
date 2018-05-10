@@ -41,7 +41,7 @@ Christensen, [Two Models of Belief](http://fitelson.org/bayes/christensen_ch2.pd
 Sturgeon, [Reason and the Grain of Belief](http://www.jstor.org/stable/25177157)  <br>
 Buchak, [Belief, Credence, and Norms](http://www.larabuchak.net/s/A04-Belief-Credence-and-Norms.pdf)  <br>
 Hawthorne, Rothschild, Spectre, [Belief is weak](http://dx.doi.org/10.1007/s11098-015-0553-7) <br>
-Rothschild [What it takes to believe](https://www.dropbox.com/s/86xbvii2zcvo1rw/beliefrevisited.pdf?dl=0)
+Rothschild [What it takes to believe](https://goo.gl/JfYvUU)
 
 
 <span class="titleblack"> 17 May (Thurs) </span> <span class = "titlethin"> REFLECTION </span><br>
