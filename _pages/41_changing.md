@@ -51,7 +51,7 @@ Fraassen, [Belief and the Problem of Ulysses and the Sirens](https://link.spring
 Elga, [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167) <br>
 Artzenius [Some Problems for Conditionalization and Reflection](http://www.jstor.org/stable/3655783)<br>
 Briggs, [Distorted Reflection](https://www.jstor.org/stable/41441862)<br>
-[Lecture](https://www.dropbox.com/s/86ixhuwg7cu8ee8/lecture3.pdf?dl=0)  
+[Lecture notes](https://www.dropbox.com/s/86ixhuwg7cu8ee8/lecture3.pdf?dl=0)  
 
 <span class="titleblack">24 May (Thurs)</span> <span class = "titlethin"> DIACHRONIC RATIONALITY </span><br>
 Christensen, [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)  <br>
