@@ -32,7 +32,8 @@ Sign up for announcements by entering your email [here](https://goo.gl/forms/CEE
 <div class="title"> TENTATIVE SCHEDULE </div>
 
 <span class="titleblack"> 26 April (Thurs) </span>  <span class = "titlethin"> INTRODUCTION TO CHANGES IN BELIEF </span> <br>
-Harman's *Change in View* ([pages 1-75](https://www.dropbox.com/s/iynhp1s702m2g5z/Selections-%20Change%20in%20View.pdf?dl=0)).
+Harman's *Change in View* ([pages 1-75](https://www.dropbox.com/s/iynhp1s702m2g5z/Selections-%20Change%20in%20View.pdf?dl=0)). <br>
+[Lecture notes](https://www.dropbox.com/s/866cv8xprfpemi2/lecture1.pdf?dl=0)
 
 
 <span class="titleblack">3 May (Thurs)</span> <span class = "titlethin">  CREDENCE AND BELIEF </span><br>
@@ -41,14 +42,16 @@ Christensen, [Two Models of Belief](http://fitelson.org/bayes/christensen_ch2.pd
 Sturgeon, [Reason and the Grain of Belief](http://www.jstor.org/stable/25177157)  <br>
 Buchak, [Belief, Credence, and Norms](http://www.larabuchak.net/s/A04-Belief-Credence-and-Norms.pdf)  <br>
 Hawthorne, Rothschild, Spectre, [Belief is weak](http://dx.doi.org/10.1007/s11098-015-0553-7) <br>
-Rothschild [What it takes to believe](https://goo.gl/JfYvUU)
+Rothschild [What it takes to believe](https://goo.gl/JfYvUU)<br>
+[Lecture notes](https://www.dropbox.com/s/qrudck1j709k089/lecture2.pdf?dl=0)
 
 
 <span class="titleblack"> 17 May (Thurs) </span> <span class = "titlethin"> REFLECTION </span><br>
 Fraassen, [Belief and the Problem of Ulysses and the Sirens](https://link.springer.com/content/pdf/10.1007/BF00996309.pdf) <br>
 Elga, [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167) <br>
 Artzenius [Some Problems for Conditionalization and Reflection](http://www.jstor.org/stable/3655783)<br>
-Briggs, [Distorted Reflection](https://www.jstor.org/stable/41441862)  
+Briggs, [Distorted Reflection](https://www.jstor.org/stable/41441862)<br>
+[Lecture](https://www.dropbox.com/s/86ixhuwg7cu8ee8/lecture3.pdf?dl=0)  
 
 <span class="titleblack">24 May (Thurs)</span> <span class = "titlethin"> DIACHRONIC RATIONALITY </span><br>
 Christensen, [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)  <br>
