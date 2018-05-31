@@ -64,7 +64,7 @@ Gardenfors, [Belief Revision: an Introduction](http://citeseerx.ist.psu.edu/view
 Hansson, [The Logic of Belief Revision](https://plato.stanford.edu/entries/logic-belief-revision/) <br>
 Lewis, [A Problem about Permission](http://www.andrewmbailey.com/dkl/Problem_Permission.pdf) <br>
 Shear and Fitelson, [Two Approaches to Belief Revision](https://link.springer.com/content/pdf/10.1007%2Fs10670-017-9968-1.pdf)<br>
-
+[Lecture notes]()
 
 <span class="titleblack">4 June (Thurs)</span> <span class = "titlethin"> TECHNICAL/PROBLEM SET SECTION </span>
 
