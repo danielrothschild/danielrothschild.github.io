@@ -65,7 +65,7 @@ Lewis, [A Problem about Permission](http://www.andrewmbailey.com/dkl/Problem_Per
 Shear and Fitelson, [Two Approaches to Belief Revision](https://link.springer.com/content/pdf/10.1007%2Fs10670-017-9968-1.pdf)<br>
 [Lecture notes](https://www.dropbox.com/s/ikfiwrhqn4eyss7/lecture5.pdf?dl=0)
 
-<span class="titleblack">4 June (Monday)</span> <span class = "titlethin"> TECHNICAL/PROBLEM SET SECTION </span>
+<span class="titleblack">4 June (Monday)</span> <span class = "titlethin"> TECHNICAL/PROBLEM SET SECTION </span><br>
 [DRAFT PROBLEM SET](https://www.dropbox.com/s/gh1y9ga396g0rbf/problemset.pdf?dl=0)
 
 This may be revised after the session Monday.
