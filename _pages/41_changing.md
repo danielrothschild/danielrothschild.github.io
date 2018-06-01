@@ -65,10 +65,12 @@ Lewis, [A Problem about Permission](http://www.andrewmbailey.com/dkl/Problem_Per
 Shear and Fitelson, [Two Approaches to Belief Revision](https://link.springer.com/content/pdf/10.1007%2Fs10670-017-9968-1.pdf)<br>
 [Lecture notes](https://www.dropbox.com/s/ikfiwrhqn4eyss7/lecture5.pdf?dl=0)
 
-<span class="titleblack">4 June (Thurs)</span> <span class = "titlethin"> TECHNICAL/PROBLEM SET SECTION </span>
+<span class="titleblack">4 June (Monday)</span> <span class = "titlethin"> TECHNICAL/PROBLEM SET SECTION </span>
+[DRAFT PROBLEM SET](https://www.dropbox.com/s/gh1y9ga396g0rbf/problemset.pdf?dl=0)
 
+This may be revised after the session Monday.
 
-<span class="titleblack">7 June (Mon)</span> <span class = "titlethin"> BELIEF CHANGE AND KNOWLEDGE </span><br>
+<span class="titleblack">7 June (Thursday)</span> <span class = "titlethin"> BELIEF CHANGE AND KNOWLEDGE </span><br>
 Kripke, [On Two Paradoxes of Knowledge](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199730155.001.0001/acprof-9780199730155-chapter-2)
 
 
