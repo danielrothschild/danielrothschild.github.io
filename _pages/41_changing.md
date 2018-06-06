@@ -55,7 +55,7 @@ Briggs, [Distorted Reflection](https://www.jstor.org/stable/41441862)<br>
 <span class="titleblack">24 May (Thurs)</span> <span class = "titlethin"> DIACHRONIC RATIONALITY </span><br>
 Christensen, [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)  <br>
 Hedden, [Time-Slice Rationality](https://philpapers.org/go.pl?id=HEDTR&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FHEDTR.pdf)<br>
-Carr, [Don't stop believing](https://www.tandfonline.com/doi/abs/10.1080/00455091.2015.1123454)
+Carr, [Don't stop believing](https://www.tandfonline.com/doi/abs/10.1080/00455091.2015.1123454)<br>
 [Lecture notes](https://www.dropbox.com/s/epmk56joohlgf3m/lecture4.pdf?dl=0)  
 
 <span class="titleblack">31 May (Thurs)</span> <span class = "titlethin"> AGM </span><br>
