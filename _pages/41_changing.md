@@ -66,11 +66,12 @@ Shear and Fitelson, [Two Approaches to Belief Revision](https://link.springer.co
 [Lecture notes](https://www.dropbox.com/s/ikfiwrhqn4eyss7/lecture5.pdf?dl=0)
 
 <span class="titleblack">4 June (Monday)</span> <span class = "titlethin"> TECHNICAL/PROBLEM SET SECTION </span><br>
-[Problem set](https://www.dropbox.com/s/gh1y9ga396g0rbf/problemset.pdf?dl=0)
+[Problem set](https://www.dropbox.com/s/gh1y9ga396g0rbf/problemset.pdf?dl=0) corrected 7/6/2018
 
 
 <span class="titleblack">7 June (Thursday)</span> <span class = "titlethin"> BELIEF CHANGE AND KNOWLEDGE </span><br>
-Kripke, [On Two Paradoxes of Knowledge](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199730155.001.0001/acprof-9780199730155-chapter-2)
+Kripke, [On Two Paradoxes of Knowledge](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199730155.001.0001/acprof-9780199730155-chapter-2)<br>
+[Lecture notes](https://www.dropbox.com/s/pzv09dlkgz8n11d/lecture6.pdf?dl=0)
 
 
 
