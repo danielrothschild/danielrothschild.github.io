@@ -5,14 +5,14 @@ permalink: /bayesian/
 location: UCL
 date:  20-21 September 2018
 event: a
-color: 42f486
+color: CAC2C2
 
 ---
 
 
 ##### BAYESIAN APPROACHES TO PRAGMATICS
-<!--
-<img src="/trees.jpg" width="500"> -->
+
+<img src="/twofaces.jpg" width="300">
 
 <div class="maintext" markdown="1">
 
@@ -38,18 +38,18 @@ This workshop is free and open to all, but if you plan to attend please [registe
 <div class="title"> SCHEDULE </div>
 
 
- Day 1: Thursday, 20 September<br>
-<span class ="titleblack"> 9:30 Coffee </span> <br>
-<span class ="titleblack"> 10:00 - 12:00 Leon Bergen *Tutorial Introduction* </span> <br>
-<span class ="titleblack"> 14:00 - 15:00 Ulrike Hahn *Presentation* </span><br>
-<span class ="titleblack"> 16:00 - 17:00 Benjamin Spector *Presentation* </span><br>
-<span class ="titleblack"> 17:00  Reception </span> <br>
-<span class ="titleblack">   19:00  Dinner </span>
+Day 1: Thursday, 20 September<br>
+<span class ="titlewhite"> 9:30 </span><span class ="titleblack"> Coffee </span><br>
+<span class ="titlewhite"> 10:00 - 12:00 </span><span class ="titleblack"> Leon Bergen *Tutorial Introduction* </span> <br>
+<span class ="titlewhite"> 14:00 - 15:00 </span><span class ="titleblack"> Ulrike Hahn *Presentation* </span><br>
+<span class ="titlewhite"> 16:00 - 17:00 </span><span class ="titleblack"> Benjamin Spector *Presentation* </span><br>
+<span class ="titlewhite"> 17:00 </span><span class ="titleblack">  Reception </span> <br>
+<span class ="titlewhite">   19:00 </span><span class ="titleblack">  Dinner </span>
 
 
 
  Day 2: Friday, 21 September  <br>
-<span class ="titleblack"> 10:00 - 11:00 Leon Bergen *Presentation* </span>
+<span class ="titlewhite"> 10:00 - 11:00 </span><span class ="titleblack">  Leon Bergen *Presentation* </span>
 
 
 
@@ -57,5 +57,5 @@ This workshop is free and open to all, but if you plan to attend please [registe
 ---
 
 <span class ="smaller">
-Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1. 
+Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1.
 </span>
