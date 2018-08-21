@@ -57,5 +57,7 @@ Day 1: Thursday, 20 September<br>
 ---
 
 <span class ="smaller">
-Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1.
+Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1. Image: Lucia and László Moholy-Nagy, around 1923. Bauhaus-Archiv Berlin / © VG Bild-Kunst, Bonn 2016.
 </span>
+
+![AHRC](/ahrcpearl.jpg)
