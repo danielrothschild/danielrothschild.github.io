@@ -1,5 +1,3 @@
-
-
 @media print {
   *,
   *:before,
@@ -112,7 +110,7 @@ a.paper{
 
 body {
   line-height: 1.85;
-  background-color: #FDB0AB;
+  background-color: blue;
 
 }
 

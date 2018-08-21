@@ -5,6 +5,7 @@ permalink: /dynamics/
 location: All Souls College, Oxford
 date: 19-20 March 2018
 event: a
+color: 42f486
 ---
 
 

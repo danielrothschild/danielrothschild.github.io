@@ -5,6 +5,7 @@ permalink: /bayesian/
 location: UCL
 date:  20-21 September 2018
 event: a
+color: 42f486
 
 ---
 
@@ -29,35 +30,25 @@ This workshop is free and open to all, but if you plan to attend please [registe
 
 <div class="title"> SPEAKERS </div>
 
-[Leon Bergen](https://scholar.google.com/citations?user=0FclEuAAAAAJ&hl=en&oi=ao), University of California, San Diego
-
-[Ulrike Hahn](http://www.bbk.ac.uk/psychology/our-staff/ulrike-hahn), Birkbeck College
-
+[Leon Bergen](https://scholar.google.com/citations?user=0FclEuAAAAAJ&hl=en&oi=ao), University of California, San Diego <br>
+[Ulrike Hahn](http://www.bbk.ac.uk/psychology/our-staff/ulrike-hahn), Birkbeck College <br>
 [Benjamin Spector](https://sites.google.com/site/bspectorpage/), Institut Jean-Nicod
 
 
 <div class="title"> SCHEDULE </div>
 
 
-<span class ="titleblack"> Day 1: Thursday, 20 September  </span>
-
-
-<span class ="titleblack"> 9:30 Coffee </span>
-
-<span class ="titleblack"> 10:00 - 12:00 Leon Bergen *Tutorial Introduction* </span>
-
-<span class ="titleblack"> 14:00 - 15:00 Ulrike Hahn *Presentation* </span>
-
-<span class ="titleblack"> 16:00 - 17:00 Benjamin Spector *Presentation* </span>
-
-<span class ="titleblack"> 17:00  Reception </span>
-
+ Day 1: Thursday, 20 September<br>
+<span class ="titleblack"> 9:30 Coffee </span> <br>
+<span class ="titleblack"> 10:00 - 12:00 Leon Bergen *Tutorial Introduction* </span> <br>
+<span class ="titleblack"> 14:00 - 15:00 Ulrike Hahn *Presentation* </span><br>
+<span class ="titleblack"> 16:00 - 17:00 Benjamin Spector *Presentation* </span><br>
+<span class ="titleblack"> 17:00  Reception </span> <br>
 <span class ="titleblack">   19:00  Dinner </span>
 
 
 
-<span class ="titleblack"> Day 2: Friday, 21 September  </span>
-
+ Day 2: Friday, 21 September  <br>
 <span class ="titleblack"> 10:00 - 11:00 Leon Bergen *Presentation* </span>
 
 
@@ -66,5 +57,5 @@ This workshop is free and open to all, but if you plan to attend please [registe
 ---
 
 <span class ="smaller">
-Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1. Image © University of Edinburgh.
+Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1. 
 </span>
