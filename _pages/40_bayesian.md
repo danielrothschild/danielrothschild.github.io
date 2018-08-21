@@ -38,7 +38,7 @@ This workshop is free and open to all, but if you plan to attend please [registe
 <div class="title"> SCHEDULE </div>
 
 
-Day 1: Thursday, 20 September<br>
+DAY 1: THURSDAY, 20 SEPTEMBER<br>
 <span class ="titlewhite"> 9:30 </span><span class ="titleblack"> Coffee </span><br>
 <span class ="titlewhite"> 10:00 - 12:00 </span><span class ="titleblack"> Leon Bergen *Tutorial Introduction* </span> <br>
 <span class ="titlewhite"> 14:00 - 15:00 </span><span class ="titleblack"> Ulrike Hahn *Presentation* </span><br>
@@ -48,7 +48,7 @@ Day 1: Thursday, 20 September<br>
 
 
 
- Day 2: Friday, 21 September  <br>
+ DAY 2: FRIDAY, 21 SEPTEMBER  <br>
 <span class ="titlewhite"> 10:00 - 11:00 </span><span class ="titleblack">  Leon Bergen *Presentation* </span>
 
 
