@@ -40,16 +40,16 @@ This workshop is free and open to all, but if you plan to attend please [registe
 
 DAY 1: THURSDAY, 20 SEPTEMBER<br>
 <span class ="titlewhite"> 9:30 </span><span class ="titleblack"> Coffee </span><br>
-<span class ="titlewhite"> 10:00 - 12:00 </span><span class ="titleblack"> Leon Bergen *Tutorial Introduction* </span> <br>
-<span class ="titlewhite"> 14:00 - 15:00 </span><span class ="titleblack"> Ulrike Hahn *Presentation* </span><br>
-<span class ="titlewhite"> 16:00 - 17:00 </span><span class ="titleblack"> Benjamin Spector *Presentation* </span><br>
+<span class ="titlewhite"> 10:00 - 12:00 </span><span class ="titleblack"> Leon Bergen, *Tutorial Introduction* </span> <br>
+<span class ="titlewhite"> 14:00 - 15:00 </span><span class ="titleblack"> Ulrike Hahn, *Presentation* </span><br>
+<span class ="titlewhite"> 16:00 - 17:00 </span><span class ="titleblack"> Benjamin Spector, *Presentation* </span><br>
 <span class ="titlewhite"> 17:00 </span><span class ="titleblack">  Reception </span> <br>
 <span class ="titlewhite">   19:00 </span><span class ="titleblack">  Dinner </span>
 
 
 
  DAY 2: FRIDAY, 21 SEPTEMBER  <br>
-<span class ="titlewhite"> 10:00 - 11:00 </span><span class ="titleblack">  Leon Bergen *Presentation* </span>
+<span class ="titlewhite"> 10:00 - 11:00 </span><span class ="titleblack">  Leon Bergen, *Presentation* </span>
 
 
 
@@ -60,4 +60,4 @@ DAY 1: THURSDAY, 20 SEPTEMBER<br>
 Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and AH/M009602/1. Image: Lucia and László Moholy-Nagy, around 1923. Bauhaus-Archiv Berlin / © VG Bild-Kunst, Bonn 2016.
 </span>
 
-![AHRC](/ahrcpearl.jpg)
+![AHRC](/ahrctransparent.png)
