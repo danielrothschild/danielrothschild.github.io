@@ -20,6 +20,8 @@ color: CAC2C2
 
 This workshop aims to introduce those in linguistic, philosophy, and psychology to Bayesian approaches to pragmatic inference, to provide a forum for discussion of foundational and methodological issues, and to present cutting-edge research to an interdisciplinary audience.
 
+Please contact the organizer, [Daniel Rothschild](http://danielrothschild.com/), if you have any questions.
+
 <div class="title"> LOCATION </div>
 
 All speaking events will take place in [Chandler House](https://goo.gl/maps/ED9NstvzCMv), G15, UCL.
