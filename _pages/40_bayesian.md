@@ -43,7 +43,7 @@ This workshop is free and open to all, but if you plan to attend please [registe
 DAY 1: THURSDAY, 20 SEPTEMBER<br>
 <span class ="titlewhite"> 9:30 </span><span class ="titleblack"> Coffee </span><br>
 <span class ="titlewhite"> 10:00 - 12:00 </span><span class ="titleblack"> Leon Bergen, *Tutorial Introduction* </span> <br>
-<span class ="titlewhite"> 14:00 - 15:00 </span><span class ="titleblack"> Ulrike Hahn, *Presentation* </span><br>
+<span class ="titlewhite"> 14:00 - 15:00 </span><span class ="titleblack"> Ulrike Hahn, *Is There Such a Thing as “Bayesian Pragmatics”?* </span><br>
 <span class ="titlewhite"> 16:00 - 17:00 </span><span class ="titleblack"> Benjamin Spector, *Presentation* </span><br>
 <span class ="titlewhite"> 17:00 </span><span class ="titleblack">  Reception </span> <br>
 <span class ="titlewhite">   19:00 </span><span class ="titleblack">  Dinner </span>
