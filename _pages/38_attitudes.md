@@ -40,7 +40,7 @@ Enrolled students must produce a term paper on a topic covered for credit.
 Auditors are welcome.
 
 <div class="title">  BACKGROUND READINGS </div>
-[Heim and Kratzer, Chapter 12]({{ site.url }}/materials/H&K12.pdf)
+[Heim and Kratzer, Chapter 12]({{ site.url }}/materials/h&k12.pdf)
 
 <div class="title">  SCHEDULE </div>
 
