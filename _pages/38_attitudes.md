@@ -3,7 +3,7 @@ layout: conf5
 title: Attitudes
 permalink: /attitudes/
 location: UCL
-date:  Term 3, 2018
+date:  Term 1, 2018/19
 color: 42f4eb
 
 ---
@@ -22,7 +22,7 @@ color: 42f4eb
 
 <div class="title"> ABOUT </div>
 
-This seminar will focus on the semantics of propositional attitudes reports, such as 'Mary thought that Vanessa was sick'. We will begin by examining the basic question of what attitudes ascriptions are, syntactically and semantically.  On the traditional view they express a relationship between an attitude holder and a proposition. We will critically examine the motivations for this view and explore an alternative framework. Other topics will include the semantics of desire reports and the role of presuppositions in attitude ascriptions.
+This seminar will focus on the semantics of propositional attitudes reports. We will begin by examining the basic question of what attitudes ascriptions are, syntactically and semantically.  On the traditional view they express a relationship between an attitude holder and a proposition. We will critically examine the motivations for this view and explore an alternative framework. Other topics will include the semantics of desire reports and the role of presuppositions in attitude ascriptions.
 
 <div class="title"> INSTRUCTORS </div>
 
@@ -35,7 +35,7 @@ This seminar will focus on the semantics of propositional attitudes reports, suc
 
 The seminar meets Fridays 2-4pm, in Chandler House B01.   The first meeting is 5 October; there is no meeting on 8 Nov; the last meeting is 14 Dec.
 
-Enrolled students must produce a term paper on a topic covered for credit.
+Enrolled students must submit a term paper on a topic covered for credit.
 
 Auditors are welcome.
 

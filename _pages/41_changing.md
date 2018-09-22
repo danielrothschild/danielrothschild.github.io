@@ -3,7 +3,7 @@ layout: conf4
 title: Changing Beliefs
 permalink: /changingbeliefs/
 location: UCL
-date:  Term 3, 2018
+date:  Term 3, 2017/18
 class: a
 ---
 
