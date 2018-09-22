@@ -22,12 +22,12 @@ color: 42f4eb
 
 <div class="title"> ABOUT </div>
 
-This seminar will focus on the semantics of propositional attitudes reports, such as 'Mary thought that Vanessa was sick'. We will begin by examining the basic question of what attitudes ascriptions are, syntactically and semantically.  On the traditional view they express a relationship between an individual thinker and an object, a proposition. We will explore alternatives to this view.   We will move on to discuss other attitudes ascriptions such as desire ascriptions.
+This seminar will focus on the semantics of propositional attitudes reports, such as 'Mary thought that Vanessa was sick'. We will begin by examining the basic question of what attitudes ascriptions are, syntactically and semantically.  On the traditional view they express a relationship between an attitude holder and a proposition. We will critically examine the motivations for this view and explore an alternative framework. Other topics will include the semantics of desire reports and the role of presuppositions in attitude ascriptions.
 
 <div class="title"> INSTRUCTORS </div>
 
 [Nathan Klinedinst](https://www.ucl.ac.uk/pals/people/nathan-klinedinst),  Linguistics<br>
-[Angelika Kratzer](http://people.umass.edu/kratzer/), Leverhulme Visiting Professor, Philosophy<br>
+[Angelika Kratzer](http://people.umass.edu/kratzer/), Philosophy<br>
 [Daniel Rothschild](http://danielrothschild.com/),  Philosophy<br>
 [Yasu Sudo](http://www.ucl.ac.uk/~ucjtudo/), Linguistics
 
@@ -40,15 +40,33 @@ Enrolled students must produce a term paper on a topic covered for credit.
 Auditors are welcome.
 
 <div class="title">  BACKGROUND READINGS </div>
-[Heim and Kratzer, Chapter 12]({{ site.url }}/materials/h&k12.pdf)
+Basic: [Hazel Pearson, Attitude Verbs](https://semanticsarchive.net/Archive/mIwMTc1Z/Attitude%20verbs%20Pearson%20to%20appear.pdf)<br>
+More advanced: [von Fintel and Heim, Intensional Semantics](mit.edu/fintel/fintel-heim-intensional.pdf)
 
 <div class="title">  SCHEDULE </div>
 
-SESSION 1: 5 OCTOBER<br> *WHAT ARE ATTITUDES?*<br>
+SESSION 1: 5 OCT<br> *WHAT ARE ATTITUDES?*<br>
 
+SESSION 2: 12 OCT<br> *-*<br>
+
+SESSION 3: 19 OCT<br> *-*<br>
+
+SESSION 4: 26 OCT<br> *-*<br>
+
+SESSION 5: 2 NOV<br> *-*<br>
+
+SESSION 6: 16 NOV<br> *-*<br>
+
+SESSION 7: 23 NOV<br> *-*<br>
+
+SESSION 8: 30 NOV<br> *-*<br>
+
+SESSION 9: 7 DEC<br> *-*<br>
+
+SESSION 10: 14 DEC<br> *-*<br>
 
 ---
 
 <span class ="smaller">
-Image © University of Edinburgh.
+Image ©
 </span>
