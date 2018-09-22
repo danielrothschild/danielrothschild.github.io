@@ -9,7 +9,7 @@ color: 42f4eb
 ---
 
 
-##### Semantics of the Attitudes
+##### SEMANTICS OF THE ATTITUDES
 <!--
 <img src="/trees.jpg" width="500"> -->
 
