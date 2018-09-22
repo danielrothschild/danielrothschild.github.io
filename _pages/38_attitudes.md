@@ -68,5 +68,5 @@ SESSION 10: 14 DEC<br> *-*<br>
 ---
 
 <span class ="smaller">
-Image ©
+Image: Oskar Schlemmer, Raumtanz, Formentanx, GESTENTANZ, 1926
 </span>
