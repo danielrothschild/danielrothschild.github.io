@@ -10,8 +10,8 @@ color: 42f4eb
 
 
 ##### SEMANTICS OF THE ATTITUDES
-<!--
-<img src="/trees.jpg" width="500"> -->
+
+<img src="/materials/schlemmer.jpg" width="410">
 
 <div class="maintext" markdown="1">
 
