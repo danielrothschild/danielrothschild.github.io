@@ -17,9 +17,10 @@
   year: "2018"
   journal:  Journal of Semantics
   subject: Presupposition
-  url: independence.pdf
+  url: https://doi.org/10.1093/jos/ffy013
+  local: independence.pdf
   coauthor: "[Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)"
-  note: accepted pending minor revisions
+  
 
 
 - title: A Trivalent Approach to Anaphora and Presupposition

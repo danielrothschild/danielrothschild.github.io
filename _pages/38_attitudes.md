@@ -5,6 +5,7 @@ permalink: /attitudes/
 location: UCL
 date:  Term 1, 2018/19
 color: 42f4eb
+class: a
 
 ---
 
@@ -68,5 +69,5 @@ SESSION 10: 14 DEC<br> *-*<br>
 ---
 
 <span class ="smaller">
-Image: Oskar Schlemmer, Raumtanz, Formentanx, GESTENTANZ, 1926
+Image: Oskar Schlemmer, Raumtanz, Diagramm für Gestentanz, 1926
 </span>
