@@ -41,8 +41,9 @@ Enrolled students must submit a term paper on a topic covered for credit.
 Auditors are welcome.
 
 <div class="title">  BACKGROUND READINGS </div>
-Basic: [Hazel Pearson, Attitude Verbs](https://semanticsarchive.net/Archive/mIwMTc1Z/Attitude%20verbs%20Pearson%20to%20appear.pdf)<br>
-More advanced: [von Fintel and Heim, Intensional Semantics](mit.edu/fintel/fintel-heim-intensional.pdf)
+Basic: Hazel Pearson, [Attitude Verbs](https://semanticsarchive.net/Archive/mIwMTc1Z/Attitude%20verbs%20Pearson%20to%20appear.pdf)<br>
+Angelika Kratzer, [Attitude Ascriptions](https://umass.box.com/v/ucl-attitudes)<br>
+More advanced: von Fintel and Heim, [Intensional Semantics](mit.edu/fintel/fintel-heim-intensional.pdf)
 
 <div class="title">  SCHEDULE </div>
 
