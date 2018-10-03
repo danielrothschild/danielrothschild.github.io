@@ -38,7 +38,7 @@ The seminar meets Fridays 2-4pm, in Chandler House B01.   The first meeting is 5
 
 Enrolled students must submit a term paper on a topic covered for credit.
 
-Auditors are welcome.
+All are welcome!
 
 <div class="title">  BACKGROUND READINGS </div>
 Basic: Hazel Pearson, [Attitude Verbs](https://semanticsarchive.net/Archive/mIwMTc1Z/Attitude%20verbs%20Pearson%20to%20appear.pdf)<br>
