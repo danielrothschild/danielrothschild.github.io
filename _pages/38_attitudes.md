@@ -42,7 +42,7 @@ All are welcome!
 
 <div class="title">  BACKGROUND READINGS </div>
 Basic: Hazel Pearson, [Attitude Verbs](https://semanticsarchive.net/Archive/mIwMTc1Z/Attitude%20verbs%20Pearson%20to%20appear.pdf)<br>
-Angelika Kratzer, [Attitude Ascriptions](https://umass.box.com/v/ucl-attitudes)<br>
+Angelika Kratzer, [Attitude Ascriptions](https://umass.box.com/v/ucl-attitudes) (Althuser volume)<br>
 More advanced: von Fintel and Heim, [Intensional Semantics](mit.edu/fintel/fintel-heim-intensional.pdf)
 
 
