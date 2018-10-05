@@ -45,9 +45,11 @@ Basic: Hazel Pearson, [Attitude Verbs](https://semanticsarchive.net/Archive/mIwM
 Angelika Kratzer, [Attitude Ascriptions](https://umass.box.com/v/ucl-attitudes)<br>
 More advanced: von Fintel and Heim, [Intensional Semantics](mit.edu/fintel/fintel-heim-intensional.pdf)
 
+
 <div class="title">  SCHEDULE </div>
 
 SESSION 1: 5 OCT<br> *WHAT ARE ATTITUDES?*<br>
+Slides and other materials can be found [here](https://umass.app.box.com/v/ucl-attitudes).
 
 SESSION 2: 12 OCT<br> *-*<br>
 
