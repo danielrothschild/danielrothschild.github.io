@@ -48,10 +48,11 @@ More advanced: von Fintel and Heim, [Intensional Semantics](mit.edu/fintel/finte
 
 <div class="title">  SCHEDULE </div>
 
-SESSION 1: 5 OCT<br> *WHAT ARE ATTITUDES?*<br>
+SESSION 1: 5 OCT<br> *CONSTRUCTING ATTITUDE AND SPEECH REPORTS 1 (AK)*<br>
 Slides and other materials can be found [here](https://umass.app.box.com/v/ucl-attitudes).
 
-SESSION 2: 12 OCT<br> *-*<br>
+SESSION 2: 12 OCT<br> *CONSTRUCTING ATTITUDE AND SPEECH REPORTS 2 (AK)*<br>
+Slides and other materials can be found [here](https://umass.app.box.com/v/ucl-attitudes).
 
 SESSION 3: 19 OCT<br> *-*<br>
 
