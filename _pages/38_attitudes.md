@@ -54,9 +54,10 @@ Slides and other materials can be found [here](https://umass.app.box.com/v/ucl-a
 SESSION 2: 12 OCT<br> *CONSTRUCTING ATTITUDE AND SPEECH REPORTS 2 (AK)*<br>
 Slides and other materials can be found [here](https://umass.app.box.com/v/ucl-attitudes).
 
-SESSION 3: 19 OCT<br> *-*<br>
+SESSION 3: 19 OCT<br> *CONSTRUCTING ATTITUDE AND SPEECH REPORTS 3 (AK)*<br>
 
-SESSION 4: 26 OCT<br> *-*<br>
+SESSION 4: 26 OCT<br> *SMALL CLAUSES (AK), ZIMMERMANN ON MONOTONICITY*<br>
+Zimmermann article is [here](https://umass.app.box.com/v/ucl-attitudes) in Opaque Object Position folder.
 
 SESSION 5: 2 NOV<br> *-*<br>
 
