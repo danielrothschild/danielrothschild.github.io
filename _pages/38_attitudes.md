@@ -56,10 +56,12 @@ Slides and other materials can be found [here](https://umass.app.box.com/v/ucl-a
 
 SESSION 3: 19 OCT<br> *CONSTRUCTING ATTITUDE AND SPEECH REPORTS 3 (AK)*<br>
 
-SESSION 4: 26 OCT<br> *SMALL CLAUSES (AK), ZIMMERMANN ON MONOTONICITY*<br>
-Zimmermann article is [here](https://umass.app.box.com/v/ucl-attitudes) in Opaque Object Position folder. See also this [SEP article](https://plato.stanford.edu/entries/intensional-trans-verbs/) on intensional transitives by Forbes
+SESSION 4: 26 OCT<br> *SMALL CLAUSES (AK)*<br>
 
-SESSION 5: 2 NOV<br> *-*<br>
+SESSION 5: 2 NOV<br> *ZIMMERMANN ON MONOTONICITY (DR & NK), DESIRE AND MONOTONICITY (YS)* <br>
+Zimmermann article is [here](https://umass.app.box.com/v/ucl-attitudes) in Opaque Object Position folder, (handout)[https://www.dropbox.com/s/aq4iqkgaecurrx1/noteszimmerman.pdf?dl=0]. See also this [SEP article](https://plato.stanford.edu/entries/intensional-trans-verbs/) on intensional transitives by Forbes.<br>
+
+Appendix to Luka Crnič's [dissertation](http://pluto.huji.ac.il/~crnic/crnic-diss-11.pdf) and [handout](https://stellar.mit.edu/S/course/24/fa17/24.979/courseMaterial/topics/topic1/lectureNotes/ks-desire-handout/ks-desire-handout-1.pdf) by Kai von Fitnel.
 
 SESSION 6: 16 NOV<br> *-*<br>
 
