@@ -61,7 +61,7 @@ SESSION 4: 26 OCT<br> *SMALL CLAUSES (AK)*<br>
 SESSION 5: 2 NOV<br> *ZIMMERMANN ON MONOTONICITY (DR & NK), DESIRE AND MONOTONICITY (YS)* <br>
 Zimmermann article is [here](https://umass.app.box.com/v/ucl-attitudes) in Opaque Object Position folder, [handout](https://www.dropbox.com/s/36m029a82h5k3n4/noteszimmerman%20revised.pdf?dl=0). See also this [SEP article](https://plato.stanford.edu/entries/intensional-trans-verbs/) on intensional transitives by Forbes.<br>
 
-Appendix to Luka Crnič's [dissertation](http://pluto.huji.ac.il/~crnic/crnic-diss-11.pdf) and [handout](https://stellar.mit.edu/S/course/24/fa17/24.979/courseMaterial/topics/topic1/lectureNotes/ks-desire-handout/ks-desire-handout-1.pdf) by Kai von Fitnel.
+Appendix to Luka Crnič's [dissertation](http://pluto.huji.ac.il/~crnic/crnic-diss-11.pdf) and [handout](https://stellar.mit.edu/S/course/24/fa17/24.979/courseMaterial/topics/topic1/lectureNotes/ks-desire-handout/ks-desire-handout-1.pdf) by Kai von Fitnel. Yasu's [handout](https://www.dropbox.com/s/exi8sssfs3j1pw2/Yasu-want.pdf?dl=0).
 
 SESSION 6: 16 NOV<br> *-*<br>
 
