@@ -71,9 +71,9 @@ Rothschild [What it Takes to Believe](https://www.dropbox.com/s/3v96jcrzuha27t4/
 
 SESSION 8: 30 NOV<br> *MODIFYING ATTITUDES (AK & DR)*<br>
 
-SESSION 9: 7 DEC<br> *ROB PASTERNAK*<br>
+SESSION 9: 7 DEC<br> *VISITOR: ROB PASTERNAK*<br>
 
-SESSION 10: 14 DEC<br> *PATRICK ELLIOT* <br>
+SESSION 10: 14 DEC<br> *VISITOR: PATRICK ELLIOT* <br>
 
 ---
 
