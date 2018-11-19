@@ -64,6 +64,7 @@ Zimmermann article is [here](https://umass.app.box.com/v/ucl-attitudes) in Opaqu
 Desire: Appendix to Luka Crnič's [dissertation](http://pluto.huji.ac.il/~crnic/crnic-diss-11.pdf) and [handout](https://stellar.mit.edu/S/course/24/fa17/24.979/courseMaterial/topics/topic1/lectureNotes/ks-desire-handout/ks-desire-handout-1.pdf) by Kai von Fintel.<br> [Slides](https://www.dropbox.com/s/exi8sssfs3j1pw2/Yasu-want.pdf?dl=0).
 
 SESSION 6: 16 NOV<br> *DESIRE CONT (YS)*<br>
+[handout](/materials/yasu-desire.pdf)
 
 SESSION 7: 23 NOV<br> *BELIEF AND PROBABILITY (DR)*<br>
 Hawthorne, Spectre, Rothschild [Belief is weak](http://danielrothschild.com/belief.pdf)<br>
