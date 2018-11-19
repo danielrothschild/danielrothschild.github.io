@@ -69,11 +69,11 @@ SESSION 7: 23 NOV<br> *BELIEF AND PROBABILITY (DR)*<br>
 Hawthorne, Spectre, Rothschild [Belief is weak](http://danielrothschild.com/belief.pdf)<br>
 Rothschild [What it Takes to Believe](https://www.dropbox.com/s/3v96jcrzuha27t4/beliefrevisited.pdf?dl=0)
 
-SESSION 8: 30 NOV<br> *-*<br>
+SESSION 8: 30 NOV<br> *MODIFYING ATTITUDES (AK & DR)*<br>
 
-SESSION 9: 7 DEC<br> *-*<br>
+SESSION 9: 7 DEC<br> *ROB PASTERNAK*<br>
 
-SESSION 10: 14 DEC<br> *-*<br>
+SESSION 10: 14 DEC<br> *PATRICK ELLIOT* <br>
 
 ---
 
