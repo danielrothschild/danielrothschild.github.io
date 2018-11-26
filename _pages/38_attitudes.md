@@ -70,7 +70,9 @@ SESSION 7: 23 NOV<br> *BELIEF AND PROBABILITY (DR)*<br>
 Hawthorne, Spectre, Rothschild [Belief is weak](http://danielrothschild.com/belief.pdf)<br>
 Rothschild [What it Takes to Believe](https://www.dropbox.com/s/3v96jcrzuha27t4/beliefrevisited.pdf?dl=0)
 
-SESSION 8: 30 NOV<br> *MODIFYING ATTITUDES (AK & DR)*<br>
+SESSION 8: 30 NOV<br> *GREG WILLIAMSON; MODIFYING ATTITUDES (AK & DR)*<br>
+Primary readings for Greg's part: [Abusch 2004](/materials/abusch2004.pdf)<br>
+Secondary: [Klecha 2016](/materials/klecha.pdf), [Laca](/materials/laca.pdf)
 
 SESSION 9: 7 DEC<br> *VISITOR: [ROB PASTERNAK](https://pasternaklinguist.com/)*<br>
 
