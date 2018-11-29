@@ -74,7 +74,7 @@ SESSION 8: 30 NOV<br> *GREG WILLIAMSON; MODIFYING ATTITUDES (AK & DR)*<br>
 Primary readings for Greg's part: [Abusch 2004](/materials/abusch2004.pdf)<br>
 Secondary: [Klecha 2016](/materials/klecha.pdf), [Laca](/materials/laca.pdf)
 
-SESSION 9: 7 DEC<br> *VISITOR: [ROB PASTERNAK](https://pasternaklinguist.com/)*<br>
+SESSION 9: 7 DEC<br> *VISITOR: [ROB PASTERNAK](https://pasternaklinguist.com/): DESIRE, GREAT AND SMALL*<br>
 
 SESSION 10: 14 DEC<br> *VISITOR: [PATRICK ELLIOTT](https://patrickdelliott.com/)* <br>
 
