@@ -76,9 +76,19 @@ Secondary: [Klecha 2016](/materials/klecha.pdf), [Laca](/materials/laca.pdf)
 
 SESSION 9: 7 DEC<br> *VISITOR: [ROB PASTERNAK](https://pasternaklinguist.com/): DESIRE, GREAT AND SMALL*<br>
 
-SESSION 10: 14 DEC<br> *VISITOR: [PATRICK ELLIOTT](https://patrickdelliott.com/)* <br>
+SESSION 10: 14 DEC<br> *VISITOR: [PATRICK ELLIOTT](https://patrickdelliott.com/): ARGUMENTS AND ATTITUDES*   <br>
 
----
+Abstract: Since Kratzer's (2006) seminal work, the conjecture that embedded that-clauses denote predicates of contentful entities has been a recurring theme in the literature on attitude ascriptions. In this seminar, I'll outline a particular take on this idea from Elliott (2018), which marries Kratzer's semantics for embedded that-clauses with a neo-Davidsonian semantics for attitude verbs. We'll discuss some concrete linguistic arguments for this world view, and relate it to the broad philosophical literature on substitution failures (Prior 1971, a.o.).
+
+References<br>
+- Elliott, P. D. (2018). Elements of Clausal Embedding. PhD thesis, UCL.<br>
+- Kratzer, A. (2006). Decomposing Attitude Verbs. Unpublished manuscript.<br>
+- Prior, A. (1971). Objects of Thought. OUP.
+
+Some suggested readings:<br>
+- Pietroski, P. (2002). [On explaining that](https://www.jstor.org/stable/2678461). Journal of Philosophy 97(12), 655-662.<br>
+- [Pryor, J. (2007). Reasons and that-clauses.](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1533-6077.2007.00131.x) Philosophical Issues 17(1), 217–244.<br>
+- Forbes, G. (2018). [Content and theme in attitude ascriptions](/materials/forbes.pdf). In:  A. Grzankowski and M. Montague (eds) Non-Propositional Intentionality, OUP. <br>
 
 <span class ="smaller">
 Image: Oskar Schlemmer, Raumtanz, Diagramm für Gestentanz, 1926
