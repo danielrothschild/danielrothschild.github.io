@@ -1,3 +1,10 @@
+- title: What it takes to believe
+  year: "2019"
+  journal: Philosophical Studies
+  subject: Belief/Knowledge/Credence
+  url: materials/beliefrevisited.pdf
+  note: pending minor revisions
+
 - title: Permisive Updates
   year: "2018"
   journal: draft
@@ -20,8 +27,6 @@
   url: https://doi.org/10.1093/jos/ffy013
   local: independence.pdf
   coauthor: "[Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)"
-
-
 
 - title: A Trivalent Approach to Anaphora and Presupposition
   year: "2017"
