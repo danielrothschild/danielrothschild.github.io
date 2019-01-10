@@ -106,8 +106,6 @@ HANDOUTS, NOTES, OLD DRAFTS
 
 <div class="papers">
 
-[What it Takes to Believe](https://goo.gl/JfYvUU){:.paper}, (2018, handout/paper, and [slides](https://www.dropbox.com/s/157rt1lnqng0j3i/whatitakesMIT.pdf?dl=0))
-
 [Dynamic Conditionals](DynamicConditionals.pdf){:.paper} (2015, handout
 on the dynamic test semantics for conditionals for a workshop on
 conditionals in Osnabrük)
