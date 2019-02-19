@@ -2,8 +2,7 @@
   year: "2019"
   journal: Philosophical Studies
   subject: Belief/Knowledge/Credence
-  url: materials/beliefrevisited.pdf
-  note: pending minor revisions
+  url:  https://doi.org/10.1007/s11098-019-01256-6
 
 - title: Permisive Updates
   year: "2018"
@@ -11,13 +10,13 @@
   subject: Truthmakers
   coauthor: "[Stephen Yablo](http://www.mit.edu/~yablo/home/Hello.html)"
   url: permission.pdf
-
-- title: Projection from Situations
-  year: "2018"
-  journal: draft
-  subject: Anaphora
-  coauthor: "[Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)"
-  url: etype.pdf
+#
+# - title: Projection from Situations
+#   year: "2018"
+#   journal: draft
+#   subject: Anaphora
+#   coauthor: "[Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)"
+#   url: etype.pdf
 
 
 - title: Independence Day?
