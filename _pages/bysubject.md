@@ -13,11 +13,11 @@ DANIEL ROTHSCHILD
 
 <div class="blurb_text">
 
-I am a professor in the [philosophy department](https://www.ucl.ac.uk/philosophy) at [University
+I am a professor in the [philosophy department](https://www.ucl.ac.uk/philosophy)  at [University
 College London](https://www.ucl.ac.uk/). Most of my work is about
 language and meaning. You can also find links to a [website (in
 progress) on dynamic semantics](http://dynsem.github.io/) and my
-[cv]({{ site.url }}/rothschildcv.pdf).
+[short](/materials/rothschildshortcv.pdf) and [long](/rothschildcv.pdf) cv.
 
 This site contains my papers and drafts and information on conferences,
 workshops and such.
@@ -108,36 +108,36 @@ DRAFTS AND HANDOUTS
 
 <div class="papers">
 
-[Dynamic Conditionals](DynamicConditionals.pdf){:.paper} (2015, handout
+[Dynamic Conditionals](/DynamicConditionals.pdf){:.paper} (2015, handout
 on the dynamic test semantics for conditionals for a workshop on
 conditionals in Osnabrük)
 
-[Weak Belief and Pragmatics](wbp.pdf){:.paper} (2015, handout for a talk
+[Weak Belief and Pragmatics](/wbp.pdf){:.paper} (2015, handout for a talk
 at the UCL Pragmatics Reading Group)
 
-[Fabian Truthmaking](FabianTruthmaking.pdf){:.paper} (2015, paper for
+[Fabian Truthmaking](/FabianTruthmaking.pdf){:.paper} (2015, paper for
 circulation at a symposium on themes from Yablo’s *Aboutness*)
 
-[Quantified Epistemic Modality](birmingham.pdf){:.paper} (2015, handout
+[Quantified Epistemic Modality](/birmingham.pdf){:.paper} (2015, handout
 for Birmingham talk, joint work with Nathan Klinedinst)
 
-[Epistemic Contradictions](epistemiccontradictions.pdf){:.paper} (2014,
+[Epistemic Contradictions](/epistemiccontradictions.pdf){:.paper} (2014,
 handout)
 
-[Two views of the de re](leeds.pdf){:.paper} (2014, handout for Leeds
+[Two views of the de re](/leeds.pdf){:.paper} (2014, handout for Leeds
 talk)
 
-Old draft of [Dynamics of Conversation](olddynamics.pdf){:.paper} (c.
+Old draft of [Dynamics of Conversation](/olddynamics.pdf){:.paper} (c.
 2012, with Seth Yalcin)
 
 [Making Dynamic Semantics Explanatory: Presupposition
-Projection](dynamicexplanatory.pdf){:.paper} (2009, old draft, mostly
+Projection](/dynamicexplanatory.pdf){:.paper} (2009, old draft, mostly
 superseded by “Explaining Presupposition with Dynamic Semantics”)
 
-[Grice, Utterance Choice, and Rationality](gricechoice5.pdf){:.paper}
+[Grice, Utterance Choice, and Rationality](/gricechoice5.pdf){:.paper}
 (2008, parts superseded by “Game Theory and Scalar Implicatures”)
 
-[Negative Polarity and Definite Descriptions](npidd.pdf){:.paper} (2006,
+[Negative Polarity and Definite Descriptions](/npidd.pdf){:.paper} (2006,
 old manuscript)
 
 </div>

@@ -15,7 +15,7 @@ I am a professor in the [philosophy department](https://www.ucl.ac.uk/philosophy
 College London](https://www.ucl.ac.uk/). Most of my work is about
 language and meaning. You can also find links to a [website (in
 progress) on dynamic semantics](http://dynsem.github.io/) and my
-[cv](rothschildcv.pdf).
+[short](materials/rothschildshortcv.pdf) and [long](rothschildcv.pdf) cv.
 
 This site contains my papers and drafts and information on conferences,
 workshops and such.
