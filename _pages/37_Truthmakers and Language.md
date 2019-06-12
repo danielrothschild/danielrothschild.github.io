@@ -28,15 +28,13 @@ This will be a one-day workshop on truthmakers in natural language.  It will be 
 <div class="title"> PARTICIPANTS </div>
 
 
-[Simona Aimar](https://www.simonaimar.com/)
+[Simona Aimar](https://www.simonaimar.com/) 
 
 [Kit Fine](https://as.nyu.edu/content/nyu-as/as/faculty/kit-fine.html)
 
 [Angelika Kratzer](http://people.umass.edu/kratzer/)
 
-
 [Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)
-
 
 [Daniel Rothschild](http://danielrothschild.com/)
 
@@ -48,7 +46,7 @@ TBA
 
 <div class="title"> CONTACT </div>
 
-Contact Daniel for any questions.
+The workshop is being organized jointly by Angelika, Daniel, Matt, and Simona. Contact Daniel for any questions.
 
 <span class ="smaller">
 Image: Oskar Schlemmer, Raumtanz, Diagramm für Gestentanz, 1926
