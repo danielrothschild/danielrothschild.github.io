@@ -28,7 +28,9 @@ This will be a one-day workshop on truthmakers in natural language.  It will be 
 <div class="title"> PARTICIPANTS </div>
 
 
-[Simona Aimar](https://www.simonaimar.com/) 
+[Simona Aimar](https://www.simonaimar.com/)
+
+[Beau Madison Mount](https://www.new.ox.ac.uk/node/1423)
 
 [Kit Fine](https://as.nyu.edu/content/nyu-as/as/faculty/kit-fine.html)
 
@@ -42,7 +44,21 @@ This will be a one-day workshop on truthmakers in natural language.  It will be 
 
 <div class="title"> SCHEDULE </div>
 
-TBA
+<span class ="titlewhite"> 9:45 </span><span class ="titleblack"> Coffee </span><br>
+
+<span class ="titlewhite"> 10:00 - 12:00 </span><span class ="titleblack"> Truthmakers and Truth Conditions </span> <br>
+
+<span class ="titlewhite"> 12:00-1:00 </span><span class ="titleblack"> Lunch </span> <br>
+
+<span class ="titlewhite"> 1:00-3:00 </span><span class ="titleblack"> Natural Language Motivations: Adverbial Quantification and Scalar Implicatures </span> <br>
+
+<span class ="titlewhite"> 5:00-7:00 </span><span class ="titleblack"> Truthmakers and Conditionals and Modals </span> <br>
+
+<span class ="titlewhite"> 7:00-7:45 </span><span class ="titleblack"> Drinks </span> <br>
+
+
+
+
 
 <div class="title"> CONTACT </div>
 
