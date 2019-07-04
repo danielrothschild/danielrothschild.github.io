@@ -53,7 +53,7 @@ This will be a one-day workshop on truthmakers in natural language.  It will be 
 
 <span class ="time"> 1:00-3:00 </span><br><span class ="titleblack"> Natural Language Motivations: Adverbial Quantification and Scalar Implicatures </span> <br>
 
-<span class ="time"> 4:00-4:30 </span><br><span class ="titleblack"> Tea </span> <br>
+<span class ="time"> 4:30-5:00 </span><br><span class ="titleblack"> Tea </span> <br>
 
 <span class ="time"> 5:00-7:00 </span><br><span class ="titleblack"> Truthmakers and Conditionals and Modals </span> <br>
 
