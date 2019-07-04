@@ -23,7 +23,7 @@ event: a
 
 <div class="title"> ABOUT </div>
 
-This will be a one-day workshop on truthmakers in natural language.  It will be held at All Souls College, Oxford, on 15 July 2019.  All are welcome, but please register [here](https://docs.google.com/forms/d/e/1FAIpQLSeWXevTRM8L_-L9MTnWEzhxkRQ-AgF1sXwLCiIHiwddfNoKow/viewform?usp=pp_url).
+This will be a one-day workshop on truthmakers in natural language.  It will be held at All Souls College, Oxford, on 15 July 2019, in the Wharton Room.  All are welcome, but please register [here](https://docs.google.com/forms/d/e/1FAIpQLSeWXevTRM8L_-L9MTnWEzhxkRQ-AgF1sXwLCiIHiwddfNoKow/viewform?usp=pp_url).
 
 <div class="title"> PARTICIPANTS </div>
 
@@ -44,17 +44,20 @@ This will be a one-day workshop on truthmakers in natural language.  It will be 
 
 <div class="title"> SCHEDULE </div>
 
-<span class ="titlewhite"> 9:45 </span><span class ="titleblack"> Coffee </span><br>
+ <span class ="time">9:45  </span><br> <span class ="titleblack"> Coffee </span><br>
 
-<span class ="titlewhite"> 10:00 - 12:00 </span><span class ="titleblack"> Truthmakers and Truth Conditions </span> <br>
+<span class ="time"> 10:00 - 12:00 </span><br>
+<span class ="titleblack"> Truthmakers and Truth Conditions </span> <br>
 
-<span class ="titlewhite"> 12:00-1:00 </span><span class ="titleblack"> Lunch </span> <br>
+<span class ="time"> 12:00-1:00 </span><br><span class ="titleblack"> Lunch </span> <br>
 
-<span class ="titlewhite"> 1:00-3:00 </span><span class ="titleblack"> Natural Language Motivations: Adverbial Quantification and Scalar Implicatures </span> <br>
+<span class ="time"> 1:00-3:00 </span><br><span class ="titleblack"> Natural Language Motivations: Adverbial Quantification and Scalar Implicatures </span> <br>
 
-<span class ="titlewhite"> 5:00-7:00 </span><span class ="titleblack"> Truthmakers and Conditionals and Modals </span> <br>
+<span class ="time"> 4:00-4:30 </span><br><span class ="titleblack"> Tea </span> <br>
 
-<span class ="titlewhite"> 7:00-7:45 </span><span class ="titleblack"> Drinks </span> <br>
+<span class ="time"> 5:00-7:00 </span><br><span class ="titleblack"> Truthmakers and Conditionals and Modals </span> <br>
+
+<span class ="time"> 7:00-7:45 </span><br><span class ="titleblack"> Drinks </span> <br>
 
 
 
