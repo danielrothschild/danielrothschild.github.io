@@ -48,14 +48,22 @@ This will be a one-day workshop on truthmakers in natural language.  It will be 
 
 <span class ="time"> 10:00 - 12:00 </span><br>
 <span class ="titleblack"> Truthmakers and Truth Conditions </span> <br>
+Moderator: Daniel Rothschild <br>
+Lead Statement: Ian Rumfitt
 
 <span class ="time"> 12:00-1:00 </span><br><span class ="titleblack"> Lunch </span> <br>
 
-<span class ="time"> 1:00-3:00 </span><br><span class ="titleblack"> Natural Language Motivations: Adverbial Quantification and Scalar Implicatures </span> <br>
+<span class ="time"> 1:00-3:00 </span><br><span class ="titleblack"> Natural Language Motivations</span> <br>
+Moderator: Daniel Rothschild<br>
+Adverbial quantification: Angelika Kratzer <br>
+Scalar Implicatures:  Kit Fine, Angelika Kratzer
+
 
 <span class ="time"> 4:30-4:45 </span><br><span class ="titleblack"> Tea </span> <br>
 
 <span class ="time"> 4:45-6:45 </span><br><span class ="titleblack"> Truthmakers and Conditionals and Modals </span> <br>
+Moderator: Matt Mandelkern<br>
+Lead statement: Kit Fine
 
 <span class ="time"> 6:45-7:30 </span><br><span class ="titleblack"> Drinks </span> <br>
 
