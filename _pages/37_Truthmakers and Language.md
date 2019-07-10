@@ -73,7 +73,7 @@ Lead statement: Kit Fine
 
 <div class="title"> CONTACT </div>
 
-The workshop is being organized jointly by Angelika, Daniel, Matt, and Simona. Contact Daniel for any questions.
+The workshop is being organized jointly by Angelika, Daniel, Matt, and Simona. Contact Daniel for any questions. We are grateful to All Souls College, the Leverhulme Trust, and the UCL Department of Philosophy for sponsoring this event.
 
 <span class ="smaller">
 Image: Oskar Schlemmer, Raumtanz, Diagramm für Gestentanz, 1926
