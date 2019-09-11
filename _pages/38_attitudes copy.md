@@ -23,7 +23,7 @@ class: a
 
 <div class="title"> ABOUT </div>
 
-This years incarnation of the semantics research seminar will focus on dynamic semantics.  We'll both introduce some of the main ideas and linguistic motivations behind the 'dynamic turn' as well as discuss new work.
+This years incarnation of the semantics research seminar will focus on dynamic semantics.  We'll both introduce some of the main ideas and linguistic motivations behind the 'dynamic turn' and discuss new work.
 
 <div class="title"> INSTRUCTORS </div>
 
