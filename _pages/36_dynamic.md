@@ -1,6 +1,6 @@
 ---
 layout: conf5
-title: Dynamic Semantics Seminar
+title: Dynamic Semantics
 permalink: /dynamics1920/
 location: UCL
 date:  Term 1, 2019/20
@@ -27,7 +27,7 @@ This years incarnation of the semantics research seminar will focus on dynamic s
 
 <div class="title"> INSTRUCTORS </div>
 
-[Gennaro Chierchia](https://scholar.harvard.edu/chierchia), Harvard, Linguistics<br>
+[Gennaro Chierchia](https://scholar.harvard.edu/chierchia),  Linguistics, Harvard<br>
 [Nathan Klinedinst](https://www.ucl.ac.uk/pals/people/nathan-klinedinst),  Linguistics<br>
 [Matthew Mandelkern](http://users.ox.ac.uk/~sfop0776/), All Souls College, Oxford <br>
 [Daniel Rothschild](http://danielrothschild.com/),  Philosophy<br>
