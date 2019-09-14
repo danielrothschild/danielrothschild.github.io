@@ -35,7 +35,7 @@ This years incarnation of the semantics research seminar will focus on dynamic s
 
 <div class="title"> MECHANICS </div>
 
-The seminar meets Fridays 3-5pm, in Chandler House B01.   The first meeting is 4 October; there is no meeting on 8 Nov; the last meeting is 13 Dec.
+The seminar meets Fridays 3-5pm, in Bedford Way 448.   The first meeting is 4 October; there is no meeting on 8 Nov; the last meeting is 13 Dec.
 
 Enrolled students must submit a term paper on a topic covered for credit.
 
