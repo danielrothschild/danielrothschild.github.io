@@ -23,7 +23,7 @@ class: a
 
 <div class="title"> ABOUT </div>
 
-This years incarnation of the semantics research seminar will focus on dynamic semantics.  We'll both introduce some of the main ideas and linguistic motivations behind the 'dynamic turn' and discuss new work.
+This year's incarnation of the semantics research seminar will focus on dynamic semantics.  We'll both introduce some of the main ideas and linguistic motivations behind the 'dynamic turn' and discuss new work.
 
 <div class="title"> INSTRUCTORS </div>
 
@@ -39,6 +39,23 @@ The seminar meets Fridays 3-5pm, in Bedford Way 448.   The first meeting is 4 Oc
 
 Enrolled students must submit a term paper on a topic covered for credit.
 
+A set of useful notes on many aspects of dynamic systems from a class taught by Matt and Daniel at ESSLLI is available [here](http://danielrothschild.com/esslli2017/).
+
 All are welcome!
 
-<div class="title"> SCHEDULE </div>
+<div class="title"> TENTATIVE SCHEDULE </div>
+
+SESSION 1: 4 OCT<br> *Introduction (GC, DR)*<br>
+
+SESSION 2: 11 OCT<br> *Basic Dynamic Semantics For Anaphora and Presupposition (DR)*<br>
+
+SESSION 3: 18 OCT<br> *Plural Discourse Referents (YS)*<br>
+
+SESSION 4: 25 OCT<br> *Definiteness projection (MM/DR)*<br>
+See forthcoming paper [here](http://users.ox.ac.uk/~sfop0776/ProjectionFinalNLS.pdf)<br>
+
+SESSION 5: 1 NOV<br> *Dynamic Semantics and Weak Crossover (GC)*<br>
+
+SESSION 6: 15 NOV<br> *Static Anaphora (MM)*<br>
+
+SESSION 7: 22 NOV<br> *Pronoun/Modal Interaction (NK/DR)*<br>
