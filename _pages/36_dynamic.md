@@ -43,7 +43,7 @@ A set of useful notes on many aspects of dynamic systems from a class taught by 
 
 All are welcome!
 
-<div class="title"> TENTATIVE SCHEDULE </div>
+<div class="title"> TENTATIVE SCHEDULE  </div>
 
 SESSION 1: 4 OCT<br> *Introduction (GC, DR)*<br>
 
