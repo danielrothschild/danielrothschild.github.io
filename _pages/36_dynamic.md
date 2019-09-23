@@ -59,3 +59,5 @@ SESSION 5: 1 NOV<br> *Dynamic Semantics and Weak Crossover (GC)*<br>
 SESSION 6: 15 NOV<br> *Static Anaphora (MM)*<br>
 
 SESSION 7: 22 NOV<br> *Pronoun/Modal Interaction (NK/DR)*<br>
+
+Section 9: 6 DEC<br> *Redundancy (Guest speakers: Jacopo Romoli and Paul Marty)*<br>
