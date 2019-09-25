@@ -47,6 +47,9 @@ All are welcome!
 
 SESSION 1: 4 OCT<br> *Introduction (GC, DR)*<br>
 
+Introductory readings are notes by Daniel:<br>
+[Dynamic notion of context]()https://www.dropbox.com/s/ughtefzb1clnpfi/dynamiccontexts.pdf?dl=0
+
 SESSION 2: 11 OCT<br> *Basic Dynamic Semantics For Anaphora and Presupposition (DR)*<br>
 
 SESSION 3: 18 OCT<br> *Plural Discourse Referents (YS)*<br>
