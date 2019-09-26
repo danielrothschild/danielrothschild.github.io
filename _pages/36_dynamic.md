@@ -50,7 +50,7 @@ SESSION 1: 4 OCT<br> *Introduction (GC, DR)*<br>
 Introductory readings are notes by Daniel:<br>
 [Dynamic notion of context](https://www.dropbox.com/s/ughtefzb1clnpfi/dynamiccontexts.pdf?dl=0)<br>
 [Context change potentials](https://www.dropbox.com/s/so7uo9kddxogdvg/contextchangepotentials.pdf?dl=0)<br>
-[Simple dynamic semantics](https://www.dropbox.com/s/so7uo9kddxogdvg/contextchangepotentials.pdf?dl=0)<br>
+[Simple dynamic semantics](https://www.dropbox.com/s/xe741p7246p06un/simpledynamics.pdf?dl=0)<br>
 
 
 
