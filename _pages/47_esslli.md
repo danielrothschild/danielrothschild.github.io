@@ -21,19 +21,18 @@ This is a critical introduction to dynamic semantics taught by [Daniel Rothschil
 
 <div class="title"> handouts </div>
 
-[Day 1](https://www.dropbox.com/s/rn78cpn5rcpgatc/ESSLLI%20Day%201%20.pdf?dl=0): Pronouns and presuppositions
+[Day 1](https://www.dropbox.com/s/3mg4fe1prlc3pbv/ESSLLI%20Day%201%20.pdf?dl=0): Pronouns and presuppositions
 
-[Day 2](https://www.dropbox.com/s/dg4wg3dzkxfpvvm/ESSLLI%20Day%202%20.pdf?dl=0): Epistemic modals and generalized quantifiers
+[Day 2](https://www.dropbox.com/s/znr8fge3xn4ic8y/ESSLLI%20Day%202%20.pdf?dl=0): Epistemic modals and generalized quantifiers
 
-[Day 3](https://www.dropbox.com/s/ftw6dn4iu68m8rj/ESSLLI%20Day%203.pdf?dl=0) : Situational alternatives for anaphora
+[Day 3](https://www.dropbox.com/s/jx9zmh6jblnp3zq/ESSLLI%20Day%203.pdf?dl=0) : Situational alternatives for anaphora
 
-[Day 4](https://www.dropbox.com/s/o4qlegscu7vqpdj/ESSLLI%20Day%204.pdf?dl=0) : Pragmatic alternatives for presuppositions
+[Day 4](https://www.dropbox.com/s/h43hyt4z3md2r6i/ESSLLI%20Day%204.pdf?dl=0) : Pragmatic alternatives for presuppositions
 
-[Day 5](https://www.dropbox.com/s/epsb9ongcgthqcw/ESSLLI%20Day%205.pdf?dl=0) : Plural anaphora and dynamic epistemic modals
+[Day 5](https://www.dropbox.com/s/k8zt8jor9hxvtc0/ESSLLI%20Day%205.pdf?dl=0) : Plural anaphora and dynamic epistemic modals
 
-[TECHNICAL SUMMARY](https://www.dropbox.com/s/y65q2qf0567vl9j/DYNSEM%20-%20summary.pdf?dl=0)
+[TECHNICAL SUMMARY](https://www.dropbox.com/s/e6vfszkqv7l65tu/DYNSEM%20-%20summary.pdf?dl=0)
 
-[EXTENDED DRAFT DISCUSSION OF SITUATION SEMANTICS](https://www.dropbox.com/s/sdok27mr62857w5/etype.pdf?dl=0)
 
 <div class="title"> READINGS </div>
 
