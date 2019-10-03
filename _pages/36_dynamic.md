@@ -47,6 +47,8 @@ All are welcome!
 
 SESSION 1: 4 OCT<br> *Introduction (GC, DR)*<br>
 
+Gennaro's [Handout](materials/gc1.docx)
+
 Introductory readings are notes by Daniel:<br>
 [Dynamic notion of context](https://www.dropbox.com/s/ughtefzb1clnpfi/dynamiccontexts.pdf?dl=0)<br>
 [Context change potentials](https://www.dropbox.com/s/so7uo9kddxogdvg/contextchangepotentials.pdf?dl=0)<br>
