@@ -60,7 +60,7 @@ SESSION 2: 11 OCT<br> *Basic Dynamic Semantics For Anaphora and Presupposition (
 
 SESSION 3: 18 OCT<br> *Plural Discourse Referents (YS)*<br>
 
-[Handout](/materials/SRS-SY.pdf)
+[Handout](/materials/SRS-YS.pdf)
 
 SESSION 4: 25 OCT<br> *Definiteness projection (MM/DR)*<br>
 See forthcoming paper [here](http://users.ox.ac.uk/~sfop0776/ProjectionFinalNLS.pdf)<br>
