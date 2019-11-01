@@ -60,15 +60,23 @@ SESSION 2: 11 OCT<br> *Basic Dynamic Semantics For Anaphora and Presupposition (
 
 SESSION 3: 18 OCT<br> *Plural Discourse Referents (YS)*<br>
 
-[Handout](/materials/SRS-YS.pdf)
+[Handout](/materials/SRS-YS.pdf)<br>
 
 SESSION 4: 25 OCT<br> *Definiteness projection (MM/DR)*<br>
 See forthcoming paper [here](http://users.ox.ac.uk/~sfop0776/ProjectionFinalNLS.pdf)<br>
 
 SESSION 5: 1 NOV<br> *Dynamic Semantics and Weak Crossover (GC)*<br>
 
+[Handout](http://danielrothschild.com/materials/chierchiahandout.docx)<br>
+
+[Paper](http://danielrothschild.com/materials/chierchiacrossover.pdf)<br>
+
 SESSION 6: 15 NOV<br> *Static Anaphora (MM)*<br>
 
 SESSION 7: 22 NOV<br> *Pronoun/Modal Interaction (NK/DR)*<br>
 
-Section 9: 6 DEC<br> *Redundancy (Guest speakers: Jacopo Romoli and Paul Marty)*<br>
+SESSION 8: 29 NOV<br> *Conditionals Modals (DR)*<br>
+
+SESSION 9: 6 DEC<br> *Redundancy (Guest speakers: Jacopo Romoli and Paul Marty)*<br>
+
+SESSION 10: 15 DEC<br> *Foundational questions revisited (DR)*  <br>
