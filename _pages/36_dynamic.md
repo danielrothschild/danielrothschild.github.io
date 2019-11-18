@@ -75,6 +75,8 @@ SESSION 6: 15 NOV<br> *Static Anaphora (MM)*<br>
 
 SESSION 7: 22 NOV<br> *Pronoun/Modal Interaction (NK/DR)*<br>
 
+[Epistemic Modal Handout](https://www.dropbox.com/s/zov0pkq3pn2if6g/srsepistemicmodals%20.pdf?dl=0)<br>
+
 SESSION 8: 29 NOV<br> *Conditionals Modals (DR)*<br>
 
 SESSION 9: 6 DEC<br> *Redundancy (Guest speakers: Jacopo Romoli and Paul Marty)*<br>
