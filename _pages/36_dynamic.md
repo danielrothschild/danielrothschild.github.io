@@ -80,5 +80,6 @@ SESSION 7: 22 NOV<br> *Pronoun/Modal Interaction (NK/DR)*<br>
 SESSION 8: 29 NOV<br> *NO CLASS INDUSTRIAL ACTION*<br>
 
 SESSION 9: 6 DEC<br>*Foundational questions revisited (DR) Double negation and Partee Sentences (Matthew Gotham)* <br>
+[Three notions of dynamicness](http://dx.doi.org/10.1007/s10988-016-9188-1)<br>
 
 SESSION 10: 15 DEC<br> *Redundancy (Guest speakers: Jacopo Romoli and Paul Marty)*  <br>
