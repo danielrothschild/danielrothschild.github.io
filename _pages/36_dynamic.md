@@ -83,3 +83,5 @@ SESSION 9: 6 DEC<br>*Foundational questions revisited (DR) Double negation and P
 [Three notions of dynamicness](http://dx.doi.org/10.1007/s10988-016-9188-1)<br>
 
 SESSION 10: 15 DEC<br> *Redundancy (Guest speakers: Jacopo Romoli and Paul Marty)*  <br>
+Materials [here](https://semprag.org/article/view/sp.9.7)
+and [here](https://www.ucl.ac.uk/~ucjtudo/pdf/redundancy.pdf)
