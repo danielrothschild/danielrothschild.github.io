@@ -2,7 +2,8 @@
   year: "2019"
   journal: Natural Language Semantics
   subject: Dynamic Semantics
-  url: materials/definite2.pdf
+  url: https://doi.org/10.1007/s11050-019-09159-2
+  local: materials/definite2.pdf
   coauthor: "[Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)"
 
 - title: Lockean beliefs, Dutch books, and scoring systems
