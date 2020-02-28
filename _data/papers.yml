@@ -1,3 +1,11 @@
+
+- title: Permisive Updates
+  year: "2020"
+  journal: for book on Kit Fine's work
+  subject: Truthmakers
+  coauthor: "[Stephen Yablo](http://www.mit.edu/~yablo/home/Hello.html)"
+  url: materials/permission.pdf
+
 - title: Definiteness Projection
   year: "2019"
   journal: Natural Language Semantics
@@ -25,12 +33,6 @@
   coauthor: "[Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)"
   url: materials/roads.pdf
 
-- title: Permisive Updates
-  year: "2020"
-  journal: for book on Kit Fine's work
-  subject: Truthmakers
-  coauthor: "[Stephen Yablo](http://www.mit.edu/~yablo/home/Hello.html)"
-  url: materials/permission.pdf
 #
 # - title: Projection from Situations
 #   year: "2018"
