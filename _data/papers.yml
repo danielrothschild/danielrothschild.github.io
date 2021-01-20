@@ -3,7 +3,8 @@
   journal: Journal of Philosophical Logic
   subject: Connectives/Conditionals
   coauthor: "[Matt Mandelkern](http://users.ox.ac.uk/~sfop0776/)"
-  url: materials/roads.pdf
+  url: https://doi.org/10.1007/s10992-020-09562-9
+  local: materials/roads.pdf
 
 - title: Permisive Updates
   year: "2020"
