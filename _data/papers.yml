@@ -147,11 +147,12 @@
 
 
 - title: "A Note on Conditionals and Restrictors"
-  url: semconditionals.pdf
-  year: "2012"
+  url: http://dx.doi.org/10.1093/oso/9780198712732.001.0001
+  local: semconditionals.pdf
+  year: "2021"
   journal: "Conditionals, Probability, and Paradox: Themes from the Philosophy of Dorothy Edgington"
   subject: Connectives/Conditionals
-  note: "John Hawthorne and Lee Walters (eds.), OUP, in press"
+  note: "John Hawthorne and Lee Walters (eds.), OUP (n.b. written in 2012)"
 
 
 - title: "Connectives without Truth Tables"
