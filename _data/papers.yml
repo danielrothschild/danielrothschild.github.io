@@ -15,6 +15,13 @@
   subject: Belief/Knowledge/Credence
   url: materials/lockeandutchbook.pdf
 
+- title: Permissive Updates
+  year: "forthcoming"
+  journal: for book on Kit Fine's work
+  subject: Truthmakers
+  coauthor: "[Stephen Yablo](http://www.mit.edu/~yablo/home/Hello.html)"
+  url: materials/permission.pdf
+
 
 
 - title: "A Note on Conditionals and Restrictors"
@@ -34,12 +41,7 @@
   url: https://doi.org/10.1007/s10992-020-09562-9
   local: materials/roads.pdf
 
-- title: Permisive Updates
-  year: "2020"
-  journal: for book on Kit Fine's work
-  subject: Truthmakers
-  coauthor: "[Stephen Yablo](http://www.mit.edu/~yablo/home/Hello.html)"
-  url: materials/permission.pdf
+
 
 - title: Definiteness Projection
   year: "2019"
