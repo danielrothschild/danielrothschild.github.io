@@ -1,27 +1,4 @@
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="author" content="Daniel Rothschild" />
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-  <link rel="stylesheet" href="/css/conf2.css">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="manifest" href="/manifest.json">
-  <meta name="theme-color" content="#ffffff">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
-
-<body>
-
-
-
-
-
-
-			<h5 id="dynamic-semantics-and---pragmatic-alternatives">DYNAMIC SEMANTICS AND <br />  PRAGMATIC ALTERNATIVES</h5>
+I"ü<h5 id="dynamic-semantics-and---pragmatic-alternatives">DYNAMIC SEMANTICS AND <br />  PRAGMATIC ALTERNATIVES</h5>
 
 <p><img src="/vinci.jpg" width="500" /></p>
 
@@ -131,49 +108,4 @@ Sponsored by the UK Arts and Humanities Research Council Grants AH/N001877/1 and
   <p><img src="/AHRClime.jpg" alt="AHRC" /></p>
 
 </div>
-
-
-
-
-
-
-
-</body>
-
-</html>
-
-
-
-<!-- Start Google Analytics -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-12266543-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=6466299; 
-var sc_invisible=1; 
-var sc_security="029ae451"; 
-</script>
-<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript>
-<div class="statcounter">
-<a title="vBulletin analytics"
-href="http://statcounter.com/vbulletin/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/6466299/0/029ae451/1/"
-alt="vBulletin analytics" ></a>
-</div>
-</noscript>
-<!-- End of StatCounter Code -->
-<!-- End Google Analytics -->
+:ET
