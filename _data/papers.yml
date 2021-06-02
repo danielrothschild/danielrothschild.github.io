@@ -1,12 +1,5 @@
 
 
-- title: The influence of polarity items on inferential judgments
-  year: "forthcoming"
-  journal: Cognition
-  subject: Polarity Items
-  coauthor: "[Emmanuel Chemla](http://www.emmanuel.chemla.free.fr/), [Milica Denic](https://sites.google.com/view/milicadenic/), and [Vincent Homer](https://sites.google.com/site/vincenthomer/)"
-  url: https://www.google.com/url?q=https%3A%2F%2Fling.auf.net%2Flingbuzz%2F005977&sa=D&sntz=1&usg=AFQjCNG9i5CiSyt11by8zSzlBD-sIBF0PQ
-  local: materials/roads.pdf
 
 
 - title: Lockean beliefs, Dutch books, and scoring systems
@@ -14,6 +7,14 @@
   journal: Erkenntnis
   subject: Belief/Knowledge/Credence
   url: materials/lockeandutchbook.pdf
+
+- title: The influence of polarity items on inferential judgments
+  year: "forthcoming"
+  journal: Cognition
+  subject: Polarity Items
+  coauthor: "[Emmanuel Chemla](http://www.emmanuel.chemla.free.fr/), [Milica Denic](https://sites.google.com/view/milicadenic/), and [Vincent Homer](https://sites.google.com/site/vincenthomer/)"
+  url: https://www.google.com/url?q=https%3A%2F%2Fling.auf.net%2Flingbuzz%2F005977&sa=D&sntz=1&usg=AFQjCNG9i5CiSyt11by8zSzlBD-sIBF0PQ
+
 
 - title: Permissive Updates
   year: "forthcoming"
