@@ -9,7 +9,8 @@
   year: "forthcoming"
   journal: Erkenntnis
   subject: Belief/Knowledge/Credence
-  url: materials/lockeandutchbook.pdf
+  url: https://doi.org/10.1007/s10670-021-00438-1
+  local: materials/lockeandutchbook.pdf
 
 - title: The influence of polarity items on inferential judgments
   year: "2021"
