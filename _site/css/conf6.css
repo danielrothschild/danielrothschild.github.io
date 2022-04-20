@@ -113,7 +113,7 @@ a.paper{
 
 body {
   line-height: 1.85;
-  background-color: #FDB0AB; /* */
+  background-color: #7492dd; /* */
 
 }
 
@@ -425,7 +425,10 @@ footer {
   padding: 0;
 }
 
-
+.reading{
+  margin: 0;
+  padding:0;
+}
 
 .underline {
     text-transform: uppercase;
@@ -433,4 +436,4 @@ footer {
     padding-bottom: 2px;
 }
 
-em { font-style: normal; font-weight: normal; color: #ff8080 }
+em { font-size: 89%; font-style: normal; font-weight: normal; text-transform:uppercase; padding-left: 1em}

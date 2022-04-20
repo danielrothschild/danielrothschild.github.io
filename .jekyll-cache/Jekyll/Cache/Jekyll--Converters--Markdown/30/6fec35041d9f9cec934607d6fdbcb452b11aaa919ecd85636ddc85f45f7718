@@ -1,32 +1,4 @@
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="author" content="Daniel Rothschild" />
-  <title></title>
-  <style type="text/css">code{white-space: pre;}</style>
-  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-  <link rel="stylesheet" href="/css/conf6.css">
-  <link rel="shortcut icon" href="/favicon.ico">
-  <link rel="manifest" href="/manifest.json">
-  <meta name="theme-color" content="#ffffff">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-  body {
-      background-color: #;
-  }
-  </style>
-</head>
-
-
-<body>
-
-
-
-
-
-
-			<h5 id="changing-beliefs">CHANGING BELIEFS</h5>
+I"<h5 id="changing-beliefs">CHANGING BELIEFS</h5>
 
 <p><img src="/materials/mettree.jpeg" width="500" /></p>
 
@@ -62,9 +34,9 @@ Van Fraassen <a href="https://www.jstor.org/stable/2026388?seq=1">Belief and the
 
   <p><span class="titleblack"> 5 MAY:</span>  <span class="titlethin"> NORMS OF INQUIRY/SUSPENSION OF JUDGMENT </span> <br />
 Harman <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/uctydro_ucl_ac_uk/ET2xZocmYelOoSseJiecEVQBRnsH4ZAeHVaawleMtEmcXQ?e=EUBcrk">Change in View, pages 1-75</a>. <br />
-Friedman <a href="https://jfriedmanphilo.github.io/WSJ.pdf">Why Suspend Judging?</a> <br />
- <em>optional:</em> &lt;br?
-Friedman <a href="https://jfriedmanphilo.github.io/IB.pdf">Inquiry and Belief</a></p>
+Friedman <a href="https://jfriedmanphilo.github.io/WSJ.pdf">Why Suspend Judging?</a> <br /></p>
+  <div>*optional:* </div>
+  <p>Friedman <a href="https://jfriedmanphilo.github.io/IB.pdf">Inquiry and Belief</a> <br /></p>
 
   <p><span class="titleblack">12 MAY:</span>   <span class="titlethin"> COMMUTATIVITY/HOLISM </span><br />
 Weisberg <a href="https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axp007">Commutativity or Holism?</a><br />
@@ -120,49 +92,4 @@ Salow <a href="https://users.ox.ac.uk/~shug2406/ValueOfEvidence.pdf">The Value o
 Image from <a href="https://www.metmuseum.org/art/collection/search/264592?ft=1985.1168.78&amp;offset=0&amp;rpp=40&amp;pos=1">The Met Museum</a>.
 </span></p>
 </div>
-
-
-
-
-
-
-
-</body>
-
-</html>
-
-
-
-<!-- Start Google Analytics -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-12266543-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- Start of StatCounter Code -->
-<script type="text/javascript">
-var sc_project=6466299; 
-var sc_invisible=1; 
-var sc_security="029ae451"; 
-</script>
-<script type="text/javascript"
-src="http://www.statcounter.com/counter/counter.js"></script>
-<noscript>
-<div class="statcounter">
-<a title="vBulletin analytics"
-href="http://statcounter.com/vbulletin/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/6466299/0/029ae451/1/"
-alt="vBulletin analytics" ></a>
-</div>
-</noscript>
-<!-- End of StatCounter Code -->
-<!-- End Google Analytics -->
+:ET

@@ -10,7 +10,7 @@ class: a
 
 ##### CHANGING BELIEFS
 
-<img src="/trees.jpg" width="500">
+<img src="/materials/mettree.jpeg" width="500">
 
 <div class="maintext" markdown="1">
 
@@ -46,8 +46,8 @@ Van Fraassen [Belief and the Will](https://www.jstor.org/stable/2026388?seq=1)
 <span class="titleblack"> 5 MAY:</span>  <span class = "titlethin"> NORMS OF INQUIRY/SUSPENSION OF JUDGMENT </span> <br>
 Harman [Change in View, pages 1-75](https://liveuclac-my.sharepoint.com/:b:/g/personal/uctydro_ucl_ac_uk/ET2xZocmYelOoSseJiecEVQBRnsH4ZAeHVaawleMtEmcXQ?e=EUBcrk). <br>
 Friedman [Why Suspend Judging?](https://jfriedmanphilo.github.io/WSJ.pdf) <br>
-*optional:* <br>
-Friedman [Inquiry and Belief](https://jfriedmanphilo.github.io/IB.pdf) <br>
+ *optional:* <br?
+Friedman [Inquiry and Belief](https://jfriedmanphilo.github.io/IB.pdf)
 
 
 <span class="titleblack">12 MAY:</span>   <span class = "titlethin"> COMMUTATIVITY/HOLISM </span><br>
@@ -106,5 +106,5 @@ This course syllabus from [Branden Fitelson](http://fitelson.org/) is particular
 ---
 
 <span class ="smaller">
-Image © University of Edinburgh.
+Image from [The Met Museum](https://www.metmuseum.org/art/collection/search/264592?ft=1985.1168.78&amp;offset=0&amp;rpp=40&amp;pos=1).
 </span>
