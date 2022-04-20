@@ -24,7 +24,7 @@ Our knowledge and beliefs are always in flux. We will focus on the question of w
 
 <div class="title"> MECHANICS </div>
 
-The seminar meets Thursdays from 10am to 1pm in the seminar room of the UCL Philosophy Department, 19 Gordon Square.  There is no meeting on 2 June (a bank holiday.  
+The seminar meets Thursdays from 10am to 1pm in the seminar room of the UCL Philosophy Department, 19 Gordon Square.  There is no meeting on 2 June (a bank holiday). One extra session will be scheduled later.
 
 The module will be assessed by a 4500-word essay.
 
