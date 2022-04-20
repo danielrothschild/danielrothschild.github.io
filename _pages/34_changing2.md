@@ -14,21 +14,23 @@ class: a
 
 <div class="maintext" markdown="1">
 
+<div class="title"> INSTRUCTORS </div>
+
+Nilanjan Das and Daniel Rothschild
+
 <div class="title"> ABOUT </div>
 
-This is graduate seminar (PHILG044) focuses on when and how one should change one's beliefs.  The course will cover a variety of topics in epistemology both formal and informal.  Our starting place will be the wide-ranging and enjoyable discussion of the nature of belief, change in belief, and rationality in Harman's *Change in View*. We will move from there to the question of what the relationship is between so-called full or outright belief and graded or partial belief. Then, we will discuss candidate principles for changing (or not changing) both types of belief. We will go on to examine the leading formal theory of belief revision for outright belief, AGM. Later topics will depend on the instructor or students' whims, fancies, or, in extreme cases, serious intellectual preoccupations. (We might discuss Kuhn's view of scientific change, for example.)
+Our knowledge and beliefs are always in flux. We will focus on the question of what norms, if any, govern changes in belief and knowledge over time. Each week will focus on a specific topic from the recent literature. Readings will include work by David Christensen, Maria Lasonen-Aarnio, Gilbert Harman, and Jane Friedman.
 
 <div class="title"> MECHANICS </div>
 
-The seminar meets Thursdays from 1 to 4pm in the seminar room of the UCL Philosophy Department, 19 Gordon Square.  There is no meeting on 10 May and there is an extra session Monday 4, June from 2-4pm.  
+The seminar meets Thursdays from 10am to 1pm in the seminar room of the UCL Philosophy Department, 19 Gordon Square.  There is no meeting on 10 May and there is an extra session Monday 4, June from 2-4pm.  
 
-The module will be assessed on the basis of a shot [problem set](https://www.dropbox.com/s/gh1y9ga396g0rbf/problemset.pdf?dl=0)--covering a bit of AGM as well as Bayesianism--which you are encouraged to collaborate on. Basic knowledge of logic and probability might come in handy for this (and for about 1/2 to 1/3 of the topics covered in the course). The rest of the assessment will be in the form of 3000 word essay. Enrolled graduate students will give short presentations throughout the term.
+The module will be assessed of a 3500 word essay.
 
 Auditors and provocateurs welcome.
 
-Sign up for announcements by entering your email [here](https://goo.gl/forms/CEEol9KiIAZWywnI2).
-
-<div class="title"> TENTATIVE SCHEDULE </div>
+<div class="title"> SCHEDULE </div>
 
 <span class="titleblack"> 26 April (Thurs) </span>  <span class = "titlethin"> INTRODUCTION TO CHANGES IN BELIEF </span> <br>
 Harman's *Change in View* ([pages 1-75](https://www.dropbox.com/s/iynhp1s702m2g5z/Selections-%20Change%20in%20View.pdf?dl=0)). <br>
