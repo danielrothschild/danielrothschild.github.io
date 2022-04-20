@@ -33,21 +33,21 @@ Auditors and provocateurs welcome.
 <div class="title"> SCHEDULE </div>
 
 <span class="titleblack">28 APRIL:</span> <span class = "titlethin"> DIACHRONIC RATIONALITY </span><br>
-Christensen, [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)  <br>
-Hedden, [Time-Slice Rationality](https://philpapers.org/go.pl?id=HEDTR&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FHEDTR.pdf)<br>
+Christensen [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)  <br>
+Hedden [Time-Slice Rationality](https://philpapers.org/go.pl?id=HEDTR&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FHEDTR.pdf)<br>
 *background:* <br>
-Talbott, [Bayesian Epistemology, sections 1-4](https://plato.stanford.edu/entries/epistemology-bayesian/) <br>
+Talbott [Bayesian Epistemology, sections 1-4](https://plato.stanford.edu/entries/epistemology-bayesian/) <br>
 *optional:* <br>
-Christensen, [Conservatism in Epistemology](https://www.jstor.org/stable/2215920?seq=1) <br>
+Christensen [Conservatism in Epistemology](https://www.jstor.org/stable/2215920?seq=1) <br>
 Lewis [Why Conditionalize?](https://andrewmbailey.com/dkl/Why_Conditionalize.pdf) <br>
-Van Fraassen, [Belief and the Will](https://www.jstor.org/stable/2026388?seq=1)
+Van Fraassen [Belief and the Will](https://www.jstor.org/stable/2026388?seq=1)
 
 
 <span class="titleblack"> 5 MAY:</span>  <span class = "titlethin"> NORMS OF INQUIRY/SUSPENSION OF JUDGMENT </span> <br>
-Harman, [Change in View, pages 1-75](https://liveuclac-my.sharepoint.com/:b:/g/personal/uctydro_ucl_ac_uk/ET2xZocmYelOoSseJiecEVQBRnsH4ZAeHVaawleMtEmcXQ?e=EUBcrk). <br>
-Friedman, [Why Suspend Judging?](https://jfriedmanphilo.github.io/WSJ.pdf) <br>
+Harman [Change in View, pages 1-75](https://liveuclac-my.sharepoint.com/:b:/g/personal/uctydro_ucl_ac_uk/ET2xZocmYelOoSseJiecEVQBRnsH4ZAeHVaawleMtEmcXQ?e=EUBcrk). <br>
+Friedman [Why Suspend Judging?](https://jfriedmanphilo.github.io/WSJ.pdf) <br>
 *optional:* <br>
-Friedman, [Inquiry and Belief](https://jfriedmanphilo.github.io/IB.pdf) <br>
+Friedman [Inquiry and Belief](https://jfriedmanphilo.github.io/IB.pdf) <br>
 
 
 <span class="titleblack">12 MAY:</span>   <span class = "titlethin"> COMMUTATIVITY/HOLISM </span><br>
