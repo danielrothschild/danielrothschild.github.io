@@ -425,9 +425,9 @@ footer {
   padding: 0;
 }
 
-.reading{
-  margin: 0;
-  padding:0;
+.optional{
+  margin-top: -.7em;
+  padding-left: 1em
 }
 
 .underline {
@@ -436,4 +436,4 @@ footer {
     padding-bottom: 2px;
 }
 
-em { font-size: 89%; font-style: normal; font-weight: normal; text-transform:uppercase; padding-left: 1em}
+em { font-size: 89%; font-style: normal; font-weight: normal; text-transform:uppercase}

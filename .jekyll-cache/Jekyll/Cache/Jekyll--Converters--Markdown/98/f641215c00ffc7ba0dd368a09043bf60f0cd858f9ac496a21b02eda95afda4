@@ -1,4 +1,4 @@
-I"-<h5 id="changing-beliefs">CHANGING BELIEFS</h5>
+I"!<h5 id="changing-beliefs">CHANGING BELIEFS</h5>
 
 <p><img src="/materials/mettree.jpeg" width="500" /></p>
 
@@ -34,11 +34,15 @@ Van Fraassen <a href="https://www.jstor.org/stable/2026388?seq=1">Belief and the
 
   <p><span class="titleblack"> 5 MAY:</span>  <span class="titlethin"> NORMS OF INQUIRY/SUSPENSION OF JUDGMENT </span> <br />
 Harman <a href="https://liveuclac-my.sharepoint.com/:b:/g/personal/uctydro_ucl_ac_uk/ET2xZocmYelOoSseJiecEVQBRnsH4ZAeHVaawleMtEmcXQ?e=EUBcrk">Change in View, pages 1-75</a>. <br />
-Friedman <a href="https://jfriedmanphilo.github.io/WSJ.pdf">Why Suspend Judging?</a> <br />
-<span class="reading"><em>optional:</em> <br /></span>
-Friedman <a href="https://jfriedmanphilo.github.io/IB.pdf">Inquiry and Belief</a> <br /></p>
+Friedman <a href="https://jfriedmanphilo.github.io/WSJ.pdf">Why Suspend Judging?</a>
+&lt;div class=”optional”; markdown=1&gt;</p>
 
-  <p><span class="titleblack">12 MAY:</span>   <span class="titlethin"> COMMUTATIVITY/HOLISM </span><br />
+  <p><em>optional:</em>
+Friedman <a href="https://jfriedmanphilo.github.io/IB.pdf">Inquiry and Belief</a></p>
+
+</div>
+
+<p><span class="titleblack">12 MAY:</span>   <span class="titlethin"> COMMUTATIVITY/HOLISM </span><br />
 Weisberg <a href="https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axp007">Commutativity or Holism?</a><br />
 Greco <a href="https://academic.oup.com/mind/article/126/501/93/2404573?login=true">Cognitive Mobile Homes</a><br />
 <em>optional:</em><br />
@@ -47,7 +51,7 @@ Srinivasan <a href="https://read.dukeupress.edu/the-philosophical-review/article
 Gallow <a href="https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axs045">How To Learn From Theory-Dependent Evidence</a><br />
 Miller <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/phpr.12575?af=R">Holistic Conditionalization and Underminable Perceptual Learning</a></p>
 
-  <p><span class="titleblack"> 19 MAY:</span>  <span class="titlethin"> GROWING UNAWARENESS</span> <br />
+<p><span class="titleblack"> 19 MAY:</span>  <span class="titlethin"> GROWING UNAWARENESS</span> <br />
 Steele and Stefansson  <a href="https://philpapers.org/archive/STEBRF-6.pdf">Belief Revision for Growing Awareness</a><br />
 Pettigrew <a href="https://philpapers.org/archive/PETWST-2.pdf">How should your beliefs change when your awareness grows?</a><br />
 <em>optional:</em><br />
@@ -56,10 +60,10 @@ Mahtani <a href="https://link.springer.com/content/pdf/10.1007/s11229-020-02611-
 Karni and Vierø <a href="https://www.aeaweb.org/articles?id=10.1257/aer.103.7.2790">Reverse Bayesianism</a><br />
 Karni and Vierø <a href="https://link.springer.com/article/10.1007/s11166-015-9216-5">Probabilistic sophistication and Reverse Bayesianism</a></p>
 
-  <p><span class="titleblack"> 26 MAY:</span>  <span class="titlethin"> LIMITS OF BAYESIANISM</span> <br />
+<p><span class="titleblack"> 26 MAY:</span>  <span class="titlethin"> LIMITS OF BAYESIANISM</span> <br />
 Rothschild, The Scope of Bayesianism<br /></p>
 
-  <p><span class="titleblack"> 9 JUNE:  </span> <span class="titlethin"> SELF-LOCATING BELIEF</span><br />
+<p><span class="titleblack"> 9 JUNE:  </span> <span class="titlethin"> SELF-LOCATING BELIEF</span><br />
 Elga <a href="http://www.jstor.org/stable/3329167">Self‐locating belief and the Sleeping Beauty problem</a> <br />
 Lewis <a href="https://fitelson.org/probability/lewis_sb.pdf">Reply to Elga</a><br />
 Dorr <a href="https://www.jstor.org/stable/3328920?seq=1">Sleeping Beauty: In Defense of Elga</a><br />
@@ -72,7 +76,7 @@ Ross <a href="https://www.jstor.org/stable/41684395?seq=1">Sleeping Beauty, Coun
 Artzenius <a href="http://www.jstor.org/stable/3655783">Some Problems for Conditionalization and Reflection</a><br />
 Moss <a href="https://philpapers.org/rec/PAUUAC">Updating as Communication</a></p>
 
-  <p><span class="titleblack"> DATE TBD:  </span> <span class="titlethin"> IMPRECISE CREDENCES</span><br />
+<p><span class="titleblack"> DATE TBD:  </span> <span class="titlethin"> IMPRECISE CREDENCES</span><br />
 Elga <a href="https://quod.lib.umich.edu/p/phimp/3521354.0010.005/--subjective-probabilities-should-be-sharp?view=image">Subjective Probabilities Should Be Sharp</a><br />
 Das, Imprecision and Information Aversion<br />
 <em>background:</em><br />
@@ -82,14 +86,13 @@ Bradley <a href="https://plato.stanford.edu/entries/imprecise-probabilities/">Im
 Mahtani <a href="https://philpapers.org/rec/MAHIPA-5">Imprecise Credences and Unstable Betting Behaviour</a><br />
 Salow <a href="https://users.ox.ac.uk/~shug2406/ValueOfEvidence.pdf">The Value of Evidence</a></p>
 
-  <div class="title"> Resources </div>
+<div class="title"> Resources </div>
 
-  <p>This course syllabus from <a href="http://fitelson.org/">Branden Fitelson</a> is particularly useful: <a href="http://fitelson.org/bayes/syllabus.html">Fundamentals of Bayesian Epistemology</a></p>
+<p>This course syllabus from <a href="http://fitelson.org/">Branden Fitelson</a> is particularly useful: <a href="http://fitelson.org/bayes/syllabus.html">Fundamentals of Bayesian Epistemology</a></p>
 
-  <hr />
+<hr />
 
-  <p><span class="smaller">
+<p><span class="smaller">
 Image from <a href="https://www.metmuseum.org/art/collection/search/264592?ft=1985.1168.78&amp;offset=0&amp;rpp=40&amp;pos=1">The Met Museum</a>.
 </span></p>
-</div>
 :ET
