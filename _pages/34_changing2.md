@@ -50,7 +50,7 @@ Harman [Change in View, pages 1-75](https://liveuclac-my.sharepoint.com/:b:/g/pe
 Friedman [The Epistemic and Zetetic](https://read.dukeupress.edu/the-philosophical-review/article-abstract/129/4/501/166989/The-Epistemic-and-the-Zetetic?redirectedFrom=fulltext)
 <div class="optional" markdown="1">
  *optional:*<br>
-Friedman [Inquiry and Belief](https://jfriedmanphilo.github.io/IB.pdf)
+Friedman [Junk beliefs and interest-driven epistemology](https://jfriedmanphilo.github.io/JBIE.pdf)
 Friedman [Why Suspend Judging?](https://jfriedmanphilo.github.io/WSJ.pdf)
 </div>
 
