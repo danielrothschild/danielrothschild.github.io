@@ -79,10 +79,8 @@ Karni and Vierø [Reverse Bayesianism](https://www.aeaweb.org/articles?id=10.125
 Karni and Vierø [Probabilistic sophistication and Reverse Bayesianism](https://link.springer.com/article/10.1007/s11166-015-9216-5)
 </div>
 
-<span class="titleblack"> 26 MAY:</span>  <span class = "titlethin"> LIMITS OF BAYESIANISM</span> <br>
-Rothschild, The Scope of Bayesianism<br>
 
-<span class="titleblack"> 9 JUNE:  </span> <span class = "titlethin"> SELF-LOCATING BELIEF</span><br>
+<span class="titleblack"> 26 MAY:  </span> <span class = "titlethin"> SELF-LOCATING BELIEF</span><br>
 Elga [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167) <br>
 Lewis [Reply to Elga](https://fitelson.org/probability/lewis_sb.pdf)<br>
 Dorr [Sleeping Beauty: In Defense of Elga](https://www.jstor.org/stable/3328920?seq=1)<br>
@@ -96,6 +94,10 @@ Ross [Sleeping Beauty, Countable Additivity, and Rational Dilemmas](https://www.
 Artzenius [Some Problems for Conditionalization and Reflection](http://www.jstor.org/stable/3655783)<br>
 Moss [Updating as Communication](https://philpapers.org/rec/PAUUAC)
 </div>
+
+
+<span class="titleblack"> 9 JUNE:</span>  <span class = "titlethin"> LIMITS OF BAYESIANISM</span> <br>
+Rothschild, The Scope of Bayesianism<br>
 
 <span class="titleblack"> DATE TBD:  </span> <span class = "titlethin"> IMPRECISE CREDENCES</span><br>
 Elga [Subjective Probabilities Should Be Sharp](https://quod.lib.umich.edu/p/phimp/3521354.0010.005/--subjective-probabilities-should-be-sharp?view=image)<br>
