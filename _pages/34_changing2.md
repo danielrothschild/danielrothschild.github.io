@@ -32,7 +32,7 @@ Auditors and provocateurs welcome.
 
 <div class="title"> SCHEDULE </div>
 
-<span class="titleblack">28 APRIL:</span> <span class = "titlethin"> DIACHRONIC RATIONALITY </span><br>
+<span class="titleblack">28 APRIL:</span> <span class = "titlethin"> DIACHRONIC RATIONALITY  </span> [handout](/materials/cb2week1nd.pdf) <br>
 Christensen [Diachronic Coherence versus Epistemic Impartiality](http://www.jstor.org/stable/2693694)  <br>
 Hedden [Time-Slice Rationality](https://philpapers.org/go.pl?id=HEDTR&u=https%3A%2F%2Fphilpapers.org%2Farchive%2FHEDTR.pdf)<br>
 <div class="optional" markdown="1">
@@ -45,7 +45,7 @@ Van Fraassen [Belief and the Will](https://www.jstor.org/stable/2026388?seq=1)
 </div>
 
 
-<span class="titleblack"> 5 MAY:</span>  <span class = "titlethin"> NORMS OF INQUIRY/SUSPENSION OF JUDGMENT </span> <br>
+<span class="titleblack"> 5 MAY:</span>  <span class = "titlethin"> NORMS OF INQUIRY/SUSPENSION OF JUDGMENT </span> [handout](/materials/cb2week2dr.pdf) <br>
 Harman [Change in View, pages 1-75](https://liveuclac-my.sharepoint.com/:b:/g/personal/uctydro_ucl_ac_uk/ET2xZocmYelOoSseJiecEVQBRnsH4ZAeHVaawleMtEmcXQ?e=EUBcrk). <br>
 Friedman [The Epistemic and Zetetic](https://read.dukeupress.edu/the-philosophical-review/article-abstract/129/4/501/166989/The-Epistemic-and-the-Zetetic?redirectedFrom=fulltext)
 <div class="optional" markdown="1">
@@ -56,7 +56,7 @@ Friedman [Why Suspend Judging?](https://jfriedmanphilo.github.io/WSJ.pdf)
 
 
 
-<span class="titleblack">12 MAY:</span>   <span class = "titlethin"> COMMUTATIVITY/HOLISM </span><br>
+<span class="titleblack">12 MAY:</span>   <span class = "titlethin"> COMMUTATIVITY/HOLISM </span> [handout](/materials/cb2week3nd.pdf)<br>
 Weisberg [Commutativity or Holism?](https://www.journals.uchicago.edu/doi/full/10.1093/bjps/axp007)<br>
 Greco [Cognitive Mobile Homes](https://academic.oup.com/mind/article/126/501/93/2404573?login=true)<br>
 <div class="optional" markdown="1">
