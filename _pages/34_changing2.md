@@ -73,7 +73,7 @@ Steele and Stefansson  [Belief Revision for Growing Awareness](https://philpaper
 Pettigrew [How should your beliefs change when your awareness grows?](https://philpapers.org/archive/PETWST-2.pdf)<br>
 <div class="optional" markdown="1">
 *optional:*<br>
-Bradley [Decision Theory with a Human Face, ch. 12](https://www-cambridge-org.libproxy.ucl.ac.uk/core/books/decision-theory-with-a-human-face/D3670FE43E561F415EB416675E1D5272/listing?q=awareness+growth&_csrf=WbilyL2u-0EgNd3jE0Mm3vDX6EJEliS0MK20&searchWithinIds=D3670FE43E561F415EB416675E1D5272&aggs%5BproductTypes%5D%5Bfilters%5D=BOOK_PART)<br>
+Bradley [Decision Theory with a Human Face, ch. 12](https://doi.org/10.1017/9780511760105)<br>
 Mahtani [Awareness growth and dispositional attitudes](https://link.springer.com/content/pdf/10.1007/s11229-020-02611-5.pdf)<br>
 Karni and Vierø [Reverse Bayesianism](https://www.aeaweb.org/articles?id=10.1257/aer.103.7.2790)<br>
 Karni and Vierø [Probabilistic sophistication and Reverse Bayesianism](https://link.springer.com/article/10.1007/s11166-015-9216-5)
