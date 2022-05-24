@@ -97,7 +97,7 @@ Moss [Updating as Communication](https://philpapers.org/rec/PAUUAC)
 
 
 <span class="titleblack"> 9 JUNE:</span>  <span class = "titlethin"> LIMITS OF BAYESIANISM</span> <br>
-Rothschild, The Scope of Bayesianism<br>
+Rothschild, [The Scope of Bayesianism](https://www.dropbox.com/s/gvt8o0hipkbpmqp/How%20To%20Be%20Bayesian.pdf?dl=0)<br>
 Carr [Why Ideal Epistemology?](https://doi-org.eres.qnl.qa/10.1093/mind/fzab023)
 
 <span class="titleblack"> DATE TBD:  </span> <span class = "titlethin"> IMPRECISE CREDENCES</span><br>
