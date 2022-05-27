@@ -96,11 +96,11 @@ Moss [Updating as Communication](https://philpapers.org/rec/PAUUAC)
 </div>
 
 
-<span class="titleblack"> 9 JUNE:</span>  <span class = "titlethin"> LIMITS OF BAYESIANISM</span> <br>
+<span class="titleblack"> 8 JUNE (10AM-1PM):</span>  <span class = "titlethin"> LIMITS OF BAYESIANISM</span> <br>
 Rothschild, [How to Be Bayesian](https://www.dropbox.com/s/gvt8o0hipkbpmqp/How%20To%20Be%20Bayesian.pdf?dl=0)<br>
 Carr [Why Ideal Epistemology?](https://doi-org.eres.qnl.qa/10.1093/mind/fzab023)
 
-<span class="titleblack"> DATE TBD:  </span> <span class = "titlethin"> IMPRECISE CREDENCES</span><br>
+<span class="titleblack"> 10 JUNE (3PM-5PM):  </span> <span class = "titlethin"> IMPRECISE CREDENCES</span><br>
 Elga [Subjective Probabilities Should Be Sharp](https://quod.lib.umich.edu/p/phimp/3521354.0010.005/--subjective-probabilities-should-be-sharp?view=image)<br>
 Das, Imprecision and Information Aversion<br>
 <div class="optional" markdown="1">
