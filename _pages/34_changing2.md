@@ -68,7 +68,7 @@ Miller [Holistic Conditionalization and Underminable Perceptual Learning](
 https://onlinelibrary.wiley.com/doi/full/10.1111/phpr.12575?af=R)
 </div>
 
-<span class="titleblack"> 19 MAY:</span>  <span class = "titlethin"> GROWING UNAWARENESS</span> <br>
+<span class="titleblack"> 19 MAY:</span>  <span class = "titlethin"> GROWING UNAWARENESS</span> [handout](/materials/cb2week4th.pdf) <br>
 Steele and Stefansson  [Belief Revision for Growing Awareness](https://philpapers.org/archive/STEBRF-6.pdf)<br>
 Pettigrew [How should your beliefs change when your awareness grows?](https://philpapers.org/archive/PETWST-2.pdf)<br>
 <div class="optional" markdown="1">
@@ -80,7 +80,7 @@ Karni and Vierø [Probabilistic sophistication and Reverse Bayesianism](https://
 </div>
 
 
-<span class="titleblack"> 26 MAY:  </span> <span class = "titlethin"> SELF-LOCATING BELIEF</span><br>
+<span class="titleblack"> 26 MAY:  </span> <span class = "titlethin"> SELF-LOCATING BELIEF</span> [handout](/materials/cb2week5th.pdf)<br>
 Elga [Self‐locating belief and the Sleeping Beauty problem](http://www.jstor.org/stable/3329167) <br>
 Lewis [Reply to Elga](https://fitelson.org/probability/lewis_sb.pdf)<br>
 Dorr [Sleeping Beauty: In Defense of Elga](https://www.jstor.org/stable/3328920?seq=1)<br>
