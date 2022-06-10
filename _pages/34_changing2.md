@@ -96,7 +96,7 @@ Moss [Updating as Communication](https://philpapers.org/rec/PAUUAC)
 </div>
 
 
-<span class="titleblack"> 8 JUNE (10AM-1PM):</span>  <span class = "titlethin"> LIMITS OF BAYESIANISM</span> <br>
+<span class="titleblack"> 8 JUNE (10AM-1PM):</span>  <span class = "titlethin"> LIMITS OF BAYESIANISM [handout](https://www.dropbox.com/s/vmsvhqm5bkcy8ku/scopeofbayesianism.pdf?dl=0)</span> <br>
 Rothschild, [How to Be Bayesian](https://www.dropbox.com/s/gvt8o0hipkbpmqp/How%20To%20Be%20Bayesian.pdf?dl=0)<br>
 Carr [Why Ideal Epistemology?](https://pages.ucsd.edu/~j2carr/pdfs/idealepistemologyuncorrected.pdf)
 
