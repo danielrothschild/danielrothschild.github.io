@@ -11,7 +11,7 @@ class: a
 
 ##### Learning and AI
 
-
+<img src="/materials/lacework.jpg" width="500">
 
 <div class="maintext" markdown="1">
 
@@ -44,11 +44,15 @@ Readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uct
 
 </div>
 
-<span class="titleblack">2 MAY:</span> <span class = "titlethin">  MACHINE LEARNING AND DEEP LEARNING </span>
+<span class="titleblack">2 MAY:</span> <span class = "titlethin">  MACHINE LEARNING AND DEEP LEARNING </span> <br>
 
-<br>
+- Melanie Mitchell, selections from <i> Artificial Intelligence: A Guide for Thinking Humans </i> 
+- Cameron Buckner, selections from <i>From Deep Learning to Rational Machines </i>
+- Millière and Buckner <i> A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates
+</i>
 
-<span class="titleblack">9 MAY:</span> <span class = "titlethin"> DO HUMANS LEARN <i> FASTER </i> THAN MACHINES? </span>  <br>
+<span class="titleblack">9 MAY:</span> <span class = "titlethin"> DO HUMANS LEARN <i> FASTER </i> THAN MACHINES? <br>
+
 
 <span class="titleblack">16 MAY:</span> <span class = "titlethin"> LEARNING AND MOTIVATION </span>  <br>
 
@@ -57,7 +61,7 @@ Readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uct
 
 <span class="titleblack">6 JUNE:</span> <span class = "titlethin"> LEARNING AS SOCIAL </span>  <br>
 
-<span class="titleblack"> DATE TBD</span> <span class = "titlethin">  </span>  <br>
+<span class="titleblack"> DATE TBD</span> <span class = "titlethin"> CULTURAL EVOLUTION AND INTELLIGENCE </span>  <br>
 
 
 
