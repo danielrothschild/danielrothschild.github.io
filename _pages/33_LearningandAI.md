@@ -11,7 +11,7 @@ class: a
 
 ##### Learning and AI
 
-<img src="/materials/lacework.jpg" width="300">
+<img src="/materials/lacework.jpg" width="450">
 
 <div class="maintext" markdown="1">
 
@@ -57,8 +57,11 @@ Readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uct
 
 <span class="titleblack">16 MAY:</span> <span class = "titlethin"> LEARNING AND MOTIVATION </span>  <br>
 
+Background: 
+
 - Selections from  Melanie Mitchell 2017 <i> Artificial Intelligence: A Guide for Thinking Humans </i> 
 - Selections from Brian Christianson 2020 <i> The Alignment Problem </i>
+
 
 
 <span class="titleblack">23 MAY:</span> <span class = "titlethin"> ANALOGY AND ABSTRACTION  </span>  <br>
@@ -75,7 +78,9 @@ Readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uct
 <span class="titleblack"> DATE TBD:</span> <span class = "titlethin"> LEARNING, INNATENESS AND REVOLUTIONS </span>  <br>
 
 
-
+<span class ="smaller">
+Image: lace pattern woodcut by Isabella Catanea Parasole, 1600
+</span>
 
 
 
