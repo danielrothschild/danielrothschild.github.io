@@ -21,7 +21,7 @@ Daniel Rothschild
 
 <div class="title"> ABOUT </div>
 
-The recent advances in AI are powered by powerful learning algorithms that allow computers to develop powerful abilties through a training regimen. AI systems, in other words, learn through experience. This module looks at how this machine learning process works and how it compares to the more familiar, but mysterious, human learning.
+The remarkable recent advances in AI have been powered by learning algorithms that allow computers to develop cognitive abilities through extensive training. Unlike traditional programming, where software is explicitly coded with specific instructions, modern AI systems <i> learn </i> through experience, adapting and improving their performance as they process vast amounts of data. This module uses machine learning as a window into the the more familiar, but still largely mysterious, process of human learning.
 
 <div class="title"> MECHANICS </div>
 
@@ -61,7 +61,7 @@ Readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uct
 
 <span class="titleblack">6 JUNE:</span> <span class = "titlethin"> LEARNING AS SOCIAL </span>  <br>
 
-<span class="titleblack"> DATE TBD</span> <span class = "titlethin"> CULTURAL EVOLUTION AND INTELLIGENCE </span>  <br>
+<span class="titleblack"> DATE TBD:</span> <span class = "titlethin"> LEARNING AND LANGUAGE </span>  <br>
 
 
 
