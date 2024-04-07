@@ -11,7 +11,7 @@ class: a
 
 ##### Learning and AI
 
-<img src="/materials/lacework.jpg" width="500">
+<img src="/materials/lacework.jpg" width="300">
 
 <div class="maintext" markdown="1">
 
@@ -21,7 +21,7 @@ Daniel Rothschild
 
 <div class="title"> ABOUT </div>
 
-This class will use recent advances in AI as a foil to examine what we know and what we don't know about human learning. Readings will be by cognitive scientists, philosophers, journalists, and LLMs.
+The recent advances in AI are powered by powerful learning algorithms that allow computers to develop powerful abilties through a training regimen. AI systems, in other words, learn through experience. This module looks at how this machine learning process works and how it compares to the more familiar, but mysterious, human learning.
 
 <div class="title"> MECHANICS </div>
 
