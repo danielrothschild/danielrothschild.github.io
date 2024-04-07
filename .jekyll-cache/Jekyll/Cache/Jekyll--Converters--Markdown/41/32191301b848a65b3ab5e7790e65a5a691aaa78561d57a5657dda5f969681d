@@ -1,4 +1,4 @@
-I"b9
+I"�:
 <div id="parent">
   <div id="blurb">
     <div class="title">
@@ -54,6 +54,8 @@ CLASSES
 
     <div class="blurb_text_events">
 
+      <p><a href="/learningAI/">Learning and AI</a>, UCL, Term 3, 2023/24</p>
+
       <p><a href="/changingbeliefs2/">Changing Beliefs</a>, UCL, Term 3, 2021/22</p>
 
       <p><a href="/wsm1920/">Worlds, Sentences and Measures</a>, UCL, Term 1, 2019/20</p>
@@ -88,7 +90,7 @@ CONNECTIVES/CONDITIONALS
 </div>
 
       <p><a href="https://academic.oup.com/mind/advance-article-abstract/doi/10.1093/mind/fzab049/6414892" class="paper">Living in a Material World: A Critical Notice of <em>Suppose and Tell</em> by Timothy Williamson</a>  (<a href="http://danielrothschild.com/materials/tw.pdf">penultimate draft</a>) <br />
-(<em>Mind</em>,   forthcoming)</p>
+(<em>Mind</em>,   2023)</p>
 
       <p><a href="http://dx.doi.org/10.1093/oso/9780198712732.001.0001" class="paper">A Note on Conditionals and Restrictors</a>  (<a href="http://danielrothschild.com/semconditionals.pdf">penultimate draft</a>) <br />
 (<em>Conditionals, Probability, and Paradox: Themes from the Philosophy of Dorothy Edgington</em>,   2021, John Hawthorne and Lee Walters (eds.), OUP, written in 2012)</p>
@@ -118,7 +120,10 @@ BELIEF/KNOWLEDGE/CREDENCE
 </div>
 
       <p><a href="https://doi.org/10.1007/s10670-021-00438-1" class="paper">Lockean beliefs, Dutch books, and scoring systems</a>  (<a href="http://danielrothschild.com/materials/lockeandutchbook.pdf">penultimate draft</a>) <br />
-(<em>Erkenntnis</em>,   forthcoming)</p>
+(<em>Erkenntnis</em>,   2023)</p>
+
+      <p><a href="https://www.dropbox.com/s/i4q58peht85k9cl/Scope%20of%20Bayesianism.pdf?dl=0" class="paper">The Scope of Bayesianism</a> <br />
+(<em>Draft, comments welcome</em>,   2022)</p>
 
       <p><a href="https://doi.org/10.1007/s11098-019-01256-6" class="paper">What it takes to believe</a> <br />
 (<em>Philosophical Studies</em>,   2019)</p>
@@ -151,7 +156,7 @@ TRUTHMAKERS
 </div>
 
       <p><a href="materials/permission.pdf" class="paper">Permissive Updates</a> <br />
-(with <a href="http://www.mit.edu/~yablo/home/Hello.html">Stephen Yablo</a>, <em>for book on Kit Fine’s work</em>,   forthcoming)</p>
+(with <a href="http://www.mit.edu/~yablo/home/Hello.html">Stephen Yablo</a>, <em>Outstanding Contributions to Logic: Kit Fine</em>,   2021, Federico L. G. Faroldi &amp; Frederik Van De Putte (eds.))</p>
 
       <p><a href="http://dx.doi.org/10.1007/s11098-016-0759-3" class="paper">Yablo’s Semantic Machinery</a>  (<a href="http://danielrothschild.com/yablo.pdf">penultimate draft</a>) <br />
 (<em>Philosophical Studies</em>,   2017, symposium on <a href="http://www.mit.edu/~yablo/home/Hello.html">Stephen Yablo’s</a> <em>Aboutness</em>)</p>
