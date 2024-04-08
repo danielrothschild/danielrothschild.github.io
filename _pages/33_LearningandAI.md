@@ -21,7 +21,7 @@ Daniel Rothschild
 
 <div class="title"> ABOUT </div>
 
-The remarkable recent advances in AI are powered by learning algorithms that allow computers to develop  abilities through training. Unlike traditional programming, where software is explicitly coded with specific instructions, modern AI systems <i> learn </i> through experience, adapting and improving their performance as they process vast amounts of data. This module uses machine learning as a window into the the more familiar, but still largely mysterious, process of human learning. We will read and discuss classical and contemporary literature from a variety of displines including philosophy, computer science, psychology, and evolutionary biology on learning and cognition.
+The remarkable recent advances in AI are powered by learning algorithms that allow computers to develop  abilities through training. Unlike traditional programming, where software is explicitly coded with specific instructions, modern AI systems <i> learn </i> through experience, adapting and improving their performance as they process vast amounts of data. This module uses machine learning as a window into the more familiar, but still largely mysterious, process of human learning. We will read and discuss classical and contemporary literature from a variety of displines including philosophy, computer science, psychology, and evolutionary biology on learning and cognition.
 
 <div class="title"> MECHANICS </div>
 
