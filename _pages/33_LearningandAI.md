@@ -72,6 +72,9 @@ All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g
 
 <span class="titleblack">6 JUNE:</span> <span class = "titlethin"> LEARNING AS SOCIAL </span>  <br>
 
+
+- Michael Tomasello, Malinda Carpenter, Josep Call,
+Tanya Behne, and Henrike Moll 2005: [Understanding and sharing intentions: The origins of cultural cognition](https://doi.org/10.1017/S0140525X05000129)
 - Selections from Paul Harris 2012: <i>Trusting What We're Told </i>
 - Selections from Joseph Henrich 2015: <i> Secret of our Success </i>
 
