@@ -15,7 +15,7 @@ class: a
 
 <div class="maintext" markdown="1">
 
-<div class="title"> INSTRUCTORS </div>
+<div class="title"> INSTRUCTOR </div>
 
 Daniel Rothschild
 
@@ -36,25 +36,27 @@ Auditors very welcome!
 <span class="titleblack">25 APRIL:</span> <span class = "titlethin"> LEARNING IN THEORY AND PRACTICE  </span>  <br>
 
 
-- Selections from Plato, Locke, Leibniz, Hume, and Jerry Fodor on learning.
-- Selections from Stanislas Dehaene, 2018: <i>How We Learn</i><br>
+- Selections from Plato, Locke, Leibniz, and Jerry Fodor on learning.
+- Sections 1-3 of Eric Mandelbaum, 2020: ["Associationist Theories of Thought"](https://plato.stanford.edu/entries/associationist-thought/#AssTheMenProEmpCon)
+- Selections from Stanislas Dehaene, 2018: <i>How We Learn</i>
 
-All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctydro_ucl_ac_uk/Egtv4gnGbvROv10b4scfEewBWj2G78te0TYpGLiqyiXuBQ) (ask instructor for password).
-<div class="optional" markdown="1">
+All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctydro_ucl_ac_uk/Egtv4gnGbvROv10b4scfEewBWj2G78te0TYpGLiqyiXuBQ) (ask instructor for password).<br>
+
 
 </div>
 
 <span class="titleblack">2 MAY:</span> <span class = "titlethin">  MACHINE LEARNING AND DEEP LEARNING </span> <br>
 
+- Yann LeCun, Yoshua Bengio, and Geoffrey Hinton (2015): ["Deep Learning"](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 - Selections from Melanie Mitchell 2019: <i> Artificial Intelligence: A Guide for Thinking Humans </i> 
 - Selections from Cameron Buckner 2024:  <i>From Deep Learning to Rational Machines </i>
 - Millière and Buckner 2024: ["A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates"](https://arxiv.org/pdf/2401.03910.pdf)
-- Andrew Ng, Lectures 3-7 of [Introduction to Machine Learning Online Course](https://www.youtube.com/watch?v=XtlwSmJfUs4&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=3)
+- Andrew Ng, Lectures 3-7 of [Introduction to Machine Learning Online Course](https://www.youtube.com/watch?v=XtlwSmJfUs4&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=3)<br>
 
 <span class="titleblack">9 MAY:</span> <span class = "titlethin"> DO HUMANS LEARN <i> FASTER </i> THAN MACHINES? <br>
 
-- Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman 2017: ["Building Machines That Learn and Think Like People"](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993)
-- Micheal C. Frank: [Bridging the Gap](https://doi.org/10.1016/j.tics.2023.08.007)
+- Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman, 2017: ["Building Machines That Learn and Think Like People"](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993)
+- Micheal C. Frank, 2023: [Bridging the Gap](https://doi.org/10.1016/j.tics.2023.08.007)<br>
 
 
 <span class="titleblack">16 MAY:</span> <span class = "titlethin"> LEARNING AND MOTIVATION </span>  <br>
@@ -62,12 +64,12 @@ All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g
 - Selections from  Melanie Mitchell 2017: <i> Artificial Intelligence: A Guide for Thinking Humans </i> 
 - Selections from Brian Christianson 2020: <i> The Alignment Problem </i>
 - Richard Sutton and Andrew Barto 2018: Reinforcement Learning (2nd edition), chapter 1.
-- Alsion Gopnick, 1998: ["Explanation as Orgasm"](https://doi.org/10.1023/A:1008290415597)
+- Alsion Gopnick, 1998: ["Explanation as Orgasm"](https://doi.org/10.1023/A:1008290415597)<br>
 
 <span class="titleblack"> 23 MAY:</span> <span class = "titlethin"> THE STARTING STATE AND BEYOND </span>  <br>
 
 - Selections from Elisabeth Spelke, 2022: <i> What Babies Know </i>
-- Susan Carey, ["Bootstrapping and the Origins of Concepts"](https://doi.org/10.1162/001152604772746701) 
+- Susan Carey, ["Bootstrapping and the Origins of Concepts"](https://doi.org/10.1162/001152604772746701) <br>
 
 
 <span class="titleblack">6 JUNE:</span> <span class = "titlethin"> LEARNING AS SOCIAL </span>  <br>
@@ -76,19 +78,19 @@ All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g
 - Michael Tomasello, Malinda Carpenter, Josep Call,
 Tanya Behne, and Henrike Moll 2005: [Understanding and sharing intentions: The origins of cultural cognition](https://doi.org/10.1017/S0140525X05000129)
 - Selections from Paul Harris 2012: <i>Trusting What We're Told </i>
-- Selections from Joseph Henrich 2015: <i> Secret of our Success </i>
+- Selections from Joseph Henrich 2015: <i> Secret of our Success </i><br>
 
 
 
-<span class="titleblack">DATE: TBD</span> <span class = "titlethin"> ANALOGY AND ABSTRACTION  </span>  <br>
+<span class="titleblack">DATE TBD: </span> <span class = "titlethin"> ANALOGY AND ABSTRACTION  </span>  <br>
 
 - Dedre Gentner and Christian Hoyos, 2017: ["Analogy and Abstraction"](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12278)
-- Paul Smolensky, R. Thomas McCoy, Roland Fernandez, Matthew Goldrick, Jianfeng Gao, 2022: ["Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"](https://arxiv.org/abs/2205.01128)
+- Paul Smolensky, R. Thomas McCoy, Roland Fernandez, Matthew Goldrick, Jianfeng Gao, 2022: ["Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"](https://arxiv.org/abs/2205.01128)<br>
 
-
+<br>
 
 <span class ="smaller">
-Image: lace pattern woodcut by Isabella Catanea Parasole, 1600
+Image: Lace pattern woodcut by Isabella Catanea Parasole, 1600
 </span>
 
 
