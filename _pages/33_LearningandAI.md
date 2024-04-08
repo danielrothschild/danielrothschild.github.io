@@ -29,7 +29,10 @@ The seminar meets Thursdays from 2pm to 5pm in the seminar room of the UCL Philo
 
 The module will be assessed by a 3500-word essay.
 
-Auditors very welcome!
+All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctydro_ucl_ac_uk/Egtv4gnGbvROv10b4scfEewBWj2G78te0TYpGLiqyiXuBQ) (ask instructor for password).<br>
+
+
+Auditors very welcome!<br>
 
 <div class="title"> SCHEDULE </div>
 
@@ -40,10 +43,6 @@ Auditors very welcome!
 - Sections 1-3 of Eric Mandelbaum, 2020: ["Associationist Theories of Thought"](https://plato.stanford.edu/entries/associationist-thought/#AssTheMenProEmpCon)
 - Selections from Stanislas Dehaene, 2018: <i>How We Learn</i>
 
-All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctydro_ucl_ac_uk/Egtv4gnGbvROv10b4scfEewBWj2G78te0TYpGLiqyiXuBQ) (ask instructor for password).<br>
-
-
-</div>
 
 <span class="titleblack">2 MAY:</span> <span class = "titlethin">  MACHINE LEARNING AND DEEP LEARNING </span> <br>
 
@@ -68,8 +67,9 @@ All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g
 
 <span class="titleblack"> 23 MAY:</span> <span class = "titlethin"> THE STARTING STATE AND BEYOND </span>  <br>
 
-- Selections from Elisabeth Spelke, 2022: <i> What Babies Know </i>
+- Selections from Elizabeth Spelke, 2022: <i> What Babies Know </i>
 - Susan Carey, ["Bootstrapping and the Origins of Concepts"](https://doi.org/10.1162/001152604772746701) <br>
+- Fei Xu, 2019:["Towards a rational constructivist theory of cognitive development"](https://doi.org/10.1037/rev0000153)
 
 
 <span class="titleblack">6 JUNE:</span> <span class = "titlethin"> LEARNING AS SOCIAL </span>  <br>
