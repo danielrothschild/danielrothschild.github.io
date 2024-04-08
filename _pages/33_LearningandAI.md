@@ -21,7 +21,7 @@ Daniel Rothschild
 
 <div class="title"> ABOUT </div>
 
-The remarkable recent advances in AI are powered by learning algorithms that allow computers to develop  abilities through training. Unlike traditional programming, where software is explicitly coded with specific instructions, modern AI systems <i> learn </i> through experience, adapting and improving their performance as they process vast amounts of data. This module uses machine learning as a window into the the more familiar, but still largely unknown, process of human learning. We will read and discuss classical and contemporary literature from a variety of displines including philosophy, computer science, psychology, and evolutionary biology on learning and cognition.
+The remarkable recent advances in AI are powered by learning algorithms that allow computers to develop  abilities through training. Unlike traditional programming, where software is explicitly coded with specific instructions, modern AI systems <i> learn </i> through experience, adapting and improving their performance as they process vast amounts of data. This module uses machine learning as a window into the the more familiar, but still largely mysterious, process of human learning. We will read and discuss classical and contemporary literature from a variety of displines including philosophy, computer science, psychology, and evolutionary biology on learning and cognition.
 
 <div class="title"> MECHANICS </div>
 
@@ -36,10 +36,10 @@ Auditors very welcome!
 <span class="titleblack">25 APRIL:</span> <span class = "titlethin"> LEARNING IN THEORY AND PRACTICE  </span>  <br>
 
 
-- Selections from Plato, Locke, Leibniz, Hume, and Fodor on learning.
-- Selections from Stanislas Dehaene <i>How We Learn</i><br>
+- Selections from Plato, Locke, Leibniz, Hume, and Jerry Fodor on learning.
+- Selections from Stanislas Dehaene, 2018: <i>How We Learn</i><br>
 
-Readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctydro_ucl_ac_uk/Egtv4gnGbvROv10b4scfEewBWj2G78te0TYpGLiqyiXuBQ) (ask instructor for password, or try a lowercase gerund of theme of class).
+All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctydro_ucl_ac_uk/Egtv4gnGbvROv10b4scfEewBWj2G78te0TYpGLiqyiXuBQ) (ask instructor for password).
 <div class="optional" markdown="1">
 
 </div>
@@ -49,25 +49,25 @@ Readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uct
 - Selections from Melanie Mitchell 2019: <i> Artificial Intelligence: A Guide for Thinking Humans </i> 
 - Selections from Cameron Buckner 2024:  <i>From Deep Learning to Rational Machines </i>
 - Millière and Buckner 2024: ["A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates"](https://arxiv.org/pdf/2401.03910.pdf)
+- Andrew Ng, Lectures 3-7 of [Introduction to Machine Learning Online Course](https://www.youtube.com/watch?v=XtlwSmJfUs4&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=3)
 
 <span class="titleblack">9 MAY:</span> <span class = "titlethin"> DO HUMANS LEARN <i> FASTER </i> THAN MACHINES? <br>
 
 - Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman 2017: ["Building Machines That Learn and Think Like People"](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993)
+- Micheal C. Frank: [Bridging the Gap](https://doi.org/10.1016/j.tics.2023.08.007)
 
 
 <span class="titleblack">16 MAY:</span> <span class = "titlethin"> LEARNING AND MOTIVATION </span>  <br>
 
-Background: 
+- Selections from  Melanie Mitchell 2017: <i> Artificial Intelligence: A Guide for Thinking Humans </i> 
+- Selections from Brian Christianson 2020: <i> The Alignment Problem </i>
+- Richard Sutton and Andrew Barto 2018: Reinforcement Learning (2nd edition), chapter 1.
+- Alsion Gopnick, 1998: ["Explanation as Orgasm"](https://doi.org/10.1023/A:1008290415597)
 
-- Selections from  Melanie Mitchell 2017 <i> Artificial Intelligence: A Guide for Thinking Humans </i> 
-- Selections from Brian Christianson 2020 <i> The Alignment Problem </i>
+<span class="titleblack"> 23 MAY:</span> <span class = "titlethin"> THE STARTING STATE AND BEYOND </span>  <br>
 
-
-
-<span class="titleblack">23 MAY:</span> <span class = "titlethin"> ANALOGY AND ABSTRACTION  </span>  <br>
-
-- Dedre Gentner and Christian Hoyos, 2017: ["Analogy and Abstraction"](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12278)
-- Paul Smolensky, R. Thomas McCoy, Roland Fernandez, Matthew Goldrick, Jianfeng Gao, 2022: ["Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"](https://arxiv.org/abs/2205.01128)
+- Selections from Elisabeth Spelke, 2022: <i> What Babies Know </i>
+- Susan Carey, ["Bootstrapping and the Origins of Concepts"](https://doi.org/10.1162/001152604772746701) 
 
 
 <span class="titleblack">6 JUNE:</span> <span class = "titlethin"> LEARNING AS SOCIAL </span>  <br>
@@ -75,7 +75,13 @@ Background:
 - Selections from Paul Harris 2012: <i>Trusting What We're Told </i>
 - Selections from Joseph Henrich 2015: <i> Secret of our Success </i>
 
-<span class="titleblack"> DATE TBD:</span> <span class = "titlethin"> LEARNING, INNATENESS AND REVOLUTIONS </span>  <br>
+
+
+<span class="titleblack">DATE: TBD</span> <span class = "titlethin"> ANALOGY AND ABSTRACTION  </span>  <br>
+
+- Dedre Gentner and Christian Hoyos, 2017: ["Analogy and Abstraction"](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12278)
+- Paul Smolensky, R. Thomas McCoy, Roland Fernandez, Matthew Goldrick, Jianfeng Gao, 2022: ["Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"](https://arxiv.org/abs/2205.01128)
+
 
 
 <span class ="smaller">
