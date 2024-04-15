@@ -85,7 +85,10 @@ Tanya Behne, and Henrike Moll 2005: [Understanding and sharing intentions: The o
 <span class="titleblack">June 13 </span> <span class = "titlethin"> ANALOGY AND ABSTRACTION  </span>  <br>
 
 - Dedre Gentner and Christian Hoyos, 2017: ["Analogy and Abstraction"](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12278)
-- Paul Smolensky, R. Thomas McCoy, Roland Fernandez, Matthew Goldrick, Jianfeng Gao, 2022: ["Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"](https://arxiv.org/abs/2205.01128)<br>
+- Paul Smolensky, R. Thomas McCoy, Roland Fernandez, Matthew Goldrick, Jianfeng Gao, 2022: ["Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"](https://arxiv.org/abs/2205.01128)
+-  Joshua S. Rule, Joshua B. Tenenbaum, and
+Steven T. Piantadosi, 2020: [Child as Hackner](https://doi.org/10.1016/j.tics.2020.07.005)
+<br>
 
 <br>
 
