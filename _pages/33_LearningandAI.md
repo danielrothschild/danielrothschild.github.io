@@ -25,7 +25,7 @@ The remarkable recent advances in AI are powered by learning algorithms that all
 
 <div class="title"> MECHANICS </div>
 
-The seminar meets Thursdays from 2pm to 5pm in the seminar room of the UCL Philosophy Department, 19 Gordon Square.  There is no meeting on 30 May. One extra session will be scheduled later down the road to accomodate everyone's schedule.
+The seminar meets Thursdays from 2pm to 5pm in the seminar room of the UCL Philosophy Department, 19 Gordon Square.  There is no meeting on 30 May. On 6 June the seminar will meet from 11-1pm in order not to clash with the Shearman Lectues (Nico Kolodny) and the last session will be 13 June.
 
 The module will be assessed by a 3500-word essay.
 
@@ -68,11 +68,11 @@ Auditors very welcome!<br>
 <span class="titleblack"> 23 MAY:</span> <span class = "titlethin"> THE STARTING STATE AND BEYOND </span>  <br>
 
 - Selections from Elizabeth Spelke, 2022: <i> What Babies Know </i>
-- Susan Carey, ["Bootstrapping and the Origins of Concepts"](https://doi.org/10.1162/001152604772746701) <br>
-- Fei Xu, 2019:["Towards a rational constructivist theory of cognitive development"](https://doi.org/10.1037/rev0000153)
+- Susan Carey: ["Bootstrapping and the Origins of Concepts"](https://doi.org/10.1162/001152604772746701) <br>
+- Fei Xu, 2019: ["Towards a rational constructivist theory of cognitive development"](https://doi.org/10.1037/rev0000153)
 
 
-<span class="titleblack">6 JUNE:</span> <span class = "titlethin"> LEARNING AS SOCIAL </span>  <br>
+<span class="titleblack">6 JUNE 11-1pm</span> <span class = "titlethin"> LEARNING AS SOCIAL </span>  <br>
 
 
 - Michael Tomasello, Malinda Carpenter, Josep Call,
@@ -82,7 +82,7 @@ Tanya Behne, and Henrike Moll 2005: [Understanding and sharing intentions: The o
 
 
 
-<span class="titleblack">DATE TBD: </span> <span class = "titlethin"> ANALOGY AND ABSTRACTION  </span>  <br>
+<span class="titleblack">June 13 </span> <span class = "titlethin"> ANALOGY AND ABSTRACTION  </span>  <br>
 
 - Dedre Gentner and Christian Hoyos, 2017: ["Analogy and Abstraction"](https://onlinelibrary.wiley.com/doi/full/10.1111/tops.12278)
 - Paul Smolensky, R. Thomas McCoy, Roland Fernandez, Matthew Goldrick, Jianfeng Gao, 2022: ["Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"](https://arxiv.org/abs/2205.01128)<br>
