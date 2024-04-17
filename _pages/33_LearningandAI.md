@@ -32,7 +32,7 @@ The module will be assessed by a 3500-word essay.
 All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctydro_ucl_ac_uk/Egtv4gnGbvROv10b4scfEewBWj2G78te0TYpGLiqyiXuBQ) (ask instructor for password).<br>
 
 
-Auditors very welcome!<br>
+All staff and students welcome at any sessions.<br>
 
 <div class="title"> SCHEDULE </div>
 
