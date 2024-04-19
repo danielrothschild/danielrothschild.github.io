@@ -106,6 +106,8 @@ HANDOUTS, NOTES, OLD DRAFTS
 
 <div class="papers">
 
+[Learning Styles](https://docs.google.com/presentation/d/19ox5gW0UwgpZb_9agy4FGHOzBOk5P0uw2ZMgkNDnF1U/edit?usp=sharing){:.paper} (handout for 2024, NYU talk)
+
 [Dynamic Conditionals](DynamicConditionals.pdf){:.paper} (2015, handout
 on the dynamic test semantics for conditionals for a workshop on
 conditionals in Osnabrük)
