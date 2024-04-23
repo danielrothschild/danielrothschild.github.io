@@ -55,7 +55,8 @@ All staff and students welcome at any sessions.<br>
 <span class="titleblack">9 MAY:</span> <span class = "titlethin"> DO HUMANS LEARN <i> FASTER </i> THAN MACHINES? <br>
 
 - Brenden M. Lake, Tomer D. Ullman, Joshua B. Tenenbaum, Samuel J. Gershman, 2017: ["Building Machines That Learn and Think Like People"](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/building-machines-that-learn-and-think-like-people/A9535B1D745A0377E16C590E14B94993)
-- Micheal C. Frank, 2023: [Bridging the Gap](https://doi.org/10.1016/j.tics.2023.08.007)<br>
+- Micheal C. Frank, 2023: ["Bridging the Gap"](https://doi.org/10.1016/j.tics.2023.08.007)<br>
+- Robert Long, 2024: ["Nativism and empiricism in artificial intelligence"](https://doi.org/10.1007/s11098-024-02122-w)
 
 
 <span class="titleblack">16 MAY:</span> <span class = "titlethin"> LEARNING AND MOTIVATION </span>  <br>
