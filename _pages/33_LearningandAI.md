@@ -70,6 +70,7 @@ All staff and students welcome at any sessions.<br>
 - Selections from Elizabeth Spelke, 2022: <i> What Babies Know </i>
 - Susan Carey: ["Bootstrapping and the Origins of Concepts"](https://doi.org/10.1162/001152604772746701) <br>
 - Fei Xu, 2019: ["Towards a rational constructivist theory of cognitive development"](https://doi.org/10.1037/rev0000153)
+- Buckner, Cameron, 2024: Chapter 1 of <i>From Deep Learning to Rational Machines </i>
 
 
 <span class="titleblack">6 JUNE 11-1pm</span> <span class = "titlethin"> LEARNING AS SOCIAL </span>  <br>
