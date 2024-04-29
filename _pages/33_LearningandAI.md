@@ -51,6 +51,7 @@ All staff and students welcome at any sessions.<br>
 - Selections from Cameron Buckner 2024:  <i>From Deep Learning to Rational Machines </i>
 - Millière and Buckner 2024: ["A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates"](https://arxiv.org/pdf/2401.03910.pdf)
 - Andrew Ng, Lectures 3-7 of [Introduction to Machine Learning Online Course](https://www.youtube.com/watch?v=XtlwSmJfUs4&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=3)<br>
+- Daniel Rothschild: Some notes on AI and Deep Learning.
 
 <span class="titleblack">9 MAY:</span> <span class = "titlethin"> DO HUMANS LEARN <i> FASTER </i> THAN MACHINES? <br>
 
