@@ -51,7 +51,7 @@ All staff and students welcome at any sessions.<br>
 - Selections from Cameron Buckner 2024:  <i>From Deep Learning to Rational Machines </i>
 - Millière and Buckner 2024: ["A Philosophical Introduction to Language Models -- Part I: Continuity With Classic Debates"](https://arxiv.org/pdf/2401.03910.pdf)
 - Andrew Ng, Lectures 3-7 of [Introduction to Machine Learning Online Course](https://www.youtube.com/watch?v=XtlwSmJfUs4&list=PLkDaE6sCZn6FNC6YRfRQc_FbeQrF8BwGI&index=3)<br>
-- Daniel Rothschild: Some notes on AI and Deep Learning.
+- Daniel Rothschild: Some notes on AI and Deep Learning
 
 <span class="titleblack">9 MAY:</span> <span class = "titlethin"> DO HUMANS LEARN <i> FASTER </i> THAN MACHINES? <br>
 
@@ -80,9 +80,11 @@ All staff and students welcome at any sessions.<br>
 
 
 - Michael Tomasello, Malinda Carpenter, Josep Call,
-Tanya Behne, and Henrike Moll 2005: [Understanding and sharing intentions: The origins of cultural cognition](https://doi.org/10.1017/S0140525X05000129)
+Tanya Behne, and Henrike Moll 2005: [Understanding and sharing intentions: The origins of cultural cognition](https://doi.org/10.1017/S0140525X05000129) (also chapter 6, Frans de Waal 2016: <i>Are We Smart Enough to Know How Smart Animals Are?</i> for a reply of sorts)
 - Selections from Paul Harris 2012: <i>Trusting What We're Told </i>
 - Selections from Joseph Henrich 2015: <i> Secret of our Success </i><br>
+
+
 
 
 

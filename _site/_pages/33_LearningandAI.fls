@@ -1,0 +1,6 @@
+PWD /Users/daniel/Documents/danielrothschild.github.io/_pages
+INPUT /usr/local/texlive/2022/texmf.cnf
+INPUT /usr/local/texlive/2022/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/daniel/Documents/danielrothschild.github.io/_pages/33_LearningandAI.md
+OUTPUT 33_LearningandAI.log
