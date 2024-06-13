@@ -94,6 +94,7 @@ Tanya Behne, and Henrike Moll 2005: [Understanding and sharing intentions: The o
 - Paul Smolensky, R. Thomas McCoy, Roland Fernandez, Matthew Goldrick, Jianfeng Gao, 2022: ["Neurocompositional computing: From the Central Paradox of Cognition to a new generation of AI systems"](https://arxiv.org/abs/2205.01128)
 -  Joshua S. Rule, Joshua B. Tenenbaum, and
 Steven T. Piantadosi, 2020: [Child as Hackner](https://doi.org/10.1016/j.tics.2020.07.005)
+- Dehaene et al. [Symbols and mental programs: a hypothesis about human singularity](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(22)00141-3)
 <br>
 
 <br>
