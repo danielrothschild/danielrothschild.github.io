@@ -13,7 +13,7 @@ DANIEL ROTHSCHILD
 
 I am a professor in the [philosophy department](https://www.ucl.ac.uk/philosophy)  at [University
 College London](https://www.ucl.ac.uk/). Most of my work is about
-language and meaning. You can also find links to a [website (in
+language and meaning and AI. You can also find links to a [website (in
 progress) on dynamic semantics](http://dynsem.github.io/) and my
 [short](materials/rothschildshortcv.pdf) and [long](rothschildcv.pdf) cv.
 
