@@ -106,6 +106,8 @@ HANDOUTS, NOTES, OLD DRAFTS
 
 <div class="papers">
 
+[The New Associationism](https://docs.google.com/presentation/d/154sUr7VJlc3zE7wUIYa21iOQ4soJU8gUamDiwqBmJ50/edit?usp=sharing){:.paper} ( slides for 2025 talk, University of  Luxembourg)
+
 [Learning Styles](https://docs.google.com/presentation/d/19ox5gW0UwgpZb_9agy4FGHOzBOk5P0uw2ZMgkNDnF1U/edit?usp=sharing){:.paper} (handout for 2024, NYU talk)
 
 [Dynamic Conditionals](DynamicConditionals.pdf){:.paper} (2015, handout
