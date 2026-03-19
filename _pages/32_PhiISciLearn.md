@@ -25,7 +25,7 @@ The remarkable recent advances in AI are powered by learning algorithms that all
 
 <div class="title"> MECHANICS </div>
 
-Classes will mostly be on Tuesdays from 1-4pm in the seminar room. We will always have a 20-30 minute break.
+Classes will mostly be on Tuesdays from 1-4pm in the seminar room, 19 Gordon Square, 101. We will always have a 20-30 minute break.
 
 The module will be assessed by a 3500-word essay.
 
@@ -46,36 +46,40 @@ Another useful resource are various online courses on machine learning, such as 
 
 - Selections from Plato, Locke, Leibniz, and Jerry Fodor on learning.
 - Margolis and Lawerence, Selections
-- Selections, Stanislaw Dehaene, How We Learn.
+- Learnign as search
+- Selections, Stanislas Dehaene, How We Learn.
 - Bayesian learning
 
 
 <span class="titleblack">5 MAY:</span> <span class = "titlethin">LEARNING AS A COMPUTATIONAL PROCESS </span> <br>
 
 - Computational Universality
-- Recombination as unviersltiy
+- Continuous vs. discreet and approximation
+- Recombination as universality
 - Universal learning
 - Bayesian learning
 - Introduction to neural networks
 - Turing's learning computer suggestion
 
 
-<span class="titleblack">12 MAY:</span> <span class = "titlethin">CLASSIFICATION OF MACHINE LEARNING/RISE OF SUPERVISED LEARNING <br>
 
-- My paper on associationism
-- My notes
-
-<span class="titleblack">19 MAY:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
+<span class="titleblack">12 MAY:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
 
 - Notes on reinforcement learning
 - Motivational structure and value functions.
 
-<span class="titleblack"> 02 JUNE:</span> <span class = "titlethin"> LEARNING AS PREDICTION / FAST AND SLOW LEARNING </span>  <br>
+<span class="titleblack"> 19 MAY:</span> <span class = "titlethin"> LEARNING AS PREDICTION / FAST AND SLOW LEARNING </span>  <br>
 
 - Predictive coding and LLMs
 - LLMs two layers of learning
 - Lack of single structure
 - Emergent properties in LLMs
+
+<span class="titleblack">02 JUNE:</span> <span class = "titlethin">CLASSIFICATION OF MACHINE LEARNING/RISE OF SUPERVISED LEARNING <br>
+
+- My paper on associationism
+- My notes 
+
 
 <span class="titleblack">4 JUNE 1-3pm</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
 
@@ -84,7 +88,7 @@ Another useful resource are various online courses on machine learning, such as 
 
 
 
-<span class="titleblack">June 13 </span> <span class = "titlethin"> LANGUAGE and LEARNING </span>  <br>
+<span class="titleblack">June 9 </span> <span class = "titlethin"> LANGUAGE and LEARNING </span>  <br>
 
 - [My paper on LLMs and Language](http://danielrothschild.com/materials/languageandthoughtllm.pdf)
 <br>
