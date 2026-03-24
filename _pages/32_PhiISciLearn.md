@@ -54,31 +54,31 @@ Another useful resource are various online courses on machine learning, such as 
 <span class="titleblack">5 MAY:</span> <span class = "titlethin">LEARNING AS A COMPUTATIONAL PROCESS </span> <br>
 
 - Computational Universality
-- Continuous vs. discreet and approximation
+- Continuous vs. discrete and approximation
 - Recombination as universality
 - Universal learning
-- Bayesian learning
 - Introduction to neural networks
 - Turing's learning computer suggestion
 
+<span class="titleblack">12 MAY:</span> <span class = "titlethin">CLASSIFICATION OF MACHINE LEARNING/RISE OF SUPERVISED LEARNING </span> <br>
+
+- My paper on associationism
+- My notes
 
 
-<span class="titleblack">12 MAY:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
+
+<span class="titleblack">19 MAY:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
 
 - Notes on reinforcement learning
 - Motivational structure and value functions.
 
-<span class="titleblack"> 19 MAY:</span> <span class = "titlethin"> LEARNING AS PREDICTION / FAST AND SLOW LEARNING </span>  <br>
+<span class="titleblack">02 JUNE:</span> <span class = "titlethin"> LLMS: FAST AND SLOW LEARNING </span>  <br>
 
 - Predictive coding and LLMs
 - LLMs two layers of learning
 - Lack of single structure
 - Emergent properties in LLMs
 
-<span class="titleblack">02 JUNE:</span> <span class = "titlethin">CLASSIFICATION OF MACHINE LEARNING/RISE OF SUPERVISED LEARNING <br>
-
-- My paper on associationism
-- My notes 
 
 
 <span class="titleblack">4 JUNE 1-3pm</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
@@ -98,6 +98,8 @@ Another useful resource are various online courses on machine learning, such as 
 <span class ="smaller">
 Image: Lace pattern woodcut by Isabella Catanea Parasole, 1600
 </span>
+
+<!-- hello this is claude -->
 
 
 
