@@ -45,9 +45,9 @@ Another useful resource are various online courses on machine learning, such as 
 <span class="titleblack">28 APRIL:</span> <span class = "titlethin"> LEARNING IN THEORY AND PRACTICE  </span>  <br>
 
 - Selections from Plato, Locke, Leibniz, and Jerry Fodor on learning.
-- Margolis and Lawerence, Selections
-- Learnign as search
+- Lawerence and Margolis, Selections
 - Selections, Stanislas Dehaene, How We Learn.
+- Learnign as search
 - Bayesian learning
 
 
@@ -57,13 +57,12 @@ Another useful resource are various online courses on machine learning, such as 
 - Continuous vs. discrete and approximation
 - Recombination as universality
 - Universal learning
-- Introduction to neural networks
 - Turing's learning computer suggestion
+- Introduction to neural networks
 
-<span class="titleblack">12 MAY:</span> <span class = "titlethin">CLASSIFICATION OF MACHINE LEARNING/RISE OF SUPERVISED LEARNING </span> <br>
+<span class="titleblack">12 MAY:</span> <span class = "titlethin">THE MACHINE LEARNING PERSPECTIVE </span> <br>
 
-- My paper on associationism
-- My notes
+- My paper on "The New Associationsim"
 
 
 
@@ -72,7 +71,7 @@ Another useful resource are various online courses on machine learning, such as 
 - Notes on reinforcement learning
 - Motivational structure and value functions.
 
-<span class="titleblack">02 JUNE:</span> <span class = "titlethin"> LLMS: FAST AND SLOW LEARNING </span>  <br>
+<span class="titleblack">2 JUNE:</span> <span class = "titlethin"> LLMS: FAST AND SLOW LEARNING </span>  <br>
 
 - Predictive coding and LLMs
 - LLMs two layers of learning
@@ -98,8 +97,6 @@ Another useful resource are various online courses on machine learning, such as 
 <span class ="smaller">
 Image: Lace pattern woodcut by Isabella Catanea Parasole, 1600
 </span>
-
-<!-- hello this is claude -->
 
 
 
