@@ -15,7 +15,7 @@ h5, h6, .title { color: #cf943b !important; }
 
 ##### Philosophy and Science of Learning
 
-<img src="/materials/hanna_hur_visitor_v.jpg" width="450">
+<img src="/materials/hanna_hur_visitor_v.jpg" width="648">
 
 <div class="maintext" markdown="1">
 
@@ -56,7 +56,7 @@ Learning, across all its forms, can be understood as search through a space of p
 - Margolis and Laurence, ["Learning Matters"](https://www.margolisphilosophy.com/uploads/1/1/0/7/11073530/learningmatters.pdf) (2011), p. 529
 - Newell and Simon, ["Computer Science as Empirical Inquiry: Symbols and Search"](/materials/newellsimon1976.pdf) (1976), pp. 113–118
 - Easwaran, [Bayesianism, *Philosophy Compass*](https://dl.acm.org/doi/10.1111/j.1747-9991.2011.00399.x) (2011)
-- Dehaene, *How We Learn* (chapter) (2020)
+- Dehaene, *How We Learn*, Introduction and ch. 1 (2020)
 
 *Optional:* Leibniz, *New Essays* (selections) (1765); Rothschild, "The Scope of Bayesianism"
 
@@ -65,6 +65,7 @@ Learning, across all its forms, can be understood as search through a space of p
 
 This class discusses the relationship between the theory of computation and learning. We discuss the difference between theoretical limits in computation and practical ones. We dive into a bit the difference between discreet and continuous systems, and introduce neural networks as general purpopse systems (capable of contiunous adjustments).
 
+- Rothschild, ["A Parable of Chess"](/materials/parableofchess.docx)
 - Turing, ["Computing Machinery and Intelligence"](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf) (1950)
 - Copeland, ["The Church-Turing Thesis,"](https://plato.stanford.edu/entries/church-turing/) *Stanford Encyclopedia of Philosophy* (2023)
 - Aaronson, ["Why Philosophers Should Care About Computational Complexity"](https://www.scottaaronson.com/papers/philos.pdf) (2013)
