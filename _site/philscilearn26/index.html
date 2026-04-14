@@ -13,7 +13,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
   body {
-      background-color: #b4b0a3;
+      background-color: #f7f3ed;
   }
   </style>
 </head>
@@ -26,9 +26,13 @@
 
 
 
-			<h5 id="philosophy-and-science-of-learning-in-progressnot-final-version">Philosophy and Science of Learning (IN PROGRESS!–not final version)</h5>
+			<style>
+h5, h6, .title { color: #cf943b !important; }
+</style>
 
-<p><img src="/materials/lacework.jpg" width="450" /></p>
+<h5 id="philosophy-and-science-of-learning">Philosophy and Science of Learning</h5>
+
+<p><img src="/materials/hanna_hur_visitor_v.jpg" width="450" /></p>
 
 <div class="maintext">
 
@@ -38,15 +42,15 @@
 
   <div class="title"> ABOUT </div>
 
-  <p>The recent advances in AI are powered by learning algorithms that allow computers to develop abilities through training on data. These advances provide an unprecedented opportunity to study learning from a new angle: we now have powerful learning systems whose internals we can inspect, whose training we can control, and whose performance we can measure precisely. This gives us new traction on foundational questions about the nature of learning that have long resisted resolution.</p>
+  <p>The recent advances in AI are powered by learning algorithms that allow computers to develop abilities through training on data. These advances provide an unprecedented opportunity to study learning from a new angle: we now have powerful learning systems whose internals we can inspect, whose training we can control, and whose performance we can measure precisely. This gives us new traction on foundational questions about the nature of learning.</p>
 
-  <p>This module uses machine learning as a window into those questions. It covers the foundations of machine learning from a theoretical and conceptual perspective, develops a taxonomy of modern ML paradigms, and asks what the remarkable recent successes of AI tell us about how learning works — in machines and, more cautiously, in biological minds.</p>
+  <p>This module uses machine learning as a window into those questions. It covers the foundations of machine learning from a theoretical and conceptual perspective, develops a taxonomy of modern ML paradigms, and asks what the remarkable recent successes of AI tell us about how learning works — in machines and, perhaps, in biological minds.</p>
 
   <div class="title"> MECHANICS </div>
 
   <p>Classes will mostly be on Tuesdays from 1-4pm in the seminar room, 19 Gordon Square, 101. We will always have a 20-30 minute break.</p>
 
-  <p>The module will be assessed by a 3500-word essay.</p>
+  <p>Assessment: Essay One (800 words – 30%), Essay Two (2,200 words – 70%)</p>
 
   <p>All unlinked readings available <a href="https://liveuclac-my.sharepoint.com/:f:/g/personal/uctydro_ucl_ac_uk/Egtv4gnGbvROv10b4scfEewBWj2G78te0TYpGLiqyiXuBQ">here</a> (ask instructor for password).<br /></p>
 
@@ -54,9 +58,9 @@
 
   <div class="title"> BACKGROUND READING </div>
 
-  <p>This class will cover quite a few topics in machine learning and some on human learning. If you want to read or listen to a semi-popular book that covers a lot of recent background, I highly recommend Tom Griffiths’ new book, <a href="https://harpercollins.co.uk/products/the-laws-of-thought-the-quest-for-a-mathematical-theory-of-the-mind-tom-griffiths?variant=55509413691771">Laws of Thought</a>, which will give you useful background on symbolic AI, neural networks, language acquisition, and Bayesianism.</p>
+  <p>This class will cover quite a few topics in machine learning and some on human learning. If you want to read or listen to a semi-popular book that covers a lot of recent background, I  recommend Tom Griffiths’ new book, <a href="https://harpercollins.co.uk/products/the-laws-of-thought-the-quest-for-a-mathematical-theory-of-the-mind-tom-griffiths?variant=55509413691771">Laws of Thought</a>, which will give you useful background on symbolic AI, neural networks, language acquisition, and Bayesianism.</p>
 
-  <p>Another useful resource are various online courses on machine learning, such as Andrew Ng’s machine learning course, the classic version of which is on <a href="https://www.youtube.com/playlist?list=PLiPvV5TNogxIS4bHQVW4pMkj4CHA8COdX">youtube</a>. There are many online courses; the practical programming side will not be useful for this course, but the basic theory will be.</p>
+  <p>Other useful resources are various online courses on machine learning, such as Andrew Ng’s machine learning course, the classic version of which is on <a href="https://www.youtube.com/playlist?list=PLiPvV5TNogxIS4bHQVW4pMkj4CHA8COdX">youtube</a>. There are many online courses; the practical programming side will not be useful for this course, but the basic theory will be.</p>
 
   <div class="title"> SCHEDULE </div>
 
@@ -65,32 +69,33 @@
   <p>Learning, across all its forms, can be understood as search through a space of possible systems guided by experience — a framework broad enough to encompass Bayesian updating, standard paradigms of machine learning, and human cognitive development.</p>
 
   <ul>
-    <li>Plato, <em>Meno</em> (selections)</li>
-    <li>Fodor, <em>Language of Thought</em> (selections)</li>
-    <li>Margolis and Laurence, selections</li>
-    <li>Newell and Simon, <a href="https://dl.acm.org/doi/10.1145/360018.360022">“Computer Science as Empirical Inquiry: Symbols and Search”</a> (1976)</li>
-    <li>Easwaran, Bayesianism, <em>Philosophy Compass</em></li>
-    <li>Dehaene, <em>How We Learn</em> (chapter)</li>
+    <li>Plato, <em>Meno</em> (selections) (c. 380 BCE)</li>
+    <li>Fodor, <em>Language of Thought</em> (selections) (1975)</li>
+    <li>Margolis and Laurence, <a href="https://www.margolisphilosophy.com/uploads/1/1/0/7/11073530/learningmatters.pdf">“Learning Matters”</a> (2011), p. 529</li>
+    <li>Newell and Simon, <a href="/materials/newellsimon1976.pdf">“Computer Science as Empirical Inquiry: Symbols and Search”</a> (1976), pp. 113–118</li>
+    <li>Easwaran, <a href="https://dl.acm.org/doi/10.1111/j.1747-9991.2011.00399.x">Bayesianism, <em>Philosophy Compass</em></a> (2011)</li>
+    <li>Dehaene, <em>How We Learn</em> (chapter) (2020)</li>
   </ul>
 
-  <p><em>Optional:</em> Leibniz, <em>New Essays</em> (selections); Rothschild, “The Scope of Bayesianism”</p>
+  <p><em>Optional:</em> Leibniz, <em>New Essays</em> (selections) (1765); Rothschild, “The Scope of Bayesianism”</p>
 
   <p><span class="titleblack">5 MAY:</span> <span class="titlethin">LEARNING AS A COMPUTATIONAL PROCESS </span> <br /></p>
 
-  <p>The Church-Turing thesis and the theory of computation give precise content to the idea of learning as search, but the key insight is that universality is nearly vacuous as a constraint — what matters is efficiency and inductive bias, and this session introduces neural networks and backpropagation as the answer that has actually worked.</p>
+  <p>This class discusses the relationship between the theory of computation and learning. We discuss the difference between theoretical limits in computation and practical ones. We dive into a bit the difference between discreet and continuous systems, and introduce neural networks as general purpopse systems (capable of contiunous adjustments).</p>
 
   <ul>
     <li>Turing, <a href="https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf">“Computing Machinery and Intelligence”</a> (1950)</li>
-    <li>Copeland, <a href="https://plato.stanford.edu/entries/church-turing/">“The Church-Turing Thesis,”</a> <em>Stanford Encyclopedia of Philosophy</em></li>
+    <li>Copeland, <a href="https://plato.stanford.edu/entries/church-turing/">“The Church-Turing Thesis,”</a> <em>Stanford Encyclopedia of Philosophy</em> (2023)</li>
     <li>Aaronson, <a href="https://www.scottaaronson.com/papers/philos.pdf">“Why Philosophers Should Care About Computational Complexity”</a> (2013)</li>
-    <li>Hinton, “How Neural Networks Learn from Experience”</li>
+    <li>Hinton, <a href="https://www.cs.toronto.edu/~hinton/absps/sciam2.pdf">“How Neural Networks Learn from Experience”</a> (1992)</li>
+    <li>Newell and Simon, <a href="/materials/newellsimon1976.pdf">“Computer Science as Empirical Inquiry: Symbols and Search”</a> (1976), pp. 118–123</li>
   </ul>
 
-  <p><em>Background:</em> Valiant, <em>Probably Approximately Correct</em>; Valiant, PAC learning paper</p>
+  <p><em>Background:</em> Valiant, <em>Probably Approximately Correct</em> (2013); Valiant, PAC learning paper (1984)</p>
 
   <p><span class="titleblack">12 MAY:</span> <span class="titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br /></p>
 
-  <p>Gradient descent over parameterized functions is the unifying engine behind the apparent diversity of modern AI successes — language models, image generation, game play — and this session develops a taxonomy of machine learning paradigms that reveals the underlying unity, with supervised learning as the central and most powerful paradigm.</p>
+  <p>I introduce a unifying engine behind the apparent diversity of modern AI successes — language models, image generation, game play: supervised learning. In the process this session develops a taxonomy of machine learning paradigms.</p>
 
   <ul>
     <li>Rothschild, “The New Modest Associationism: Lessons from Deep Learning”</li>
@@ -106,8 +111,8 @@
 
   <ul>
     <li>Sutton and Barto, <a href="http://incompleteideas.net/book/the-book-2nd.html"><em>Reinforcement Learning: An Introduction</em></a>, Chapter 1</li>
-    <li>Gopnik, “Explanation as Orgasm” (1998)</li>
-    <li>Christian, <em>The Alignment Problem</em> (selections)</li>
+    <li>Gopnik, <a href="https://doi.org/10.1023/A:1008290415597">“Explanation as Orgasm”</a> (1998)</li>
+    <li>Christian, <em>The Alignment Problem</em> (selections) (2020)</li>
   </ul>
 
   <p><span class="titleblack">2 JUNE:</span> <span class="titlethin"> LLMS: ASSOCIATIONISM AND FAST INFERENCE </span>  <br /></p>
@@ -127,16 +132,16 @@
   <p>Only AI systems trained extensively on natural language exhibit powerful domain-general reasoning, and this session argues that the explanation lies in language’s properties as a compression system — making general inference computationally tractable — with implications for the longstanding debate about the role of language in human thought.</p>
 
   <ul>
-    <li>Rothschild, <a href="http://danielrothschild.com/materials/languageandthoughtllm.pdf">“Language and Thought: The View from LLMs”</a></li>
+    <li>Rothschild, <a href="http://danielrothschild.com/materials/languageandthoughtllm.pdf">“Language and Thought: The View from LLMs”</a> (2024)</li>
     <li>Lupyan and Bergen, <a href="https://doi.org/10.1111/tops.12155">“How Language Programs the Mind”</a> (2016)</li>
   </ul>
 
-  <p><em>Supplementary:</em> Fedorenko et al., “Language is Primarily a Tool for Communication Rather than Thought” (2024); Griffiths et al., “Whither Symbols in the Era of Advanced Neural Networks?”</p>
+  <p><em>Supplementary:</em> Fedorenko et al., “Language is Primarily a Tool for Communication Rather than Thought” (2024); Griffiths et al., “Whither Symbols in the Era of Advanced Neural Networks?” (2023)</p>
 
   <p><br /></p>
 
   <p><span class="smaller">
-Image: Lace pattern woodcut by Isabella Catanea Parasole, 1600
+Image: Hanna Hur, <em>Visitor v</em>, 2024. Collection of The Museum of Modern Art, New York.
 </span></p>
 
 </div>
