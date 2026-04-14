@@ -58,7 +58,7 @@ Learning, across all its forms, can be understood as search through a space of p
 - Easwaran, [Bayesianism, *Philosophy Compass*](https://dl.acm.org/doi/10.1111/j.1747-9991.2011.00399.x) (2011)
 - Dehaene, *How We Learn*, Introduction and ch. 1 (2020)
 
-*Optional:* Leibniz, *New Essays* (selections) (1765); Rothschild, "The Scope of Bayesianism"; Hinton and Nowlan, ["How Learning Can Guide Evolution"](https://www.cs.toronto.edu/~hinton/absps/evolution.htm) (1987)
+*Supplementary:* Leibniz, *New Essays* (selections) (1765); Rothschild, "The Scope of Bayesianism"; Hinton and Nowlan, ["How Learning Can Guide Evolution"](https://www.cs.toronto.edu/~hinton/absps/evolution.htm) (1987)
 
 
 <span class="titleblack">5 MAY:</span> <span class = "titlethin">LEARNING AS A COMPUTATIONAL PROCESS </span> <br>
@@ -71,7 +71,7 @@ This class discusses the relationship between the theory of computation and lear
 - Hinton, ["How Neural Networks Learn from Experience"](https://www.cs.toronto.edu/~hinton/absps/sciam2.pdf) (1992)
 - Newell and Simon, ["Computer Science as Empirical Inquiry: Symbols and Search"](/materials/newellsimon1976.pdf) (1976), pp. 118–123
 
-*Background:* Valiant, *Probably Approximately Correct* (2013); Valiant, PAC learning paper (1984)
+*Supplementary:* Valiant, *Probably Approximately Correct* (2013); Valiant, PAC learning paper (1984)
 
 
 <span class="titleblack">12 MAY:</span> <span class = "titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br>
@@ -82,7 +82,7 @@ I introduce a unifying engine behind the apparent diversity of modern AI success
 - LeCun, Bengio and Hinton, ["Deep Learning,"](https://doi.org/10.1038/nature14539) *Nature* (2015)
 - McClelland, Rumelhart and Hinton, "The Appeal of Parallel Distributed Processing" (1986, selections)
 
-*Optional:* Smolensky, "On the Proper Treatment of Connectionism" (1986)
+*Supplementary:* Smolensky, "On the Proper Treatment of Connectionism" (1986)
 
 
 <span class="titleblack">19 MAY:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
@@ -102,7 +102,7 @@ The taxonomy from previous sessions might suggest that the dominant learning mec
 - Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024)
 - Bubeck et al., ["Sparks of Artificial General Intelligence"](https://arxiv.org/abs/2303.12712) (2023, selections)
 
-*Optional:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast); Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
+*Supplementary:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast); Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
 
 
 <span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
