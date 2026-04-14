@@ -58,14 +58,13 @@ Learning, across all its forms, can be understood as search through a space of p
 - Easwaran, [Bayesianism, *Philosophy Compass*](https://dl.acm.org/doi/10.1111/j.1747-9991.2011.00399.x) (2011)
 - Dehaene, *How We Learn*, Introduction and ch. 1 (2020)
 
-*Optional:* Leibniz, *New Essays* (selections) (1765); Rothschild, "The Scope of Bayesianism"
+*Optional:* Leibniz, *New Essays* (selections) (1765); Rothschild, "The Scope of Bayesianism"; Hinton and Nowlan, ["How Learning Can Guide Evolution"](https://www.cs.toronto.edu/~hinton/absps/evolution.htm) (1987)
 
 
 <span class="titleblack">5 MAY:</span> <span class = "titlethin">LEARNING AS A COMPUTATIONAL PROCESS </span> <br>
 
 This class discusses the relationship between the theory of computation and learning. We discuss the difference between theoretical limits in computation and practical ones. We dive into a bit the difference between discreet and continuous systems, and introduce neural networks as general purpopse systems (capable of contiunous adjustments).
 
-- Rothschild, ["A Parable of Chess"](/materials/parableofchess.docx)
 - Turing, ["Computing Machinery and Intelligence"](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf) (1950)
 - Copeland, ["The Church-Turing Thesis,"](https://plato.stanford.edu/entries/church-turing/) *Stanford Encyclopedia of Philosophy* (2023)
 - Aaronson, ["Why Philosophers Should Care About Computational Complexity"](https://www.scottaaronson.com/papers/philos.pdf) (2013)
@@ -102,6 +101,8 @@ The taxonomy from previous sessions might suggest that the dominant learning mec
 - Mandelbaum and Millière, ["Associationist Theories of Thought,"](https://plato.stanford.edu/entries/associationist-thought/) *Stanford Encyclopedia of Philosophy* (2025)
 - Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024)
 - Bubeck et al., ["Sparks of Artificial General Intelligence"](https://arxiv.org/abs/2303.12712) (2023, selections)
+
+*Optional:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast); Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
 
 
 <span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
