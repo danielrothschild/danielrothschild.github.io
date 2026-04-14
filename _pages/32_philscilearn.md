@@ -15,7 +15,7 @@ h5, h6, .title { color: #cf943b !important; }
 
 ##### Philosophy and Science of Learning
 
-<img src="/materials/hanna_hur_visitor_v.jpg" width="648">
+<img src="/materials/hanna_hur_visitor_v.jpg" width="625">
 
 <div class="maintext" markdown="1">
 
