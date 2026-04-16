@@ -93,6 +93,8 @@ Reinforcement learning is introduced technically — temporal difference learnin
 - Gopnik, ["Explanation as Orgasm"](https://doi.org/10.1023/A:1008290415597) (1998)
 - Christian, *The Alignment Problem* (selections) (2020)
 
+*Supplementary:* Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
+
 
 <span class="titleblack">2 JUNE:</span> <span class = "titlethin"> LLMS: ASSOCIATIONISM AND FAST INFERENCE </span>  <br>
 
@@ -102,7 +104,7 @@ The taxonomy from previous sessions might suggest that the dominant learning mec
 - Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024)
 - Bubeck et al., ["Sparks of Artificial General Intelligence"](https://arxiv.org/abs/2303.12712) (2023, selections)
 
-*Supplementary:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast); Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
+*Supplementary:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast)
 
 
 <span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
