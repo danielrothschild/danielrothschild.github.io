@@ -47,7 +47,7 @@ Other useful resources are various online courses on machine learning, such as A
 
 <div class="title"> SCHEDULE </div>
 
-<span class="titleblack">28 APRIL:</span> <span class = "titlethin"> LEARNING AS SEARCH </span>  <br>
+<span class="titleblack">28 APRIL, 1-4pm:</span> <span class = "titlethin"> LEARNING AS SEARCH </span>  <br>
 
 Learning, across all its forms, can be understood as search through a space of possible systems guided by experience — a framework broad enough to encompass Bayesian updating, standard paradigms of machine learning, and human cognitive development.
 
@@ -62,7 +62,7 @@ Learning, across all its forms, can be understood as search through a space of p
 *Supplementary:* Leibniz, *New Essays* (selections) (1765); Rothschild, "The Scope of Bayesianism"; Easwaran, [Bayesianism, *Philosophy Compass*](https://dl.acm.org/doi/10.1111/j.1747-9991.2011.00399.x) (2011); Hinton and Nowlan, ["How Learning Can Guide Evolution"](https://www.cs.toronto.edu/~hinton/absps/evolution.htm) (1987)
 
 
-<span class="titleblack">5 MAY:</span> <span class = "titlethin">LEARNING AS A COMPUTATIONAL PROCESS </span> <br>
+<span class="titleblack">5 MAY, 1-4pm:</span> <span class = "titlethin">LEARNING AS A COMPUTATIONAL PROCESS </span> <br>
 
 This class discusses the relationship between the theory of computation and learning. We discuss the difference between theoretical limits in computation and practical ones. We dive into a bit the difference between discreet and continuous systems, and introduce neural networks as general purpopse systems (capable of contiunous adjustments).
 
@@ -76,7 +76,7 @@ This class discusses the relationship between the theory of computation and lear
 *Supplementary:* Copeland, ["The Church-Turing Thesis,"](https://plato.stanford.edu/entries/church-turing/) *Stanford Encyclopedia of Philosophy* (2023); Aaronson, ["Why Philosophers Should Care About Computational Complexity"](https://www.scottaaronson.com/papers/philos.pdf) (2013); Valiant, ["A Theory of the Learnable"](https://dl.acm.org/doi/pdf/10.1145/1968.1972) (1984)
 
 
-<span class="titleblack">12 MAY:</span> <span class = "titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br>
+<span class="titleblack">12 MAY, 1-4pm:</span> <span class = "titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br>
 
 I introduce a unifying engine behind the apparent diversity of modern AI successes — language models, image generation, game play: supervised learning. In the process this session develops a taxonomy of machine learning paradigms.
 
@@ -88,7 +88,7 @@ I introduce a unifying engine behind the apparent diversity of modern AI success
 *Supplementary:* Smolensky, "On the Proper Treatment of Connectionism" (1986)
 
 
-<span class="titleblack">19 MAY:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
+<span class="titleblack">19 MAY, 1-4pm:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
 
 Reinforcement learning is introduced technically — temporal difference learning, value functions, Deep Q-learning — before the session pivots to ask what the reward signal actually is for human learners, whether understanding itself can be intrinsically rewarding, and what kind of values are coherent enough to specify an objective function at all.
 
@@ -101,7 +101,7 @@ Reinforcement learning is introduced technically — temporal difference learnin
 *Supplementary:* Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
 
 
-<span class="titleblack">2 JUNE:</span> <span class = "titlethin"> LLMS: ASSOCIATIONISM AND FAST INFERENCE </span>  <br>
+<span class="titleblack">2 JUNE, 1-4pm:</span> <span class = "titlethin"> LLMS: ASSOCIATIONISM AND FAST INFERENCE </span>  <br>
 
 The taxonomy from previous sessions might suggest that the dominant learning mechanism in modern AI is essentially associationist — gradual, error-driven, domain-general — and this session asks how slow associationist training produces systems capable of fast, flexible, apparently reasoning-like behavior at inference time, with language emerging as the key to the answer.
 
@@ -117,7 +117,7 @@ The taxonomy from previous sessions might suggest that the dominant learning mec
 <span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
 
 
-<span class="titleblack">9 JUNE:</span> <span class = "titlethin"> LANGUAGE AND LEARNING </span>  <br>
+<span class="titleblack">9 JUNE, 1-4pm:</span> <span class = "titlethin"> LANGUAGE AND LEARNING </span>  <br>
 
 Only AI systems trained extensively on natural language exhibit powerful domain-general reasoning, and this session argues that the explanation lies in language's properties as a compression system — making general inference computationally tractable — with implications for the longstanding debate about the role of language in human thought.
 
