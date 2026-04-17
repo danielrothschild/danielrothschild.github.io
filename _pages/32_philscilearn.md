@@ -51,36 +51,39 @@ Other useful resources are various online courses on machine learning, such as A
 
 Learning, across all its forms, can be understood as search through a space of possible systems guided by experience — a framework broad enough to encompass Bayesian updating, standard paradigms of machine learning, and human cognitive development.
 
-- Plato, *Meno* (selections) (c. 380 BCE)
-- Fodor, *Language of Thought* (selections) (1975)
-- Margolis and Laurence, ["Learning Matters"](https://www.margolisphilosophy.com/uploads/1/1/0/7/11073530/learningmatters.pdf) (2011), p. 529
-- Newell and Simon, ["Computer Science as Empirical Inquiry: Symbols and Search"](/materials/newellsimon1976.pdf) (1976), pp. 113–118
-- Easwaran, [Bayesianism, *Philosophy Compass*](https://dl.acm.org/doi/10.1111/j.1747-9991.2011.00399.x) (2011)
-- Dehaene, *How We Learn*, Introduction and ch. 1 (2020)
+<ul>
+<li>Plato, <a href="https://commons.princeton.edu/eng574-s23/wp-content/uploads/sites/348/2023/02/Plato-Meno.pdf"><em>Meno</em></a> (80d–86c) (c. 380 BCE)<br><span style="font-size:0.85em;color:#777;">Raises the learning paradox — how can you seek what you don't already know? — and offers the geometry demonstration as Plato's own answer; the computational framework of the course will provide a different one.</span></li>
+<li>Fodor, <em>Language of Thought</em> (selections) (1975)<br><span style="font-size:0.85em;color:#777;">A modern restatement of the Meno paradox as a problem about concept acquisition; sets up the nativist position that the rest of the course pushes back against.</span></li>
+<li>Margolis and Laurence, <a href="https://www.margolisphilosophy.com/uploads/1/1/0/7/11073530/learningmatters.pdf">"Learning Matters"</a> (2011), p. 529 (<a href="/materials/margolis-laurence-passage.txt">relevant passage only</a>)<br><span style="font-size:0.85em;color:#777;">Provides a working characterisation of learning as the acquisition of genuinely new representational content; used as a touchstone throughout the course.</span></li>
+<li>Newell and Simon, <a href="/materials/newellsimon1976.pdf">"Computer Science as Empirical Inquiry: Symbols and Search"</a> (1976), pp. 118–123<br><span style="font-size:0.85em;color:#777;">Introduces the search framework and the generator-plus-test picture that responds to the Meno paradox — showing how new knowledge can be extracted from the environment without presupposing it.</span></li>
+<li>Dehaene, <em>How We Learn</em>, Introduction and ch. 1 (2020)<br><span style="font-size:0.85em;color:#777;">Develops learning-as-search directly, arguing that learning in both brains and machines is a massive search through parameter space guided by error and reward signals.</span></li>
+</ul>
 
-*Supplementary:* Leibniz, *New Essays* (selections) (1765); Rothschild, "The Scope of Bayesianism"; Hinton and Nowlan, ["How Learning Can Guide Evolution"](https://www.cs.toronto.edu/~hinton/absps/evolution.htm) (1987)
+*Supplementary:* Leibniz, *New Essays* (selections) (1765); Rothschild, "The Scope of Bayesianism"; Easwaran, [Bayesianism, *Philosophy Compass*](https://dl.acm.org/doi/10.1111/j.1747-9991.2011.00399.x) (2011); Hinton and Nowlan, ["How Learning Can Guide Evolution"](https://www.cs.toronto.edu/~hinton/absps/evolution.htm) (1987)
 
 
 <span class="titleblack">5 MAY:</span> <span class = "titlethin">LEARNING AS A COMPUTATIONAL PROCESS </span> <br>
 
 This class discusses the relationship between the theory of computation and learning. We discuss the difference between theoretical limits in computation and practical ones. We dive into a bit the difference between discreet and continuous systems, and introduce neural networks as general purpopse systems (capable of contiunous adjustments).
 
-- Turing, ["Computing Machinery and Intelligence"](https://www.cs.mcgill.ca/~dprecup/courses/AI/Materials/turing1950.pdf) (1950)
-- Copeland, ["The Church-Turing Thesis,"](https://plato.stanford.edu/entries/church-turing/) *Stanford Encyclopedia of Philosophy* (2023)
-- Aaronson, ["Why Philosophers Should Care About Computational Complexity"](https://www.scottaaronson.com/papers/philos.pdf) (2013)
-- Hinton, ["How Neural Networks Learn from Experience"](https://www.cs.toronto.edu/~hinton/absps/sciam2.pdf) (1992)
-- Newell and Simon, ["Computer Science as Empirical Inquiry: Symbols and Search"](/materials/newellsimon1976.pdf) (1976), pp. 118–123
+<ul>
+<li>Newell and Simon, <a href="/materials/newellsimon1976.pdf">"Computer Science as Empirical Inquiry: Symbols and Search"</a> (1976), pp. 113–118<br><span style="font-size:0.85em;color:#777;">Presents the Physical Symbol System Hypothesis — that symbolic manipulation is both necessary and sufficient for general intelligence — the theoretical manifesto for symbolic AI that PDP and the rest of the course systematically examine and challenge.</span></li>
+<li>Mitchell, <em>Artificial Intelligence: A Guide for Thinking Humans</em> (selections) (2019)<br><span style="font-size:0.85em;color:#777;">Introduces the foundational symbolic/subsymbolic divide in AI; walks through perceptrons — the first neural network — from their biological inspiration through the learning rule (weight adjustment from examples) to multilayer networks and back-propagation; provides the accessible technical foundation the other readings presuppose.</span></li>
+<li>Hinton, <a href="https://www.cs.toronto.edu/~hinton/absps/sciam2.pdf">"How Neural Networks Learn from Experience"</a> (1992)<br><span style="font-size:0.85em;color:#777;">Explains how networks learn through gradient descent on error, how hidden units develop internal representations unprogrammed by their designers, and why distributed representations give neural networks their power — a technically precise but accessible treatment of the core learning mechanism.</span></li>
+<li>McClelland, Rumelhart and Hinton, "The Appeal of Parallel Distributed Processing" (1986, selections)<br><span style="font-size:0.85em;color:#777;">The founding manifesto of connectionism: argues that many cognitive tasks are better captured by activation spreading across distributed representations than by symbolic rules, and introduces the core concepts — parallel processing, weighted connections, learning as weight adjustment — that underpin everything from backpropagation to modern deep learning.</span></li>
+</ul>
 
-*Supplementary:* Valiant, *Probably Approximately Correct* (2013); Valiant, PAC learning paper (1984)
+*Supplementary:* Copeland, ["The Church-Turing Thesis,"](https://plato.stanford.edu/entries/church-turing/) *Stanford Encyclopedia of Philosophy* (2023); Aaronson, ["Why Philosophers Should Care About Computational Complexity"](https://www.scottaaronson.com/papers/philos.pdf) (2013); Valiant, ["A Theory of the Learnable"](https://dl.acm.org/doi/pdf/10.1145/1968.1972) (1984)
 
 
 <span class="titleblack">12 MAY:</span> <span class = "titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br>
 
 I introduce a unifying engine behind the apparent diversity of modern AI successes — language models, image generation, game play: supervised learning. In the process this session develops a taxonomy of machine learning paradigms.
 
-- Rothschild, "The New Modest Associationism: Lessons from Deep Learning"
-- LeCun, Bengio and Hinton, ["Deep Learning,"](https://doi.org/10.1038/nature14539) *Nature* (2015)
-- McClelland, Rumelhart and Hinton, "The Appeal of Parallel Distributed Processing" (1986, selections)
+<ul>
+<li>Rothschild, "The New Modest Associationism: Lessons from Deep Learning" (sections 1–6)<br><span style="font-size:0.85em;color:#777;">Argues that supervised learning — training on labelled input-output pairs — is the unifying engine behind the apparent diversity of modern AI successes; shows how image generation, language modelling, and game-play all reduce to this single mechanism through clever reformulation; and draws from this the lesson that a modest, scaled-up associationism is far more powerful than twentieth-century cognitive science recognised.</span></li>
+<li>LeCun, Bengio and Hinton, <a href="https://doi.org/10.1038/nature14539">"Deep Learning,"</a> <em>Nature</em> (2015)<br><span style="font-size:0.85em;color:#777;">The landmark survey that introduced deep learning to a broad scientific audience: explains how deep architectures learn hierarchical representations automatically — without hand-engineered features — and surveys the striking successes in vision, speech, and language that this makes possible; provides the empirical backdrop for the theoretical claims of my paper above.</span></li>
+</ul>
 
 *Supplementary:* Smolensky, "On the Proper Treatment of Connectionism" (1986)
 
@@ -89,9 +92,11 @@ I introduce a unifying engine behind the apparent diversity of modern AI success
 
 Reinforcement learning is introduced technically — temporal difference learning, value functions, Deep Q-learning — before the session pivots to ask what the reward signal actually is for human learners, whether understanding itself can be intrinsically rewarding, and what kind of values are coherent enough to specify an objective function at all.
 
-- Sutton and Barto, [*Reinforcement Learning: An Introduction*](http://incompleteideas.net/book/the-book-2nd.html), Chapter 1
-- Gopnik, ["Explanation as Orgasm"](https://doi.org/10.1023/A:1008290415597) (1998)
-- Christian, *The Alignment Problem* (selections) (2020)
+<ul>
+<li>Sutton and Barto, <a href="http://incompleteideas.net/book/the-book-2nd.html"><em>Reinforcement Learning: An Introduction</em></a>, Chapter 1 (2018)<br><span style="font-size:0.85em;color:#777;">Introduces the reinforcement learning framework — agent, environment, state, reward, policy — and motivates it as the paradigm for goal-directed learning from interaction without labeled examples; frames RL as a third learning paradigm alongside supervised and unsupervised learning.</span></li>
+<li>Gopnik, <a href="https://doi.org/10.1023/A:1008290415597">"Explanation as Orgasm"</a> (1998)<br><span style="font-size:0.85em;color:#777;">Argues that explanation is intrinsically rewarding — the felt sense of understanding is a form of positive affect that motivates curiosity-driven learning — raising the question of what the reward signal actually is for human learners and whether it can be reduced to any simple objective function.</span></li>
+<li>Christian, <em>The Alignment Problem</em> (selections) (2020)<br><span style="font-size:0.85em;color:#777;">Explores the difficulty of specifying reward functions that genuinely capture human values: the problem of reward hacking, Goodhart's law, and the gap between proxy objectives and what we actually want — raising the question of whether any formal objective function can adequately represent the goals that motivate biological learners.</span></li>
+</ul>
 
 *Supplementary:* Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
 
@@ -100,11 +105,13 @@ Reinforcement learning is introduced technically — temporal difference learnin
 
 The taxonomy from previous sessions might suggest that the dominant learning mechanism in modern AI is essentially associationist — gradual, error-driven, domain-general — and this session asks how slow associationist training produces systems capable of fast, flexible, apparently reasoning-like behavior at inference time, with language emerging as the key to the answer.
 
-- Mandelbaum and Millière, ["Associationist Theories of Thought,"](https://plato.stanford.edu/entries/associationist-thought/) *Stanford Encyclopedia of Philosophy* (2025)
-- Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024)
-- Bubeck et al., ["Sparks of Artificial General Intelligence"](https://arxiv.org/abs/2303.12712) (2023, selections)
+<ul>
+<li>Rothschild, "The New Modest Associationism: Lessons from Deep Learning" (sections 7–8)<br><span style="font-size:0.85em;color:#777;">Section 7 argues that deep learning vindicates associationism via the uniformity of supervised learning across domains and its gradient-descent character. Section 8 qualifies this with three caveats: associationist training produces inference-time behaviour that looks nothing like conditioning; architectural structures (transformers, CNNs) go well beyond anything associationists envisaged; and domain-generality of mechanism does not settle empiricism about inductive biases.</span></li>
+<li>Buckner, <em>From Deep Learning to Rational Machines</em>, ch. 1 (2024)<br><span style="font-size:0.85em;color:#777;">Frames deep learning within the empiricism-nativism debate; argues that its successes support a "moderate empiricism" — the view that rational cognition can be achieved without innate theories or domain-specific concepts — while resisting both the overclaiming of enthusiasts and the dismissals of nativists.</span></li>
+<li>Mandelbaum and Millière, <a href="https://plato.stanford.edu/entries/associationist-thought/">"Associationist Theories of Thought,"</a> <em>Stanford Encyclopedia of Philosophy</em> (2025)<br><span style="font-size:0.85em;color:#777;">Surveys the philosophical landscape of associationism — from classical and operant conditioning through connectionism to contemporary debates — providing the conceptual vocabulary the other readings presuppose.</span></li>
+</ul>
 
-*Supplementary:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast)
+*Supplementary:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast); Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024); Bubeck et al., ["Sparks of Artificial General Intelligence"](https://arxiv.org/abs/2303.12712) (2023, selections)
 
 
 <span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
@@ -114,10 +121,12 @@ The taxonomy from previous sessions might suggest that the dominant learning mec
 
 Only AI systems trained extensively on natural language exhibit powerful domain-general reasoning, and this session argues that the explanation lies in language's properties as a compression system — making general inference computationally tractable — with implications for the longstanding debate about the role of language in human thought.
 
-- Rothschild, ["Language and Thought: The View from LLMs"](http://danielrothschild.com/materials/languageandthoughtllm.pdf) (2024)
-- Lupyan and Bergen, ["How Language Programs the Mind"](https://doi.org/10.1111/tops.12155) (2016)
+<ul>
+<li>Rothschild, <a href="http://danielrothschild.com/materials/languageandthoughtllm.pdf">"Language and Thought: The View from LLMs"</a> (2024)<br><span style="font-size:0.85em;color:#777;">Argues that only AI systems extensively trained on natural language exhibit powerful domain-general reasoning, and that this is because language's abstraction and compression makes general inference computationally tractable; uses the evidence from LLMs to support the thesis that language has a transformative effect on cognition, not merely an expressive one.</span></li>
+<li>Lupyan and Bergen, <a href="https://doi.org/10.1111/tops.12155">"How Language Programs the Mind"</a> (2016)<br><span style="font-size:0.85em;color:#777;">Argues from cognitive psychology that language actively shapes thought rather than merely expressing it — linguistic labels influence perception, categorisation, and memory — provides a different view of the cognitive utility of language.</span></li>
+</ul>
 
-*Supplementary:* Fedorenko et al., "Language is Primarily a Tool for Communication Rather than Thought" (2024); Griffiths et al., "Whither Symbols in the Era of Advanced Neural Networks?" (2023)
+*Supplementary:* Fedorenko et al., ["Language is Primarily a Tool for Communication Rather than Thought,"](https://doi.org/10.1038/s41586-024-07522-w) *Nature* (2024); Griffiths et al., ["Whither Symbols in the Era of Advanced Neural Networks?"](https://arxiv.org/abs/2508.05776) (2025)
 
 <br>
 
