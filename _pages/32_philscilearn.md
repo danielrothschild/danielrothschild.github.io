@@ -59,7 +59,7 @@ Learning, across all its forms, can be understood as search through a space of p
 <li>Dehaene, <em>How We Learn</em>, Introduction and ch. 1 (2020)<br><span style="font-size:0.85em;color:#777;">Develops learning-as-search directly, arguing that learning in both brains and machines is a massive search through parameter space guided by error and reward signals.</span></li>
 </ul>
 
-*Supplementary:* Leibniz, *New Essays* (selections) (1765); Rothschild, "The Scope of Bayesianism"; Easwaran, [Bayesianism, *Philosophy Compass*](https://dl.acm.org/doi/10.1111/j.1747-9991.2011.00399.x) (2011); Hinton and Nowlan, ["How Learning Can Guide Evolution"](https://www.cs.toronto.edu/~hinton/absps/evolution.htm) (1987)
+*Supplementary:* Leibniz, *New Essays* (selections) (1765); Rothschild, ["The Scope of Bayesianism"](https://www.dropbox.com/s/i4q58peht85k9cl/Scope%20of%20Bayesianism.pdf?dl=0); Easwaran, [Bayesianism, *Philosophy Compass*](https://compass.onlinelibrary.wiley.com/doi/10.1111/j.1747-9991.2011.00399.x) (2011); Hinton and Nowlan, ["How Learning Can Guide Evolution"](https://www.cs.toronto.edu/~hinton/absps/evolution.htm) (1987)
 
 
 <span class="titleblack">5 MAY, 1-4pm:</span> <span class = "titlethin">LEARNING AS A COMPUTATIONAL PROCESS </span> <br>
