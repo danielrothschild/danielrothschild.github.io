@@ -74,7 +74,7 @@ This class discusses the relationship between the theory of computation and lear
 <li>McClelland, Rumelhart and Hinton, "The Appeal of Parallel Distributed Processing" (1986, pp. 3–8, 31–45)<br><span style="font-size:0.85em;color:#777;">The founding manifesto of connectionism: argues that many cognitive tasks are better captured by activation spreading across distributed representations than by symbolic rules, and introduces the core concepts — parallel processing, weighted connections, learning as weight adjustment — that underpin everything from backpropagation to modern deep learning.</span></li>
 </ul>
 
-*Supplementary:* Copeland, ["The Church-Turing Thesis,"](https://plato.stanford.edu/entries/church-turing/) *Stanford Encyclopedia of Philosophy* (2023); Aaronson, ["Why Philosophers Should Care About Computational Complexity"](https://www.scottaaronson.com/papers/philos.pdf) (2013); Valiant, ["A Theory of the Learnable"](https://dl.acm.org/doi/pdf/10.1145/1968.1972) (1984)
+*Supplementary:* Aaronson, ["Why Philosophers Should Care About Computational Complexity"](https://www.scottaaronson.com/papers/philos.pdf) (2013); Rescorla, ["The Computational Theory of Mind,"](https://plato.stanford.edu/entries/computational-mind/) *Stanford Encyclopedia of Philosophy*
 
 
 <span class="titleblack">12 MAY, 1-4pm:</span> <span class = "titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br>
