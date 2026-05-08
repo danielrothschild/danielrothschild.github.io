@@ -78,20 +78,7 @@ This class discusses the relationship between the theory of computation and lear
 *Supplementary:* Aaronson, ["Why Philosophers Should Care About Computational Complexity"](https://www.scottaaronson.com/papers/philos.pdf) (2013); Rescorla, ["The Computational Theory of Mind,"](https://plato.stanford.edu/entries/computational-mind/) *Stanford Encyclopedia of Philosophy*
 
 
-<span class="titleblack">12 MAY, 1-4pm:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
-
-Reinforcement learning is introduced technically — temporal difference learning, value functions, Deep Q-learning — before the session pivots to ask what the reward signal actually is for human learners, whether understanding itself can be intrinsically rewarding, and what kind of values are coherent enough to specify an objective function at all.
-
-<ul>
-<li>Sutton and Barto, <a href="http://incompleteideas.net/book/the-book-2nd.html"><em>Reinforcement Learning: An Introduction</em></a>, Chapter 1 (2018)<br><span style="font-size:0.85em;color:#777;">Introduces the reinforcement learning framework — agent, environment, state, reward, policy — and motivates it as the paradigm for goal-directed learning from interaction without labeled examples; frames RL as a third learning paradigm alongside supervised and unsupervised learning.</span></li>
-<li>Gopnik, <a href="https://doi.org/10.1023/A:1008290415597">"Explanation as Orgasm"</a> (1998)<br><span style="font-size:0.85em;color:#777;">Argues that explanation is intrinsically rewarding — the felt sense of understanding is a form of positive affect that motivates curiosity-driven learning — raising the question of what the reward signal actually is for human learners and whether it can be reduced to any simple objective function.</span></li>
-<li>Christian, <em>The Alignment Problem</em> (selections) (2020)<br><span style="font-size:0.85em;color:#777;">Explores the difficulty of specifying reward functions that genuinely capture human values: the problem of reward hacking, Goodhart's law, and the gap between proxy objectives and what we actually want — raising the question of whether any formal objective function can adequately represent the goals that motivate biological learners.</span></li>
-</ul>
-
-*Supplementary:* Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
-
-
-<span class="titleblack">19 MAY, 1-4pm:</span> <span class = "titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br>
+<span class="titleblack">12 MAY, 1-4pm:</span> <span class = "titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br>
 
 I introduce a unifying engine behind the apparent diversity of modern AI successes — language models, image generation, game play: supervised learning. In the process this session develops a taxonomy of machine learning paradigms.
 
@@ -103,7 +90,7 @@ I introduce a unifying engine behind the apparent diversity of modern AI success
 *Supplementary:* Smolensky, ["On the Proper Treatment of Connectionism"](https://home.csulb.edu/~cwallis/382/readings/482/smolensky.proper.treat.pdf) (1988)
 
 
-<span class="titleblack">2 JUNE, 1-4pm:</span> <span class = "titlethin"> ASSOCIATIONISM AND EMPIRICISM </span>  <br>
+<span class="titleblack">19 MAY, 1-4pm:</span> <span class = "titlethin"> ASSOCIATIONISM AND EMPIRICISM </span>  <br>
 
 <ul>
 <li>Rothschild, "The New Associationism: Lessons from Deep Learning" (sections 7–8)<br><span style="font-size:0.85em;color:#777;">Section 7 argues that deep learning vindicates associationism via the uniformity of supervised learning across domains and its gradient-descent character. Section 8 qualifies this with three caveats: associationist training produces inference-time behaviour that looks nothing like conditioning; architectural structures (transformers, CNNs) go well beyond anything associationists envisaged; and domain-generality of mechanism does not settle empiricism about inductive biases.</span></li>
@@ -112,6 +99,19 @@ I introduce a unifying engine behind the apparent diversity of modern AI success
 </ul>
 
 *Supplementary:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast); Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024); Bubeck et al., ["Sparks of Artificial General Intelligence"](https://arxiv.org/abs/2303.12712) (2023, selections)
+
+
+<span class="titleblack">2 JUNE, 1-4pm:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
+
+Reinforcement learning is introduced technically — temporal difference learning, value functions, Deep Q-learning — before the session pivots to ask what the reward signal actually is for human learners, whether understanding itself can be intrinsically rewarding, and what kind of values are coherent enough to specify an objective function at all.
+
+<ul>
+<li>Sutton and Barto, <a href="http://incompleteideas.net/book/the-book-2nd.html"><em>Reinforcement Learning: An Introduction</em></a>, Chapter 1 (2018)<br><span style="font-size:0.85em;color:#777;">Introduces the reinforcement learning framework — agent, environment, state, reward, policy — and motivates it as the paradigm for goal-directed learning from interaction without labeled examples; frames RL as a third learning paradigm alongside supervised and unsupervised learning.</span></li>
+<li>Gopnik, <a href="https://doi.org/10.1023/A:1008290415597">"Explanation as Orgasm"</a> (1998)<br><span style="font-size:0.85em;color:#777;">Argues that explanation is intrinsically rewarding — the felt sense of understanding is a form of positive affect that motivates curiosity-driven learning — raising the question of what the reward signal actually is for human learners and whether it can be reduced to any simple objective function.</span></li>
+<li>Christian, <em>The Alignment Problem</em> (selections) (2020)<br><span style="font-size:0.85em;color:#777;">Explores the difficulty of specifying reward functions that genuinely capture human values: the problem of reward hacking, Goodhart's law, and the gap between proxy objectives and what we actually want — raising the question of whether any formal objective function can adequately represent the goals that motivate biological learners.</span></li>
+</ul>
+
+*Supplementary:* Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
 
 
 <span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
