@@ -33,7 +33,7 @@ This module uses machine learning as a window into those questions. It covers th
 
 Classes will mostly be on Tuesdays from 1-4pm in the seminar room, 19 Gordon Square, 101. We will always have a 20-30 minute break.
 
-Assessment: Essay One (800 words – 30%), Essay Two (2,200 words – 70%)
+Assessment: Essay One (800 words – 30%, due 19 June), Essay Two (2,200 words – 70%, due 28 September)
 
 All unlinked readings available [here](https://liveuclac-my.sharepoint.com/:f:/g/personal/uctydro_ucl_ac_uk/Egtv4gnGbvROv10b4scfEewBWj2G78te0TYpGLiqyiXuBQ) (ask instructor for password).<br>
 
@@ -78,19 +78,7 @@ This class discusses the relationship between the theory of computation and lear
 *Supplementary:* Aaronson, ["Why Philosophers Should Care About Computational Complexity"](https://www.scottaaronson.com/papers/philos.pdf) (2013); Rescorla, ["The Computational Theory of Mind,"](https://plato.stanford.edu/entries/computational-mind/) *Stanford Encyclopedia of Philosophy*
 
 
-<span class="titleblack">12 MAY, 1-4pm:</span> <span class = "titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br>
-
-I introduce a unifying engine behind the apparent diversity of modern AI successes — language models, image generation, game play: supervised learning. In the process this session develops a taxonomy of machine learning paradigms.
-
-<ul>
-<li>Rothschild, "The New Associationism: Lessons from Deep Learning" (sections 1–6)<br><span style="font-size:0.85em;color:#777;">Argues that supervised learning — training on labelled input-output pairs — is the unifying engine behind the apparent diversity of modern AI successes; shows how image generation, language modelling, and game-play all reduce to this single mechanism through clever reformulation; and draws from this the lesson that a modest, scaled-up associationism is far more powerful than twentieth-century cognitive science recognised.</span></li>
-<li>LeCun, Bengio and Hinton, <a href="https://doi.org/10.1038/nature14539">"Deep Learning,"</a> <em>Nature</em> (2015)<br><span style="font-size:0.85em;color:#777;">The landmark survey that introduced deep learning to a broad scientific audience: explains how deep architectures learn hierarchical representations automatically — without hand-engineered features — and surveys the striking successes in vision, speech, and language that this makes possible; provides the empirical backdrop for the theoretical claims of my paper above.</span></li>
-</ul>
-
-*Supplementary:* Smolensky, ["On the Proper Treatment of Connectionism"](https://home.csulb.edu/~cwallis/382/readings/482/smolensky.proper.treat.pdf) (1988)
-
-
-<span class="titleblack">19 MAY, 1-4pm:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
+<span class="titleblack">12 MAY, 1-4pm:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
 
 Reinforcement learning is introduced technically — temporal difference learning, value functions, Deep Q-learning — before the session pivots to ask what the reward signal actually is for human learners, whether understanding itself can be intrinsically rewarding, and what kind of values are coherent enough to specify an objective function at all.
 
@@ -103,9 +91,19 @@ Reinforcement learning is introduced technically — temporal difference learnin
 *Supplementary:* Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
 
 
-<span class="titleblack">2 JUNE, 1-4pm:</span> <span class = "titlethin"> LLMS: ASSOCIATIONISM, EMPIRICISM, AND FAST INFERENCE </span>  <br>
+<span class="titleblack">19 MAY, 1-4pm:</span> <span class = "titlethin">A TAXONOMY OF MACHINE LEARNING </span> <br>
 
-The taxonomy from previous sessions might suggest that the dominant learning mechanism in modern AI is essentially associationist — gradual, error-driven, domain-general. This session takes up two questions that follow. First, what does the success of this kind of learning say about empiricism — and what kind of empiricism is now defensible? Buckner's "moderate empiricism" thesis is the touchstone. Second, how does slow associationist training produce systems capable of fast, flexible, apparently reasoning-like behaviour at inference time, with language emerging as the key to the answer?
+I introduce a unifying engine behind the apparent diversity of modern AI successes — language models, image generation, game play: supervised learning. In the process this session develops a taxonomy of machine learning paradigms.
+
+<ul>
+<li>Rothschild, "The New Associationism: Lessons from Deep Learning" (sections 1–6)<br><span style="font-size:0.85em;color:#777;">Argues that supervised learning — training on labelled input-output pairs — is the unifying engine behind the apparent diversity of modern AI successes; shows how image generation, language modelling, and game-play all reduce to this single mechanism through clever reformulation; and draws from this the lesson that a modest, scaled-up associationism is far more powerful than twentieth-century cognitive science recognised.</span></li>
+<li>LeCun, Bengio and Hinton, <a href="https://doi.org/10.1038/nature14539">"Deep Learning,"</a> <em>Nature</em> (2015)<br><span style="font-size:0.85em;color:#777;">The landmark survey that introduced deep learning to a broad scientific audience: explains how deep architectures learn hierarchical representations automatically — without hand-engineered features — and surveys the striking successes in vision, speech, and language that this makes possible; provides the empirical backdrop for the theoretical claims of my paper above.</span></li>
+</ul>
+
+*Supplementary:* Smolensky, ["On the Proper Treatment of Connectionism"](https://home.csulb.edu/~cwallis/382/readings/482/smolensky.proper.treat.pdf) (1988)
+
+
+<span class="titleblack">2 JUNE, 1-4pm:</span> <span class = "titlethin"> ASSOCIATIONISM AND EMPIRICISM </span>  <br>
 
 <ul>
 <li>Rothschild, "The New Associationism: Lessons from Deep Learning" (sections 7–8)<br><span style="font-size:0.85em;color:#777;">Section 7 argues that deep learning vindicates associationism via the uniformity of supervised learning across domains and its gradient-descent character. Section 8 qualifies this with three caveats: associationist training produces inference-time behaviour that looks nothing like conditioning; architectural structures (transformers, CNNs) go well beyond anything associationists envisaged; and domain-generality of mechanism does not settle empiricism about inductive biases.</span></li>
