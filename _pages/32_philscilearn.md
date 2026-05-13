@@ -96,12 +96,28 @@ I introduce a unifying engine behind the apparent diversity of modern AI success
 <li>Rothschild, "The New Associationism: Lessons from Deep Learning" (sections 7–8)<br><span style="font-size:0.85em;color:#777;">Section 7 argues that deep learning vindicates associationism via the uniformity of supervised learning across domains and its gradient-descent character. Section 8 qualifies this with three caveats: associationist training produces inference-time behaviour that looks nothing like conditioning; architectural structures (transformers, CNNs) go well beyond anything associationists envisaged; and domain-generality of mechanism does not settle empiricism about inductive biases.</span></li>
 <li>Buckner, <em>From Deep Learning to Rational Machines</em>, ch. 1 (2024)<br><span style="font-size:0.85em;color:#777;">Frames deep learning within the empiricism-nativism debate; argues that its successes support a "moderate empiricism" — the view that rational cognition can be achieved without innate theories or domain-specific concepts — while resisting both the overclaiming of enthusiasts and the dismissals of nativists.</span></li>
 <li>Mandelbaum and Millière, <a href="https://plato.stanford.edu/entries/associationist-thought/">"Associationist Theories of Thought,"</a> <em>Stanford Encyclopedia of Philosophy</em> (2025)<br><span style="font-size:0.85em;color:#777;">Surveys the philosophical landscape of associationism — from classical and operant conditioning through connectionism to contemporary debates — providing the conceptual vocabulary the other readings presuppose.</span></li>
+<li>Dehaene, <em>The Number Sense: How the Mind Creates Mathematics</em>, chs. 1–3 (Oxford, 1997; 2nd ed. 2011) — <em>skim</em><br><span style="font-size:0.85em;color:#777;">The classic statement of the case for an evolved, pre-linguistic number sense. Chapter 1 surveys the numerical abilities of animals — rats, pigeons, chimpanzees, parrots — establishing that basic numerical discrimination is widespread across taxa. Chapter 2 reviews the developmental evidence in human infants, including Wynn's addition–subtraction looking-time experiments and the early Approximate Number System findings. Chapter 3 lays out the adult psychophysics: the distance effect, the size effect, the Weber–Fechner signature on numerosity discrimination, and the subitizing-versus-counting distinction. Together these chapters make the convergent empirical case for the number sense as an evolved cognitive system, with subitizing (small-set fast enumeration) and the Approximate Number System (Weber-fraction-scaled estimation of larger quantities) as its two main components.</span></li>
 </ul>
 
-*Supplementary:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast); Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024); Bubeck et al., ["Sparks of Artificial General Intelligence"](https://arxiv.org/abs/2303.12712) (2023, selections)
+*Supplementary:* Dwarkesh Patel, [Interview with Ilya Sutskever](https://www.dwarkesh.com/p/ilya-sutskever-2) (podcast); Bubeck et al., ["Sparks of Artificial General Intelligence"](https://arxiv.org/abs/2303.12712) (2023, selections)
 
 
-<span class="titleblack">2 JUNE, 1-4pm:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
+<span class="titleblack">2 JUNE, 1-4pm:</span> <span class = "titlethin"> LANGUAGE AND LEARNING </span>  <br>
+
+Only AI systems trained extensively on natural language exhibit powerful domain-general reasoning, and this session argues that the explanation lies in language's properties as a compression system — making general inference computationally tractable — with implications for the longstanding debate about the role of language in human thought.
+
+<ul>
+<li>Rothschild, <a href="http://danielrothschild.com/materials/languageandthoughtllm.pdf">"Language and Thought: The View from LLMs"</a> (2024)<br><span style="font-size:0.85em;color:#777;">Argues that only AI systems extensively trained on natural language exhibit powerful domain-general reasoning, and that this is because language's abstraction and compression makes general inference computationally tractable; uses the evidence from LLMs to support the thesis that language has a transformative effect on cognition, not merely an expressive one.</span></li>
+<li>Lupyan and Bergen, <a href="https://doi.org/10.1111/tops.12155">"How Language Programs the Mind"</a> (2016)<br><span style="font-size:0.85em;color:#777;">Argues from cognitive psychology that language actively shapes thought rather than merely expressing it — linguistic labels influence perception, categorisation, and memory — provides a different view of the cognitive utility of language.</span></li>
+</ul>
+
+*Supplementary:* Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024); Fedorenko et al., ["Language is Primarily a Tool for Communication Rather than Thought,"](https://doi.org/10.1038/s41586-024-07522-w) *Nature* (2024); Griffiths et al., ["Whither Symbols in the Era of Advanced Neural Networks?"](https://arxiv.org/abs/2508.05776) (2025)
+
+
+<span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
+
+
+<span class="titleblack">9 JUNE, 1-4pm:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
 
 Reinforcement learning is introduced technically — temporal difference learning, value functions, Deep Q-learning — before the session pivots to ask what the reward signal actually is for human learners, whether understanding itself can be intrinsically rewarding, and what kind of values are coherent enough to specify an objective function at all.
 
@@ -112,21 +128,6 @@ Reinforcement learning is introduced technically — temporal difference learnin
 </ul>
 
 *Supplementary:* Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
-
-
-<span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
-
-
-<span class="titleblack">9 JUNE, 1-4pm:</span> <span class = "titlethin"> LANGUAGE AND LEARNING </span>  <br>
-
-Only AI systems trained extensively on natural language exhibit powerful domain-general reasoning, and this session argues that the explanation lies in language's properties as a compression system — making general inference computationally tractable — with implications for the longstanding debate about the role of language in human thought.
-
-<ul>
-<li>Rothschild, <a href="http://danielrothschild.com/materials/languageandthoughtllm.pdf">"Language and Thought: The View from LLMs"</a> (2024)<br><span style="font-size:0.85em;color:#777;">Argues that only AI systems extensively trained on natural language exhibit powerful domain-general reasoning, and that this is because language's abstraction and compression makes general inference computationally tractable; uses the evidence from LLMs to support the thesis that language has a transformative effect on cognition, not merely an expressive one.</span></li>
-<li>Lupyan and Bergen, <a href="https://doi.org/10.1111/tops.12155">"How Language Programs the Mind"</a> (2016)<br><span style="font-size:0.85em;color:#777;">Argues from cognitive psychology that language actively shapes thought rather than merely expressing it — linguistic labels influence perception, categorisation, and memory — provides a different view of the cognitive utility of language.</span></li>
-</ul>
-
-*Supplementary:* Fedorenko et al., ["Language is Primarily a Tool for Communication Rather than Thought,"](https://doi.org/10.1038/s41586-024-07522-w) *Nature* (2024); Griffiths et al., ["Whither Symbols in the Era of Advanced Neural Networks?"](https://arxiv.org/abs/2508.05776) (2025)
 
 <br>
 
