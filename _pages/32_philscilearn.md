@@ -108,10 +108,11 @@ Only AI systems trained extensively on natural language exhibit powerful domain-
 
 <ul>
 <li>Rothschild, <a href="http://danielrothschild.com/materials/languageandthoughtllm.pdf">"Language and Thought: The View from LLMs"</a> (2024)<br><span style="font-size:0.85em;color:#777;">Argues that only AI systems extensively trained on natural language exhibit powerful domain-general reasoning, and that this is because language's abstraction and compression makes general inference computationally tractable; uses the evidence from LLMs to support the thesis that language has a transformative effect on cognition, not merely an expressive one.</span></li>
+<li>Fedorenko, Piantadosi and Gibson, <a href="/materials/Fedorenko.pdf">"Language is Primarily a Tool for Communication Rather than Thought,"</a> <em>Nature</em> (2024)<br><span style="font-size:0.85em;color:#777;">Argues from neuroscience and behaviour that the brain's language network is engaged in linguistic processing but largely inactive during non-linguistic reasoning tasks, and that aphasia leaves many forms of thought intact; concludes that language is shaped for communication rather than thought. An opposing view to mine.</span></li>
 <li>Lupyan and Bergen, <a href="https://doi.org/10.1111/tops.12155">"How Language Programs the Mind"</a> (2016)<br><span style="font-size:0.85em;color:#777;">Argues from cognitive psychology that language actively shapes thought rather than merely expressing it — linguistic labels influence perception, categorisation, and memory — provides a different view of the cognitive utility of language.</span></li>
 </ul>
 
-*Supplementary:* Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024); Fedorenko et al., ["Language is Primarily a Tool for Communication Rather than Thought,"](https://doi.org/10.1038/s41586-024-07522-w) *Nature* (2024); Griffiths et al., ["Whither Symbols in the Era of Advanced Neural Networks?"](https://arxiv.org/abs/2508.05776) (2025)
+*Supplementary:* Mahowald et al., ["Dissociating Language and Thought in Large Language Models,"](https://arxiv.org/abs/2301.06627) *Trends in Cognitive Sciences* (2024); Griffiths et al., ["Whither Symbols in the Era of Advanced Neural Networks?"](https://arxiv.org/abs/2508.05776) (2025)
 
 
 <span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
