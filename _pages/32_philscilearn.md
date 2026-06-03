@@ -118,17 +118,18 @@ Only AI systems trained extensively on natural language exhibit powerful domain-
 <span class="titleblack">4 JUNE 1-3pm:</span> <span class = "titlethin"> STUDENT PRESENTATIONS </span>  <br>
 
 
-<span class="titleblack">9 JUNE, 1-4pm:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
+<span class="titleblack">8 JUNE (MONDAY), 1-4pm:</span> <span class = "titlethin"> REINFORCEMENT LEARNING AND MOTIVATION </span>  <br>
 
 Reinforcement learning is introduced technically — temporal difference learning, value functions, Deep Q-learning — before the session pivots to ask what the reward signal actually is for human learners, whether understanding itself can be intrinsically rewarding, and what kind of values are coherent enough to specify an objective function at all.
 
 <ul>
 <li>Sutton and Barto, <a href="http://incompleteideas.net/book/the-book-2nd.html"><em>Reinforcement Learning: An Introduction</em></a>, Chapter 1 (2018)<br><span style="font-size:0.85em;color:#777;">Introduces the reinforcement learning framework — agent, environment, state, reward, policy — and motivates it as the paradigm for goal-directed learning from interaction without labeled examples; frames RL as a third learning paradigm alongside supervised and unsupervised learning.</span></li>
+<li>Silver, Singh, Precup and Sutton, <a href="https://doi.org/10.1016/j.artint.2021.103535">"Reward is Enough,"</a> <em>Artificial Intelligence</em> (2021)<br><span style="font-size:0.85em;color:#777;">The maximal statement of the externalist view: that maximising a single scalar reward signal in a sufficiently rich environment is enough to drive the emergence of all the abilities associated with intelligence — perception, language, memory, planning. The strongest foil for the session's question of where the reward signal comes from and whether the learner can revise what counts as rewarding.</span></li>
 <li>Gopnik, <a href="https://doi.org/10.1023/A:1008290415597">"Explanation as Orgasm"</a> (1998)<br><span style="font-size:0.85em;color:#777;">Argues that explanation is intrinsically rewarding — the felt sense of understanding is a form of positive affect that motivates curiosity-driven learning — raising the question of what the reward signal actually is for human learners and whether it can be reduced to any simple objective function.</span></li>
 <li>Christian, <em>The Alignment Problem</em> (selections) (2020)<br><span style="font-size:0.85em;color:#777;">Explores the difficulty of specifying reward functions that genuinely capture human values: the problem of reward hacking, Goodhart's law, and the gap between proxy objectives and what we actually want — raising the question of whether any formal objective function can adequately represent the goals that motivate biological learners.</span></li>
 </ul>
 
-*Supplementary:* Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
+*Supplementary:* Singh, Lewis and Barto, ["Where Do Rewards Come From?"](https://all.cs.umass.edu/pubs/2009/singh_l_b_09.pdf) (2009); Dwarkesh Patel, [Interview with Richard Sutton](https://www.dwarkesh.com/p/richard-sutton) (podcast)
 
 <br>
 
